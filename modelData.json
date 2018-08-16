@@ -1,0 +1,27 @@
+{
+	"models": [{
+			"modelName": "Lighting Panels",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/panel.fbx"
+
+		},
+		{
+			"modelName": "Power Panels",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/UPB.fbx"
+
+		},
+		{
+			"modelName": "Safety Switches",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/WSS.fbx"
+
+		}, {
+			"modelName": "Load Centers",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/LCWG.fbx"
+
+		}
+	]
+
+}
