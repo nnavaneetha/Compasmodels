@@ -21,6 +21,51 @@
 			"version": "1",
 			"url": "https://github.com/duraipirashanna/3dModels/raw/master/LCWG.fbx"
 
+		}, {
+			"modelName": "Medium voltage gas insulated switchgear",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/powermod1.fbx"
+
+		}, {
+			"modelName": "Low voltage motor control center",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/model95.fbx"
+
+		}, {
+			"modelName": "Medium voltage motor controllers",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/model95%2B.fbx"
+
+		}, {
+			"modelName": "Medium voltage motor controllers",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/Siemens%20Tiastar.fbx"
+
+		}, {
+			"modelName": "Medium-voltage metal-clad switchgear",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/Medium%20voltage%20metal%20clad%20switchgear.fbx"
+
+		}, {
+			"modelName": "Switchboards",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/DistributionSwitchboardstwo.fbx"
+
+		}, {
+			"modelName": "Distribution Switchboards",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/DistributionSwitchboards.fbx"
+
+		}, {
+			"modelName": "Commercial Multi-Metering Switchboards",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/Commercial%20Multi-Metering%20Switchboards.fbx"
+
+		}, {
+			"modelName": "Transformers",
+			"version": "1",
+			"url": "https://github.com/duraipirashanna/3dModels/raw/master/transformer.fbx"
+
 		}
 	]
 
