@@ -65,7 +65,7 @@
 			"modelName": "Distribution Switchboards",
 			"version": "1",
 			"url": "https://github.com/duraipirashanna/3dModels/raw/master/DistributionSwitchboards.fbx",
-			"hotspotUrl":""
+			"hotspotUrl":"https://raw.githubusercontent.com/duraipirashanna/3dModels/master/DistributionSwitchboards.json"
 
 		}, {
 			"modelName": "Commercial Multi-Metering Switchboards",
