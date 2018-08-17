@@ -1,0 +1,12 @@
+{
+  "nodeName": "Commercial Multi-Metering Switchboards",
+  "hotspots":[{
+    "x":-31.25,"y":76.03,"z":-14.57,"details":"","tag":"one"
+  },{
+    "x":-31.25,"y":6.94,"z":-14.57,"details":"","tag":"two"
+  },{
+    "x":-19.59,"y":73.60,"z":-14.57,"details":"","tag":"three"
+  },{
+    "x":-21.73,"y":7.78,"z":-14.57,"details":"","tag":"four"
+  }]
+}
