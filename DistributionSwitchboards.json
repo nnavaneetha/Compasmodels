@@ -1,0 +1,12 @@
+{
+  "nodeName": "DistributionSwitchboards",
+  "hotspots":[{
+    "x":-45.32,"y":111.47,"z":-23.19,"details":"","tag":"one"
+  },{
+    "x":-45.32,"y":12.85,"z":-23.19,"details":"","tag":"two"
+  },{
+    "x":-27.19,"y":110.08,"z":-23.19,"details":"","tag":"three"
+  },{
+    "x":-28.77,"y":13.22,"z":-23.19,"details":"","tag":"four"
+  }]
+}
