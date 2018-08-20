@@ -1,11 +1,5 @@
 {
-	"models": [{
-			"modelName": "Lighting Panels",
-			"version": "1",
-			"url": "https://github.com/duraipirashanna/3dModels/raw/master/panel.fbx",
-			"hotspotUrl":""
-
-		},
+	"models": [
 		{
 			"modelName": "Power Panels",
 			"version": "1",
