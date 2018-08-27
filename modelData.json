@@ -1,13 +1,6 @@
 {
 	"models": [
 		{
-			"modelName": "Construction Control",
-			"version": "2",
-			"url": "https://github.com/duraipirashanna/3dModels/raw/master/mccAnimationBinary.fbx",
-			"hotspotUrl":""
-
-		},
-		{
 			"modelName": "Power Panels",
 			"version": "1",
 			"url": "https://github.com/duraipirashanna/3dModels/raw/master/UPB.fbx",
