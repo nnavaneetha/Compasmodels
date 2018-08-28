@@ -59,13 +59,13 @@
 			"modelName": "Distribution Switchboards",
 			"version": "3",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/SB3.fbx",
-			"hotspotUrl":"https://raw.githubusercontent.com/duraipirashanna/3dModels/master/DistributionSwitchboards.json"
+			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json"
 
 		}, {
 			"modelName": "Commercial Multi-Metering Switchboards",
 			"version": "1",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Commercial%20Multi-Metering%20Switchboards.fbx",
-			"hotspotUrl":"https://raw.githubusercontent.com/duraipirashanna/3dModels/master/Commercial%20Multi-Metering%20Switchboards.json"
+			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Commercial%20Multi-Metering%20Switchboards.json"
 
 		}, {
 			"modelName": "Transformers",
