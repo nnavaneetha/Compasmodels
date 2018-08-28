@@ -1,6 +1,13 @@
 {
 	"models": [
 		{
+			"modelName": "Busway Systems",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/busway_animation.fbx",
+			"hotspotUrl":""
+
+		},
+		{
 			"modelName": "Power Panels",
 			"version": "1",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/UPB.fbx",
