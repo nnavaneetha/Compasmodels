@@ -22,8 +22,8 @@
 
 		}, {
 			"modelName": "Load Centers",
-			"version": "1",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/LCWG.fbx",
+			"version": "2",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/LCWG(Animation).fbx",
 			"hotspotUrl":""
 
 		}, {
@@ -64,8 +64,8 @@
 
 		}, {
 			"modelName": "Distribution Switchboards",
-			"version": "3",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/SB3.fbx",
+			"version": "4",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/SB3(Animation).fbx",
 			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json"
 
 		}, {
