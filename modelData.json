@@ -9,15 +9,15 @@
 		},
 		{
 			"modelName": "Power Panels",
-			"version": "1",
+			"version": "2",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/upb(Animation).fbx",
 			"hotspotUrl":""
 
 		},
 		{
 			"modelName": "Safety Switches",
-			"version": "1",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/WSS.fbx",
+			"version": "2",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/wss(Animation).fbx",
 			"hotspotUrl":""
 
 		}, {
@@ -64,7 +64,7 @@
 
 		}, {
 			"modelName": "Distribution Switchboards",
-			"version": "4",
+			"version": "5",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/SB3(Animation).fbx",
 			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json"
 
