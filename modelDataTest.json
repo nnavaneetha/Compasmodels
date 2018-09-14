@@ -25,8 +25,8 @@
 
 		}, {
 			"modelName": "Load Centers",
-			"version": "4",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/LCWG_tiltlabs.fbx",
+			"version": "3",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/LCWG_tiltlabs01.fbx",
 			"hotspotUrl":"",
 			"animations": [{"node":"door","animation":"Show Door"},{"node":"breaker","animation":"Show breaker"}]
 
