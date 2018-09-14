@@ -10,7 +10,7 @@
 		},
 		{
 			"modelName": "Power Panels",
-			"version": "3",
+			"version": "4",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/UPB_tiltlabs.fbx",
 			"hotspotUrl":"",
 			"animations": [{"node":"Front","animation":"Show Front Door"},{"node":"Box","animation":"Show Cover"},{"node":"JDLD","animation":"Show JDLD"}]
