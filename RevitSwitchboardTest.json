@@ -1,5 +1,5 @@
-{
- 	"fileName": "",
- 	"rfaFilePath": "",
- 	"rvtContent": "ROOTKB|||||||;\r\nROOT|;\r\nSECTION|0.00|0.00|0.0|90.00|32.00|75.00|TYZ:SWITCHGEAR;\r\nSECTION|32.00|0.00|0.0|90.00|32.00|75.00|TYZ:SWITCHGEAR;\r\n"
- }
+[{
+	"fileName": "",
+	"rfaFilePath": "",
+	"rvtContent": "ROOTKB|||||||;\r\nROOT|;\r\nSECTION|0.00|0.00|0.0|90.00|32.00|75.00|TYZ:SWITCHGEAR;\r\nSECTION|32.00|0.00|0.0|90.00|32.00|75.00|TYZ:SWITCHGEAR;\r\n"
+}]
