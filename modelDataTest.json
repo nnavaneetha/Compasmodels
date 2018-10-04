@@ -18,14 +18,14 @@
 		},
 		{
 			"modelName": "Safety Switches",
-			"version": "2",
+			"version": "3",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/WSS_tiltlabs.fbx",
 			"hotspotUrl":"",
 			"animations": []
 
 		}, {
 			"modelName": "Load Centers",
-			"version": "4",
+			"version": "5",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/LCWG_tiltlabs.fbx",
 			"hotspotUrl":"",
 			"animations": [{"node":"door","animation":"Show Door"},{"node":"breaker","animation":"Show breaker"}]
