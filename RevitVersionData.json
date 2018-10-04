@@ -1,0 +1,9 @@
+{
+	"models": [{
+		"fileName": "TYZSB_SWITCHBOARD",
+		"version": "1"
+	}, {
+		"fileName": "TYZSWITCHGEAR",
+		"version": "1"
+	}]
+}
