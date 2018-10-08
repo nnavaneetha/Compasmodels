@@ -72,6 +72,13 @@
 			"hotspotUrl":"",
 			"animations": []
 
+		},{
+			"modelName": "Switchgear",
+			"version": "6",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
 		}, {
 			"modelName": "Distribution Switchboards",
 			"version": "11",
