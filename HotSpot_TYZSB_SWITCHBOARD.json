@@ -1,0 +1,12 @@
+{
+  "nodeName": "TYZSB_SWITCHBOARD",
+  "hotspots":[{
+    "x":-45.32,"y":111.47,"z":-23.19,"details":"Service Entrance Section","tag":"one"
+  },{
+    "x":-45.32,"y":12.85,"z":-23.19,"details":"Distribution switchboards provide the rugged construction and service flexibility necessary in systems for industrial plants, hi-rise complexes, hospitals and commercial buildings","tag":"two"
+  },{
+    "x":-27.19,"y":110.08,"z":-23.19,"details":"Ventilation for cool air circulation","tag":"three"
+  },{
+    "x":-28.77,"y":13.22,"z":-23.19,"details":"Ventilation for cool air circulation","tag":"four"
+  }]
+}
