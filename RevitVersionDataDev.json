@@ -1,12 +1,12 @@
 {
 	"models": [{
 		"fileName": "TYZSB_SWITCHBOARD",
-		"version": "2",
+		"version": "3",
 		"hotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotSpot_TYZSB_SWITCHBOARD.json"
 
 	}, {
 		"fileName": "TYZSWITCHGEAR",
-		"version": "3",
+		"version": "4",
 		"hotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotSpot_TYZSB_SWITCHBOARD.json"
 
 	}]
