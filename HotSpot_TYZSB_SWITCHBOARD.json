@@ -1,12 +1,39 @@
 {
-  "nodeName": "TYZSB_SWITCHBOARD",
-  "hotspots":[{
-    "x":-45.32,"y":111.47,"z":-23.19,"details":"Service Entrance Section","tag":"one"
-  },{
-    "x":-45.32,"y":12.85,"z":-23.19,"details":"Distribution switchboards provide the rugged construction and service flexibility necessary in systems for industrial plants, hi-rise complexes, hospitals and commercial buildings","tag":"two"
-  },{
-    "x":-27.19,"y":110.08,"z":-23.19,"details":"Ventilation for cool air circulation","tag":"three"
-  },{
-    "x":-28.77,"y":13.22,"z":-23.19,"details":"Ventilation for cool air circulation","tag":"four"
-  }]
+	"nodeName": "TYZSB_SWITCHBOARD",
+	"hotspots": [{
+		"x": -31.25,
+		"y": 76.03,
+		"z": -14.57,
+		"details": "Service Entrance Section",
+		"tag": "one",
+		"type": "text"
+	}, {
+		"x": -31.25,
+		"y": 6.94,
+		"z": -14.57,
+		"details": "These switchboards can be customized for each application. Completely engineered and assembled, the switchboards require minimal field assembly and can be modified to meet any requirements of member utilities and municipalities.",
+		"tag": "two",
+		"type": "text"
+	}, {
+		"x": -19.59,
+		"y": 73.60,
+		"z": -14.57,
+		"details": "Ventilation for cool air circulation",
+		"tag": "three",
+		"type": "text"
+	}, {
+		"x": -21.73,
+		"y": 7.78,
+		"z": -14.57,
+		"details": "Ventilation for cool air circulation",
+		"tag": "four",
+		"type": "text"
+	}, {
+		"x": -21.73,
+		"y": 20.78,
+		"z": -14.57,
+		"details": "Ventilation for cool air circulation",
+		"tag": "five",
+		"type": "widget"
+	}]
 }
