@@ -88,7 +88,7 @@
 
 		}, {
 			"modelName": "Commercial Multi-Metering Switchboards",
-			"version": "1",
+			"version": "2",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Commercial%20Multi-Metering%20Switchboards.fbx",
 			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotCommercialMultiMeteringSwitchboards.json",
 			"animations": []
