@@ -11,8 +11,18 @@
 
 	}, {
 		"fileName": "Default",
-		"version": "2",
-		"hotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotSpot_TYZSB_SWITCHBOARD.json"
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "C1",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "P1",
+		"version": "1",
+		"hotspotUrl": ""
 
 	}]
 }
