@@ -24,5 +24,20 @@
 		"version": "2",
 		"hotspotUrl": ""
 
+	}, {
+		"fileName": "MainHCP",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "HCP",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "Provision",
+		"version": "1",
+		"hotspotUrl": ""
+
 	}]
 }
