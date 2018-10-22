@@ -64,5 +64,35 @@
 		"version": "1",
 		"hotspotUrl": ""
 
+	}, {
+		"fileName": "TYZSB_SECTION",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZLV_SECTION",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZLV_COMPT",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZSB_FDR_HCP",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZSB_VLMCCB",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZSB_UNT_SPCE",
+		"version": "1",
+		"hotspotUrl": ""
+
 	}]
 }
