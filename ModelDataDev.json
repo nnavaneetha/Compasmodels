@@ -102,7 +102,7 @@
 
 		}, {
 			"modelName": "Busway Run",
-			"version": "2",
+			"version": "1",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/BuswayRun.fbx",
 			"hotspotUrl":"",
 			"animations": []
