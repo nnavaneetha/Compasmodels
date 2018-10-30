@@ -109,7 +109,7 @@
 
 		}, {
 			"modelName": "Busway Layout",
-			"version": "5",
+			"version": "3",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Buswaylayouttexturewithoutspace.fbx",
 			"hotspotUrl":"",
 			"animations": []
