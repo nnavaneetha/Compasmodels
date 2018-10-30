@@ -109,8 +109,15 @@
 
 		}, {
 			"modelName": "Busway Layout",
-			"version": "3",
+			"version": "4",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/BuswayLayoutWithTextures.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Building Layout",
+			"version": "3",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/104241525/BuildingLayout",
 			"hotspotUrl":"",
 			"animations": []
 
