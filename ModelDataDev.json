@@ -109,8 +109,8 @@
 
 		}, {
 			"modelName": "Busway Layout",
-			"version": "5",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/BuswayLayoutWithAnimation1.fbx",
+			"version": "4",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/BuswayLayoutWithTextures.fbx",
 			"hotspotUrl":"",
 			"animations": []
 
