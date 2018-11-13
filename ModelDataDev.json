@@ -121,6 +121,13 @@
 			"hotspotUrl":"",
 			"animations": []
 
+		}, {
+			"modelName": "testmodel",
+			"version": "4",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/testmodel.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
 		}
 
 	]
