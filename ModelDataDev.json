@@ -82,7 +82,7 @@
 		}, {
 			"modelName": "Distribution Switchboards",
 			"version": "11",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/testmodel.fbx",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/SB3_tiltlabs.fbx",
 			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json",
 			"animations": []
 
