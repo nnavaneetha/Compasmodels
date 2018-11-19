@@ -93,28 +93,7 @@
 			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotCommercialMultiMeteringSwitchboards.json",
 			"animations": []
 
-		},  {
-			"modelName": "Busway Run",
-			"version": "2",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/BuswayRun.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
-			"modelName": "Busway Layout",
-			"version": "2",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/BuswayLayoutWithAnimation1.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
-			"modelName": "Building Layout",
-			"version": "4",
-			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/104241525/BuildingLayout",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
+		},   {
 			"modelName": "testmodel",
 			"version": "5",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/testmodel.fbx",
