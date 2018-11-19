@@ -5,7 +5,7 @@
 			"version": "1",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/busway_animation.fbx",
 			"hotspotUrl":"",
-			"animations": [{"node":"busmounting","animation":"32W Thru Bus Support Cross Channel 12-D-6000-01"},{"node":"frame","animation":"Show Frame"},{"node":"frontDoor","animation":"Show Front Door"},{"node":"rear","animation":"Show Rear"},{"node":"linelug","animation":"Show Neturallug"}]
+			"animations": [{"node":"busmounting","animation":"Bus Support Cross Channel"},{"node":"frame","animation":"Show Frame"},{"node":"frontDoor","animation":"Show Front Door"},{"node":"rear","animation":"Show Rear"},{"node":"linelug","animation":"Show Neturallug"}]
 
 		},
 		{
