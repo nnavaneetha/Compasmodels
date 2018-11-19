@@ -37,14 +37,7 @@
 			"hotspotUrl":"",
 			"animations": []
 
-		}, {
-			"modelName": "95+",
-			"version": "3",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/file5.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
+		},{
 			"modelName": "Switchboards",
 			"version": "6",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/SwitchBoard.fbx",
