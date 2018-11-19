@@ -93,14 +93,7 @@
 			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotCommercialMultiMeteringSwitchboards.json",
 			"animations": []
 
-		}, {
-			"modelName": "Transformers",
-			"version": "1",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/transformer.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
+		},  {
 			"modelName": "Busway Run",
 			"version": "2",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/BuswayRun.fbx",
