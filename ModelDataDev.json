@@ -58,14 +58,7 @@
 			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json",
 			"animations": []
 
-		}, {
-			"modelName": "Commercial Multi-Metering Switchboards",
-			"version": "2",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Commercial%20Multi-Metering%20Switchboards.fbx",
-			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotCommercialMultiMeteringSwitchboards.json",
-			"animations": []
-
-		},   {
+		},  {
 			"modelName": "testmodel",
 			"version": "5",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/testmodel.fbx",
