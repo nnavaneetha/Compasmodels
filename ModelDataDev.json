@@ -45,13 +45,6 @@
 			"animations": []
 
 		}, {
-			"modelName": "Medium-voltage metal-clad switchgear",
-			"version": "1",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Medium%20voltage%20metal%20clad%20switchgear.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
 			"modelName": "Switchboards",
 			"version": "6",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/SwitchBoard.fbx",
