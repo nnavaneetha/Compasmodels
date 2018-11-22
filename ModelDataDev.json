@@ -37,7 +37,35 @@
 			"hotspotUrl":"",
 			"animations": []
 
-		},{
+		}, {
+			"modelName": "Low-voltage motor control centers",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/model95.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "95+",
+			"version": "3",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/file5.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Medium-voltage motor controllers",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Siemens%20Tiastar.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Medium-voltage metal-clad switchgear",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Medium%20voltage%20metal%20clad%20switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
 			"modelName": "Switchboards",
 			"version": "6",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/SwitchBoard.fbx",
@@ -58,7 +86,15 @@
 			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json",
 			"animations": []
 
-		},  {
+		}, {
+			"modelName": "Commercial Multi-Metering Switchboards",
+			"version": "2",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Commercial%20Multi-Metering%20Switchboards.fbx",
+			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotCommercialMultiMeteringSwitchboards.json",
+			"animations": []
+
+		},{
+
 			"modelName": "testmodel",
 			"version": "5",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/testmodel.fbx",
@@ -69,6 +105,13 @@
 			"modelName": "testmodel1",
 			"version": "5",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/testmodel1.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		},{
+			"modelName": "Transformers",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/transformer.fbx",
 			"hotspotUrl":"",
 			"animations": []
 
