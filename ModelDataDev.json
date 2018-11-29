@@ -39,7 +39,7 @@
 
 		}, {
 			"modelName": "Low-voltage motor control centers",
-			"version": "1",
+			"version": "2",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/model95.fbx",
 			"hotspotUrl":"",
 			"animations": []
@@ -53,7 +53,7 @@
 
 		}, {
 			"modelName": "Medium-voltage motor controllers",
-			"version": "1",
+			"version": "2",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Siemens%20Tiastar.fbx",
 			"hotspotUrl":"",
 			"animations": []
@@ -88,7 +88,7 @@
 
 		}, {
 			"modelName": "Commercial Multi-Metering Switchboards",
-			"version": "2",
+			"version": "3",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Commercial%20Multi-Metering%20Switchboards.fbx",
 			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotCommercialMultiMeteringSwitchboards.json",
 			"animations": []
