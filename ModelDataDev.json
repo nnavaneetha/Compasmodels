@@ -52,13 +52,6 @@
 			"animations": []
 
 		}, {
-			"modelName": "Medium-voltage motor controllers",
-			"version": "2",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Siemens%20Tiastar.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
 			"modelName": "Medium-voltage metal-clad switchgear",
 			"version": "1",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Medium%20voltage%20metal%20clad%20switchgear.fbx",
