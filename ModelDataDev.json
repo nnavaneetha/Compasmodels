@@ -45,13 +45,6 @@
 			"animations": []
 
 		}, {
-			"modelName": "Medium-voltage metal-clad switchgear",
-			"version": "1",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Medium%20voltage%20metal%20clad%20switchgear.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
 			"modelName": "Switchboards",
 			"version": "6",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/SwitchBoard.fbx",
@@ -73,13 +66,6 @@
 			"animations": []
 
 		}, {
-			"modelName": "Commercial Multi-Metering Switchboards",
-			"version": "4",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Commercial%20Multi-Metering%20Switchboards.fbx",
-			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotCommercialMultiMeteringSwitchboards.json",
-			"animations": []
-
-		},{
 
 			"modelName": "testmodel",
 			"version": "5",
@@ -94,14 +80,7 @@
 			"hotspotUrl":"",
 			"animations": []
 
-		},{
-			"modelName": "Transformers",
-			"version": "1",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/transformer.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}
+		},
 
 	]
 
