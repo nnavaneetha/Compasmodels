@@ -7,16 +7,14 @@
 			"hotspotUrl":"",
 			"animations": [{"node":"busmounting","animation":"Bus Support Cross Channel"},{"node":"frame","animation":"Show Frame"},{"node":"frontDoor","animation":"Show Front Door"},{"node":"rear","animation":"Show Rear"},{"node":"linelug","animation":"Show Neturallug"}]
 
-		},
-		{
+		}, {
 			"modelName": "Power Panels",
 			"version": "11",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/UPB_tiltlabs.fbx",
 			"hotspotUrl":"",
 			"animations": [{"node":"Front","animation":"Show Front Door"},{"node":"Box","animation":"Show Cover"},{"node":"JDLD","animation":"Show JDLD"}]
 
-		},
-		{
+		}, {
 			"modelName": "Safety Switches",
 			"version": "3",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/WSS_tiltlabs.fbx",
@@ -51,7 +49,7 @@
 			"hotspotUrl":"",
 			"animations": []
 
-		},{
+		}, {
 			"modelName": "Switchgear",
 			"version": "6",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Switchgear.fbx",
