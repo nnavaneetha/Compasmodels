@@ -2,7 +2,7 @@
 	"models": [
 		{
 			"modelName": "Busway Systems",
-			"version": "1",
+			"version": "2",
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/busway_animation.fbx",
 			"hotspotUrl":"",
 			"animations": [{"node":"busmounting","animation":"Bus Support Cross Channel"},{"node":"frame","animation":"Show Frame"},{"node":"frontDoor","animation":"Show Front Door"},{"node":"rear","animation":"Show Rear"},{"node":"linelug","animation":"Show Neturallug"}]
