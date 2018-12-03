@@ -1,4 +1,4 @@
 {
-	"url": ["https://compas.custhelp.com/app/chat/chat_landing/", "2.compasquality.siemens-info.com/DMS_Transaction/"],
-	"version": "1"
+	"url": ["https://compas.custhelp.com/app/chat/chat_landing/", "2.compasquality.siemens-info.com/DMS_Transaction/","2.compasquality.siemens-info.com/mCompas_ScanQR/Compas/ManageJob#!/scanQR/"],
+	"version": "2"
 }
