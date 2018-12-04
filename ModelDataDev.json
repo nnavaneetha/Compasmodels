@@ -10,7 +10,7 @@
 		}, {
 			"modelName": "Power Panels",
 			"version": "11",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/UPB_tiltlabs.fbx",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/UPB_tiltlabs.fbx",
 			"hotspotUrl":"",
 			"animations": [{"node":"Front","animation":"Show Front Door"},{"node":"Box","animation":"Show Cover"},{"node":"JDLD","animation":"Show JDLD"}]
 
