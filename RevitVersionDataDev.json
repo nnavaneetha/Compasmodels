@@ -1,7 +1,7 @@
 {
 	"models": [{
 		"fileName": "TYZSB_SWITCHBOARD",
-		"version": "7",
+		"version": "8",
 		"hotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotSpot_TYZSB_SWITCHBOARD.json"
 
 	}, {
