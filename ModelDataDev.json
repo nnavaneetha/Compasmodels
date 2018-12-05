@@ -2,22 +2,22 @@
 	"models": [
 		{
 			"modelName": "Busway Systems",
-			"version": "2",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/busway_animation.fbx",
+			"version": "3",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/busway_animation.fbx",
 			"hotspotUrl":"",
 			"animations": [{"node":"busmounting","animation":"Bus Support Cross Channel"},{"node":"frame","animation":"Show Frame"},{"node":"frontDoor","animation":"Show Front Door"},{"node":"rear","animation":"Show Rear"},{"node":"linelug","animation":"Show Neturallug"}]
 
 		}, {
 			"modelName": "Power Panels",
-			"version": "11",
+			"version": "12",
 			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/UPB_tiltlabs.fbx",
 			"hotspotUrl":"",
 			"animations": [{"node":"Front","animation":"Show Front Door"},{"node":"Box","animation":"Show Cover"},{"node":"JDLD","animation":"Show JDLD"}]
 
 		}, {
 			"modelName": "Safety Switches",
-			"version": "3",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/WSS_tiltlabs.fbx",
+			"version": "4",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/WSS_tiltlabs.fbx",
 			"hotspotUrl":"",
 			"animations": []
 
@@ -27,6 +27,13 @@
 			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/LCWG_tiltlabs.fbx",
 			"hotspotUrl":"",
 			"animations": [{"node":"door","animation":"Show Door"},{"node":"breaker","animation":"Show breaker"}]
+
+		}, {
+			"modelName": "Medium-voltage metal-clad switchgear",
+			"version": "1",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Medium voltage metal clad switchgear.fbx?version=2.0",
+			"hotspotUrl":"",
+			"animations": []
 
 		}, {
 			"modelName": "Medium-voltage gas-insulated switchgear",
@@ -51,8 +58,8 @@
 
 		}, {
 			"modelName": "Switchgear",
-			"version": "6",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Switchgear.fbx",
+			"version": "7",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Switchgear.fbx",
 			"hotspotUrl":"",
 			"animations": []
 
