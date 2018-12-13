@@ -1,8 +1,8 @@
 {
 
-	"url": "https://beta.compasquality.siemens-info.com/mCompas/",
+	"url": "https://dev2.compasquality.siemens-info.com/mCompas_SQR/",
 	"q2url": "https://q2.compasquality.siemens-info.com/mCompas_SQR/",
-	"betaUrl": "https://dev2.compasquality.siemens-info.com/mCompas_SQR/",
-	"version": "5"
+	"betaUrl": "https://beta.compasquality.siemens-info.com/mCompas/",
+	"version": "6"
 
 }
