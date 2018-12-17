@@ -1,11 +1,10 @@
 {
 
 	"url": [
-		"http://www.google.com/",
-		"https://q2.compasquality.siemens-info.com/mCompas_SQR/",
+		"https://dev2.compasquality.siemens-info.com/mCompas_SQR/",
 		"https://q2.compasquality.siemens-info.com/mCompas_SQR/",
 		"https://beta.compasquality.siemens-info.com/mCompas/"
 			],
-	"version": "2"
+	"version": "1"
 
 }
