@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4103999414
+CRC: 393946392
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 619abcc8114b842cb9e9fb28ecc35dbf
+    Hash: 760550854cafc3147ebfd8e2f5f63426
   TypeTreeHash:
     serializedVersion: 2
     Hash: b74558a0ec7a156c1c257f4404504ba1
@@ -30,5 +30,6 @@ ClassTypes:
 - Class: 111
   Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/Resources/Prefabs/TYZSB_SECTION.prefab
+- Assets/Scenes/TYZSB_SWITCHBOARD (3).prefab
+- Assets/CompasModels/Resources/Prefabs/dynamic/TYZSB_SECTION.prefab
 Dependencies: []
