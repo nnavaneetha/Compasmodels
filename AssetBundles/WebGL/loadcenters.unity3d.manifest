@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3418570405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6483a93e6768d8dcc07bb2f4a808daf5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43cee124096b66fa7a7242c035b3e89b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Resources/Prefabs/static/LoadCenters.prefab
+Dependencies: []
