@@ -6,7 +6,7 @@
 		"https://beta.compasquality.siemens-info.com/mCompas/",
 		"https://www.compas.siemens-info.com/mCompas/"
 	],
-	"useSandy": false,
-	"version": "1"
+	"useSandy": true,
+	"version": "2"
 
 }
