@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2486356186
+CRC: 147792151
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2ee764c5a3baa2f87f2e722af41a9611
+    Hash: 00ce3a46beae2f221cb91b71b327d549
   TypeTreeHash:
     serializedVersion: 2
     Hash: 036dd24631ada9e80c7c8b7570f48b9f
@@ -34,7 +34,7 @@ Assets:
 - Assets/CompasModels/Dynamic/TYZPB_INTERIOR/lambert2.mat
 - Assets/CompasModels/Dynamic/TYZPB_INTERIOR/panelBoards_anim_05_brushedAlumDark.mat
 - Assets/CompasModels/Dynamic/TYZPB_INTERIOR/screws_mat.mat
-- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/P1.fbx
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/TYZPB_INTERIOR.fbx
 - Assets/CompasModels/Dynamic/TYZPB_INTERIOR/main_mid_mat.mat
 - Assets/CompasModels/Dynamic/TYZPB_INTERIOR/mainMetal.mat
 - Assets/CompasModels/Dynamic/TYZPB_INTERIOR/door_mat.mat
