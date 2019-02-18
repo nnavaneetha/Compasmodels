@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3384062765
+CRC: 640133761
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 00508314ab94d0e78a68e34adc941022
+    Hash: 6428b426d25085d911e3b271cc30e596
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b74558a0ec7a156c1c257f4404504ba1
+    Hash: 43cee124096b66fa7a7242c035b3e89b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,5 +30,5 @@ ClassTypes:
 - Class: 111
   Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/Resources/Prefabs/TYZSWITCHGEAR.prefab
+- Assets/CompasModels/Resources/Prefabs/dynamic/TYZSWITCHGEAR.prefab
 Dependencies: []

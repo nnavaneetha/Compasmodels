@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 715686358
+CRC: 2669298537
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ed20e78c12ab963d59d4b9b619232c8e
+    Hash: 70a5967ef684cd44c6cdcd18228473ea
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b74558a0ec7a156c1c257f4404504ba1
+    Hash: 43cee124096b66fa7a7242c035b3e89b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,5 +30,5 @@ ClassTypes:
 - Class: 111
   Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/Resources/Prefabs/DistributionSwitchboards.prefab
+- Assets/CompasModels/Resources/Prefabs/static/DistributionSwitchboards.prefab
 Dependencies: []

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3138391542
+CRC: 1441841029
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1c2ff830597ca26aeafcb7e4a6caae61
+    Hash: bb2857f707cc48d559ff870b3e3e2d55
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9b4f1593cdf7a1ab33da9444111cb398
+    Hash: cb5cff3a1350143ce413b676b0fb473f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,5 +26,5 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/Resources/Prefabs/TYZSB_FDR_HCP.prefab
+- Assets/CompasModels/Resources/Prefabs/dynamic/TYZSB_FDR_HCP.prefab
 Dependencies: []

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3449362908
+CRC: 3418415590
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -100,4 +100,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_32:
       Name: hcp.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: tyzpb_vl_mccb
+      Dependencies: {}
+    Info_34:
+      Name: tyzpb_interior
       Dependencies: {}

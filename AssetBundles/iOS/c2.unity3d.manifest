@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 217516211
+CRC: 3850607897
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e3c2e5efc1a328797def2a7a65bff611
+    Hash: d6b11d0cdc899a5de4d4e7a4657cc16b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9b4f1593cdf7a1ab33da9444111cb398
+    Hash: cb5cff3a1350143ce413b676b0fb473f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,5 +26,5 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/Resources/Prefabs/C2.prefab
+- Assets/CompasModels/Resources/Prefabs/dynamic/C2.prefab
 Dependencies: []

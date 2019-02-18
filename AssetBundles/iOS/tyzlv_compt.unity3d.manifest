@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1818757559
+CRC: 1011621031
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0b835536633b110bf78de7a502e7cd21
+    Hash: 95a7e8303ccb56fc0666542e1f7e7a9d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 813466e6bd79712f10f61108eadcec0d
+    Hash: 798811b7255c82b34a9f8780c2ce846a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,5 +24,5 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/Resources/Prefabs/TYZLV_COMPT.prefab
+- Assets/CompasModels/Resources/Prefabs/dynamic/TYZLV_COMPT.prefab
 Dependencies: []

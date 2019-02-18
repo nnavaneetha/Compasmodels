@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 60020294
+CRC: 2418304015
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d2cc46bb318b2f6681ecf8c15b5ca83a
+    Hash: a47f9ff5a106e560e619ed03681833ef
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9b4f1593cdf7a1ab33da9444111cb398
+    Hash: cb5cff3a1350143ce413b676b0fb473f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,5 +26,5 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/Resources/Prefabs/HCP.prefab
+- Assets/CompasModels/Resources/Prefabs/dynamic/HCP.prefab
 Dependencies: []

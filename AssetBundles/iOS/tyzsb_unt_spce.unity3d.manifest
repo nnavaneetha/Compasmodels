@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4046075139
+CRC: 3406501850
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 432d4bea50b07e3959f45c219792b09b
+    Hash: dbbd5c285c6f9aeb7b13597eb1ff6f6c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9b4f1593cdf7a1ab33da9444111cb398
+    Hash: cb5cff3a1350143ce413b676b0fb473f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,5 +26,5 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/Resources/Prefabs/TYZSB_UNT_SPCE.prefab
+- Assets/CompasModels/Resources/Prefabs/dynamic/TYZSB_UNT_SPCE.prefab
 Dependencies: []
