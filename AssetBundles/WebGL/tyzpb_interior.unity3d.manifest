@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2104728101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4df31d2eb4f8b601f889bbf860db0e83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb5cff3a1350143ce413b676b0fb473f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/plates_mat.mat
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/giantSwitch_mat.mat
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/black_metal.mat
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/lambert2.mat
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/TYZPB_INTERIOR.prefab
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/panelBoards_anim_05_brushedAlumDark.mat
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/screws_mat.mat
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/main_mid_mat.mat
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/mainMetal.mat
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/door_mat.mat
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/lowerBox_mat.mat
+- Assets/CompasModels/Dynamic/TYZPB_INTERIOR/breakers_mat.mat
+Dependencies: []

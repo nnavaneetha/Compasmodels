@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3830328011
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c819cd3edf653be50381697f0540f691
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 036dd24631ada9e80c7c8b7570f48b9f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Dynamic/TYZMC_SECTION/texture.jpg
+- 'Assets/CompasModels/Dynamic/TYZMC_SECTION/Material #2.mat'
+- Assets/CompasModels/Dynamic/TYZMC_SECTION/TYZMC_SECTION.fbx
+- Assets/CompasModels/Dynamic/TYZMC_SECTION/TYZMC_SECTION/TYZMC_SECTION.fbx
+- Assets/CompasModels/Dynamic/TYZMC_SECTION/TYZMC_SECTION/SB3_brkr_Blk.mat
+Dependencies: []
