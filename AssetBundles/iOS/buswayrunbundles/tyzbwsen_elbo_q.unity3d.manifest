@@ -1,18 +1,27 @@
 ManifestFileVersion: 0
-CRC: 1891716171
+CRC: 206510699
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d08160b3efc7b4609a992c99304cc95
+    Hash: 6513203d0b3da783050b403b00065b39
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 51a16e16d5113854a16091e54ae5bb0d
+    Hash: 167aa31745d3c5164e4e318fe386d57f
 HashAppended: 0
 ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
 - Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
 Assets:
+- Assets/CompasModels/BuswayRunModels/TYZBWSEN_ELBO_Q/TYZBWSEN_ELBO_Q.prefab
 - Assets/CompasModels/BuswayRunModels/TYZBWSEN_ELBO_Q/TYZBWSEN_ELBO_Q.mat
 Dependencies: []

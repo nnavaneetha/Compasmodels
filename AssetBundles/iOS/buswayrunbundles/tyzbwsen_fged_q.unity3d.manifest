@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3843714655
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23a20dc1312ae6b28cd5e1b0a37eb7bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 522cbddd99d688a00d90eb32442a4028
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/BuswayRunModels/TYZBWSEN_FGED_Q/TYZBWSEN_FGED_Q.prefab
+Dependencies: []
