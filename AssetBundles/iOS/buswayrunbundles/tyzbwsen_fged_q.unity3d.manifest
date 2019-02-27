@@ -1,19 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1915052053
+CRC: 696783741
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2ab94f46ed13b08f261f41c0a5304dc2
+    Hash: a08ce6e6fa8a2bd473a538bb76b77e6d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: dd7a7454243e10e3f9618de160b13c6e
+    Hash: 798811b7255c82b34a9f8780c2ce846a
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 4
-  Script: {instanceID: 0}
-- Class: 20
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
@@ -26,6 +24,5 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/BuswayRunModels/TYZBWSEN_FGED_Q/TYZBWSEN_FGED_Q.prefab
-- Assets/CompasModels/BuswayRunModels/TYZBWSEN_FGED_Q/Busway-Flanged_End-3DView-View1.fbx
+- Assets/CompasModels/BuswayRunModels/TYZBWSEN_FGED_Q/TYZBWSEN_FGED_Q.fbx
 Dependencies: []
