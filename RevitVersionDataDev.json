@@ -55,6 +55,11 @@
 		"hotspotUrl": ""
 
 	}, {
+		"fileName": "MainHCP3",
+		"version": "4",
+		"hotspotUrl": ""
+
+	}, {
 		"fileName": "HCP",
 		"version": "3",
 		"hotspotUrl": ""
@@ -111,7 +116,7 @@
 
 	}, {
 		"fileName": "BUSWAY_SBD_SLAB",
-		"version": "3",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}, {
@@ -121,22 +126,22 @@
 
 	}, {
 		"fileName": "TYZBWSEN_ELBO_Q",
-		"version": "3",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}, {
 		"fileName": "TYZBWSEN_ETBX_Q",
-		"version": "3",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}, {
 		"fileName": "TYZBWSEN_FEDR_Q",
-		"version": "3",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}, {
 		"fileName": "TYZBWSEN_FGED_Q",
-		"version": "3",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}]
