@@ -1,17 +1,19 @@
 ManifestFileVersion: 0
-CRC: 206510699
+CRC: 2355118324
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6513203d0b3da783050b403b00065b39
+    Hash: b46dc460cb86ef52988a15b8a87f2ee0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 167aa31745d3c5164e4e318fe386d57f
+    Hash: dd7a7454243e10e3f9618de160b13c6e
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 4
+  Script: {instanceID: 0}
+- Class: 20
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
@@ -19,9 +21,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
 Assets:
 - Assets/CompasModels/BuswayRunModels/TYZBWSEN_ELBO_Q/TYZBWSEN_ELBO_Q.prefab
 - Assets/CompasModels/BuswayRunModels/TYZBWSEN_ELBO_Q/TYZBWSEN_ELBO_Q.mat
+- Assets/CompasModels/BuswayRunModels/TYZBWSEN_ELBO_Q/Fitting-Elbow_Stacks-3DView-Preview.fbx
 Dependencies: []

@@ -1,17 +1,19 @@
 ManifestFileVersion: 0
-CRC: 2760907318
+CRC: 2311278470
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9ed887ec5caadbb91a0f4438fbbf4d4b
+    Hash: 60d59ea17e2f509dde772103649952f1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 167aa31745d3c5164e4e318fe386d57f
+    Hash: dd7a7454243e10e3f9618de160b13c6e
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 4
+  Script: {instanceID: 0}
+- Class: 20
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
@@ -19,9 +21,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
 Assets:
 - Assets/CompasModels/BuswayRunModels/TYZBWSEN_ETBX_Q/TYZBWSEN_ETBX_Q.prefab
 - Assets/CompasModels/BuswayRunModels/TYZBWSEN_ETBX_Q/TYZBWSEN_ETBX_Q.mat
+- Assets/CompasModels/BuswayRunModels/TYZBWSEN_ETBX_Q/Fitting-End_Tap_Box-3DView-Preview.fbx
 Dependencies: []
