@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1643793542
+CRC: 1763857438
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -108,23 +108,31 @@ AssetBundleManifest:
       Name: tyzmc_section.unity3d
       Dependencies: {}
     Info_35:
-      Name: busway_sbd_slab.unity3d
-      Dependencies: {}
-    Info_36:
       Name: busway_switch_board.unity3d
       Dependencies: {}
-    Info_37:
+    Info_36:
       Name: tyzbwsen_elbo_q.unity3d
-      Dependencies: {}
-    Info_38:
+      Dependencies:
+        Dependency_0: buswayrunbundles/tyzbwsen_elbo_q.unity3d
+    Info_37:
       Name: tyzbwsen_etbx_q.unity3d
-      Dependencies: {}
-    Info_39:
-      Name: tyzbwsen_fedr_q.unity3d
-      Dependencies: {}
-    Info_40:
+      Dependencies:
+        Dependency_0: buswayrunbundles/tyzbwsen_etbx_q.unity3d
+    Info_38:
       Name: tyzbwsen_fged_q.unity3d
       Dependencies: {}
+    Info_39:
+      Name: buswayrunbundles/tyzbwsen_elbo_q.unity3d
+      Dependencies: {}
+    Info_40:
+      Name: buswayrunbundles/tyzbwsen_etbx_q.unity3d
+      Dependencies: {}
     Info_41:
-      Name: tyzbwsen_tphr.unity3d
+      Name: buswayrunbundles/tyzbwsen_fedr_q.unity3d
+      Dependencies: {}
+    Info_42:
+      Name: buswayrunbundles/tyzbwsen_tphr.unity3d
+      Dependencies: {}
+    Info_43:
+      Name: buswayrunbundles/busway_sbd_slab.unity3d
       Dependencies: {}

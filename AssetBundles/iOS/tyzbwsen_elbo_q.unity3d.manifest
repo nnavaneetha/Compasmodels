@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3797719196
+CRC: 711169636
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 452c0b7186dbfe15fd60d09340aad1c7
+    Hash: e334e81ab80de8937bf96260a8f20168
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ea3f786f3814b1ad9ef2ef747825eec5
+    Hash: e48f829780e32617bde1758dc546420f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,13 +19,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
-- Class: 43
-  Script: {instanceID: 0}
-- Class: 48
-  Script: {instanceID: 0}
-- Class: 65
-  Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/Dynamic/TYZBWSEN_ELBO_Q/TYZBWSEN_ELBO_Q.prefab
-- Assets/CompasModels/Dynamic/TYZBWSEN_ELBO_Q/TYZBWSEN_ELBO_Q.mat
-Dependencies: []
+- Assets/CompasModels/BuswayRunModels/TYZBWSEN_ELBO_Q/TYZBWSEN_ELBO_Q.prefab
+Dependencies:
+- /Users/compas/Desktop/CompasAR/AssetBundles/iOS/buswayrunbundles/tyzbwsen_elbo_q.unity3d

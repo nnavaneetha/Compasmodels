@@ -1,30 +1,22 @@
 ManifestFileVersion: 0
-CRC: 3524711264
+CRC: 2933752680
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 60083703a2c8a881bde89ec5a54ee327
+    Hash: 23a20dc1312ae6b28cd5e1b0a37eb7bf
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ea3f786f3814b1ad9ef2ef747825eec5
+    Hash: 522cbddd99d688a00d90eb32442a4028
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 4
   Script: {instanceID: 0}
-- Class: 21
-  Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
-- Class: 43
-  Script: {instanceID: 0}
-- Class: 48
-  Script: {instanceID: 0}
-- Class: 65
-  Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/Dynamic/TYZBWSEN_FGED_Q/TYZBWSEN_FGED_Q.prefab
+- Assets/CompasModels/BuswayRunModels/TYZBWSEN_FGED_Q/TYZBWSEN_FGED_Q.prefab
 Dependencies: []

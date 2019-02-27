@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3199265107
+CRC: 2738190403
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c1b7056c70b1194cfb93b70d9c50465b
+    Hash: c1ec6921a1d054bc38c2627bb2a04c10
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e48f829780e32617bde1758dc546420f
+    Hash: ea3f786f3814b1ad9ef2ef747825eec5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,7 +19,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/BuswayRunModels/TYZBWSEN_ETBX_Q/TYZBWSEN_ETBX_Q.prefab
-Dependencies:
-- /Users/compas/Desktop/CompasAR/AssetBundles/iOS/buswayrunbundles/tyzbwsen_etbx_q.unity3d
+- Assets/CompasModels/BuswayRunModels/TYZBWSEN_FEDR_Q/TYZBWSEN_FEDR_Q.prefab
+Dependencies: []
