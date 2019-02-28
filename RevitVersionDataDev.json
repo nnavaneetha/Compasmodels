@@ -116,12 +116,12 @@
 
 	}, {
 		"fileName": "BUSWAY_SBD_SLAB",
-		"version": "1",
+		"version": "0",
 		"hotspotUrl": ""
 
 	}, {
 		"fileName": "BUSWAY_SWITCH_BOARD",
-		"version": "1",
+		"version": "0",
 		"hotspotUrl": ""
 
 	}, {
@@ -131,7 +131,7 @@
 
 	}, {
 		"fileName": "TYZBWSEN_ETBX_Q",
-		"version": "2",
+		"version": "8",
 		"hotspotUrl": ""
 
 	}, {
