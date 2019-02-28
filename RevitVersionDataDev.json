@@ -116,32 +116,32 @@
 
 	}, {
 		"fileName": "BUSWAY_SBD_SLAB",
-		"version": "0",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}, {
 		"fileName": "BUSWAY_SWITCH_BOARD",
-		"version": "0",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}, {
 		"fileName": "TYZBWSEN_ELBO_Q",
-		"version": "0",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}, {
 		"fileName": "TYZBWSEN_ETBX_Q",
-		"version": "0",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}, {
 		"fileName": "TYZBWSEN_FEDR_Q",
-		"version": "0",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}, {
 		"fileName": "TYZBWSEN_FGED_Q",
-		"version": "0",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}]
