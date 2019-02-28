@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 585674838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 955b7818c43c8a04e63750f0cedd8190
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dd7a7454243e10e3f9618de160b13c6e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/BuswayRunModels/BUSWAY_SWITCH_BOARD/BUSWAY_SWITCH_BOARD.fbx
+Dependencies: []

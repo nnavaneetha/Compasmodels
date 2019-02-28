@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2713731560
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c65418807d2e7a5df4d95a75f0768a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6b1149babeaa3ddbce38c99d674bbb8d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Resources/Prefabs/static/MediumVoltageMetalCladSwitchgear.prefab
+Dependencies: []
