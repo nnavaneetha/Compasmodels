@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3482632826
+CRC: 259925231
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ce83ca0b5ef8383a2ae9a6ef417b8787
+    Hash: f124301b565ff25a70ffc20ebfbf71a7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 798811b7255c82b34a9f8780c2ce846a
+    Hash: ea3f786f3814b1ad9ef2ef747825eec5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
 Assets:
-- Assets/CompasModels/BuswayRunModels/BUSWAY_SWITCH_BOARD/Switchboard-3DView-Preview.fbx
+- Assets/CompasModels/BuswayRunModels/BUSWAY_SWITCH_BOARD/BUSWAY_SWITCH_BOARD.prefab
 Dependencies: []
