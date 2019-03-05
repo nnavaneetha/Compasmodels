@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 387715009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbb39e3cd7c763b30c21ae0c00fa280d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea3f786f3814b1ad9ef2ef747825eec5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/BuswayRunModels/BUSWAY_SBD_SLAB/BUSWAY_SBD_SLAB.mat
+- Assets/CompasModels/BuswayRunModels/BUSWAY_SBD_SLAB/BUSWAY_SBD_SLAB.prefab
+Dependencies: []
