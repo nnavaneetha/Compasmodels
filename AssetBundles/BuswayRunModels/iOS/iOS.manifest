@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 808869622
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tyzbwsen_tphr.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: tyzbwsen_fged_q.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: tyzbwsen_fedr_q.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: tyzbwsen_etbx_q.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: tyzbwsen_elbo_q.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: busway_switch_board.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: busway_sbd_slab.unity3d
+      Dependencies: {}
