@@ -6,13 +6,20 @@
 		"z": 0,
 		"details": "Section",
 		"tag": "one",
-		"type": "text"
+		"type": "widget1"
 	}, {
 		"x": -2,
 		"y": 2,
 		"z": 0,
 		"details": "Aux box",
 		"tag": "two",
-		"type": "widget"
+		"type": "widget2"
+	}, {
+		"x": 10,
+		"y": 2,
+		"z": 0,
+		"details": "Aux box",
+		"tag": "two",
+		"type": "widget2"
 	}]
 }
