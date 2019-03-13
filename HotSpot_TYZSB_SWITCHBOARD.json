@@ -15,7 +15,7 @@
 		"tag": "two",
 		"type": "widget2"
 	}, {
-		"x": 10,
+		"x": -10,
 		"y": 2,
 		"z": 0,
 		"details": "Aux box",
