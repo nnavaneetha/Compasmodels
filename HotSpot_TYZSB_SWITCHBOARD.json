@@ -2,7 +2,7 @@
 	"nodeName": "TYZSB_SWITCHBOARD",
 	"hotspots": [{
 		"x": -2,
-		"y": 200,
+		"y": 100,
 		"z": 0,
 		"details": "Section",
 		"tag": "one",
