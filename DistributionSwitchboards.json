@@ -35,5 +35,12 @@
 		"details": "Main Disconnect-Molded Case Circuit Breaker",
 		"tag": "five",
 		"type": "text"
+	}, {
+		"x": -0.037,
+		"y": 0.127,
+		"z": 0.049,
+		"details": "Main Disconnect-Molded Case Circuit Breaker",
+		"tag": "six",
+		"type": "text"
 	}]
 }
