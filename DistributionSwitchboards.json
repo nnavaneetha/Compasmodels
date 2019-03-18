@@ -32,14 +32,14 @@
 		"x": 0.046,
 		"y": 0.118,
 		"z": 0.049,
-		"details": "Main Disconnect-Molded Case Circuit Breaker",
+		"details": "3WL Air circuit breakers:  Size I",
 		"tag": "five",
 		"type": "text"
 	}, {
 		"x": -0.037,
 		"y": 0.127,
 		"z": 0.049,
-		"details": "Main Disconnect-Molded Case Circuit Breaker",
+		"details": "3WL Air circuit breakers:  Size II",
 		"tag": "six",
 		"type": "text"
 	}, {
