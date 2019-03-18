@@ -8,8 +8,8 @@
 		"tag": "one",
 		"type": "text"
 	}, {
-		"x": 0.145,
-		"y": 0.184,
+		"x": -0.175,
+		"y": 0.208,
 		"z": 0.049,
 		"details": "Distribution switchboards provide the rugged construction and service flexibility necessary in systems for industrial plants, hi-rise complexes, hospitals and commercial buildings",
 		"tag": "two",
@@ -22,8 +22,8 @@
 		"tag": "three",
 		"type": "text"
 	}, {
-		"x": 0.02877,
-		"y": 0.184,
+		"x": -0.175,
+		"y": 0.013,
 		"z": 0.049,
 		"details": "Ventilation for cool air circulation",
 		"tag": "four",
