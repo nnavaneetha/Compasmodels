@@ -42,5 +42,12 @@
 		"details": "Main Disconnect-Molded Case Circuit Breaker",
 		"tag": "six",
 		"type": "text"
+	}, {
+		"x": -0.0375,
+		"y": 0.1892,
+		"z": 0.04,
+		"details": "Aux-Box",
+		"tag": "six",
+		"type": "text"
 	}]
 }
