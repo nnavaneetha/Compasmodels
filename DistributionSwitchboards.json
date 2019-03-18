@@ -28,5 +28,12 @@
 		"details": "Ventilation for cool air circulation",
 		"tag": "four",
 		"type": "text"
+	}, {
+		"x": 0.046,
+		"y": 0.118,
+		"z": 0.049,
+		"details": "Main Disconnect-Molded Case Circuit Breaker",
+		"tag": "five",
+		"type": "text"
 	}]
 }
