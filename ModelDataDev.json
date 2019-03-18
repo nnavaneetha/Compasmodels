@@ -53,7 +53,7 @@
 			"modelName": "Distribution Switchboards",
 			"version": "14",
 			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/SB3_tiltlabs.fbx?version=2.0",
-			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/blob/master/DistributionSwitchboards.json",
+			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json",
 			"animations": []
 
 		}
