@@ -1,12 +1,12 @@
 {
   "nodeName": "DistributionSwitchboards",
   "hotspots":[{
-    "x":-.4532,"y":1.1147,"z":-.2319,"details":"Service Entrance Section","tag":"one"
+    "x":-0.4532,"y":1.1147,"z":-0.2319,"details":"Service Entrance Section","tag":"one"
   },{
-    "x":-.4532,"y":.1285,"z":-.2319,"details":"Distribution switchboards provide the rugged construction and service flexibility necessary in systems for industrial plants, hi-rise complexes, hospitals and commercial buildings","tag":"two"
+    "x":-0.4532,"y":0.1285,"z":-0.2319,"details":"Distribution switchboards provide the rugged construction and service flexibility necessary in systems for industrial plants, hi-rise complexes, hospitals and commercial buildings","tag":"two"
   },{
-    "x":-.2719,"y":1.1008,"z":-.2319,"details":"Ventilation for cool air circulation","tag":"three"
+    "x":-0.2719,"y":1.1008,"z":-0.2319,"details":"Ventilation for cool air circulation","tag":"three"
   },{
-    "x":-.2877,"y":.1322,"z":-.2319,"details":"Ventilation for cool air circulation","tag":"four"
+    "x":-0.2877,"y":0.1322,"z":-0.2319,"details":"Ventilation for cool air circulation","tag":"four"
   }]
 }
