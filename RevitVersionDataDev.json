@@ -114,5 +114,10 @@
 		"version": "1",
 		"hotspotUrl": ""
 
+	}, {
+		"fileName": "BUSWAY_SWITCH_BOARD",
+		"version": "1",
+		"hotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotSpot_TYZSB_SWITCHBOARD.json"
+
 	}]
 }
