@@ -3,7 +3,8 @@
 		"2.compasquality.siemens-info.com/DMS_Transaction/",
 		"https://partners.sea.siemens.com/Siemens.Sea.Web.SupportRequest",
 		"2.compasquality.siemens-info.com/MIMES/COMPASDocs/btlv/documents/",
-		"webdav/guest/document_library/COMPAS_DCC"
+		"webdav/guest/document_library/COMPAS_DCC",
+		"https://confluence.compasquality.siemens-info.com"
 		],
-	"version": "5"
+	"version": "6"
 }
