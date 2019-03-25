@@ -1,10 +1,10 @@
 {
 	"url": ["https://compas.custhelp.com/app/chat/chat_landing/", 
-		"2.compasquality.siemens-info.com/DMS_Transaction/",
+		"compasquality.siemens-info.com/DMS_Transaction/",
 		"https://partners.sea.siemens.com/Siemens.Sea.Web.SupportRequest",
-		"2.compasquality.siemens-info.com/MIMES/COMPASDocs/btlv/documents/",
+		"compasquality.siemens-info.com/MIMES/COMPASDocs/btlv/documents/",
 		"webdav/guest/document_library/COMPAS_DCC",
 		"https://confluence.compasquality.siemens-info.com"
 		],
-	"version": "6"
+	"version": "7"
 }
