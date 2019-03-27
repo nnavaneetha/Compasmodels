@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 4022670154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d11e23c78409ef0d610c76aa14ea99dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b74558a0ec7a156c1c257f4404504ba1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/bracketsTop_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB3_randomMetal_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB4_door_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB2_metalBrackets.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/Switchboard_Anim6_gray_plastic.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB4_breakers2_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/Switchboard_Anim6_copper.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB4_randomMetal_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/Switchboard_Anim6_brushedAlumDark.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB3_breakerSlots_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB2_door_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB2_door_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/Switchboard_Anim6_red_plastic.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/lambert2.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB1_rearPlane.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB1_door_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB1_breaker_front.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/lilCube_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB3_allBrackets_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB2_swivelBrax_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB3_breakerSlors_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB3_breakers2_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/DistributionSwitchboards.fbx
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/Switchboard_Anim6_panelBoards_lightingShading_01_mainMetal.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB3_breakers_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB3_plates_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB1_moreBrackets_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB1_midBrackets_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/midBrackets_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB1_shell_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/Switchboard_Anim6_black_plastic.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB3_plates_Mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB1_lilCube_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB2_breaker_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/phongE1.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB4_breakers_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/mainBracket_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/redBalls.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/door.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/Switchboard_Anim6_green_plastic.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB3_brkr_wht.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB1_bracketsTop_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB3_allBrackets_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Textures/SB2_metalBrackets_NRM.png
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB4_door_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/wlBreaker_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/shell_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB4_breaker2_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB2_swivelBox_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB3_breakers2_mat.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/SB3_brkr_Blk.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/Switchboard_Anim6_light_gray.mat
+- Assets/CompasModels/Static/DistributionSwitchboards/Materials/blinn10.mat
+Dependencies: []

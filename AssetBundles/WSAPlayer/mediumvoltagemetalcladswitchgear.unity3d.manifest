@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4100146435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2a6c0e382ac71297cf1122d8eddcf23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 145c41f5a43a76747d8acd44d734f436
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Static/MediumVoltageMetalCladSwitchgear/Material.001.mat
+- Assets/CompasModels/Static/MediumVoltageMetalCladSwitchgear/mv_switchgear_siemens
+  copy.png
+- Assets/CompasModels/Static/MediumVoltageMetalCladSwitchgear/Material.mat
+- Assets/CompasModels/Static/MediumVoltageMetalCladSwitchgear/MediumVoltageMetalCladSwitchgear.fbx
+Dependencies: []

@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 2526001321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08e7d4041a0b09324735ae2486280227
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d64be256bbee7e5a4f966b44eb44c00
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Static/95+/mccCenterInside.png
+- Assets/CompasModels/Static/95+/Material.009.mat
+- Assets/CompasModels/Static/95+/mcccenterLeft.png
+- Assets/CompasModels/Static/95+/Material.011.mat
+- Assets/CompasModels/Static/95+/Material.015.mat
+- Assets/CompasModels/Static/95+/Material.003.mat
+- Assets/CompasModels/Static/95+/Material.010.mat
+- Assets/CompasModels/Static/95+/Material.mat
+- Assets/CompasModels/Static/95+/Material.006.mat
+- Assets/CompasModels/Static/95+/mccRightCenter.png
+- Assets/CompasModels/Static/95+/95+.fbx
+- Assets/CompasModels/Static/95+/Material.007.mat
+- Assets/CompasModels/Static/95+/Material.018.mat
+- Assets/CompasModels/Static/95+/Material.004.mat
+- Assets/CompasModels/Static/95+/Material.021.mat
+- Assets/CompasModels/Static/95+/Material.012.mat
+- Assets/CompasModels/Static/95+/Material.005.mat
+- Assets/CompasModels/Static/95+/Material.013.mat
+- Assets/CompasModels/Static/95+/Material.017.mat
+- Assets/CompasModels/Static/95+/Material.016.mat
+- Assets/CompasModels/Static/95+/Material.008.mat
+- Assets/CompasModels/Static/95+/mccTopInside.png
+- Assets/CompasModels/Static/95+/Material.014.mat
+- Assets/CompasModels/Static/95+/Material.019.mat
+- Assets/CompasModels/Static/95+/mccCenterTop.png
+- Assets/CompasModels/Static/95+/mccLeftTop.png
+- Assets/CompasModels/Static/95+/mccrightBottom.png
+- Assets/CompasModels/Static/95+/mccLeftBottom.png
+- Assets/CompasModels/Static/95+/mccLeftRight.png
+- Assets/CompasModels/Static/95+/mccLeftLeft.png
+- Assets/CompasModels/Static/95+/Material.020.mat
+- Assets/CompasModels/Static/95+/Material.002.mat
+Dependencies: []

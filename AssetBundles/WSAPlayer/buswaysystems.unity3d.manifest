@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 398315741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a708e307bb2467bd175632e068936c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b74558a0ec7a156c1c257f4404504ba1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Static/BuswaySystems/lambert2.mat
+- Assets/CompasModels/Static/BuswaySystems/building_glow_subtle.mat
+- Assets/CompasModels/Static/BuswaySystems/building_glow_orange.mat
+- Assets/CompasModels/Static/BuswaySystems/podium1.mat
+- Assets/CompasModels/Static/BuswaySystems/Switchboard_Anim6_black_plastic.mat
+- Assets/CompasModels/Static/BuswaySystems/building_mat.mat
+- Assets/CompasModels/Static/BuswaySystems/shell_mat.mat
+- Assets/CompasModels/Static/BuswaySystems/SB2_breaker_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/_100_metal.mat
+- Assets/CompasModels/Static/BuswaySystems/SB2_door_mat.mat
+- Assets/CompasModels/Static/BuswaySystems/SB1_bracketsTop_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/blinn10.mat
+- Assets/CompasModels/Static/BuswaySystems/SB3_breakerSlors_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/SB3_brkr_wht.mat
+- Assets/CompasModels/Static/BuswaySystems/redBalls.mat
+- Assets/CompasModels/Static/BuswaySystems/SB3_doorMat.mat
+- Assets/CompasModels/Static/BuswaySystems/100_shell_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/Switchboard_Anim6_light_gray.mat
+- Assets/CompasModels/Static/BuswaySystems/busway_Lines_opt1_busway_plugin_blinn2.mat
+- Assets/CompasModels/Static/BuswaySystems/SB3_brkr_Blk.mat
+- Assets/CompasModels/Static/BuswaySystems/SB3_plates_Mat.mat
+- Assets/CompasModels/Static/BuswaySystems/blackRubber.mat
+- Assets/CompasModels/Static/BuswaySystems/100_warning_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/P3Panelboard_blinn1.mat
+- Assets/CompasModels/Static/BuswaySystems/SB3_breakerSlots_mat.mat
+- Assets/CompasModels/Static/BuswaySystems/bracketsTop_mat.mat
+- Assets/CompasModels/Static/BuswaySystems/SB3_breakers2_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/_100_shellMat.mat
+- Assets/CompasModels/Static/BuswaySystems/SB3_breakers2_mat.mat
+- Assets/CompasModels/Static/BuswaySystems/SB3_door_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/SB3_plates_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/_SLVBHM_OPT__100_warning_mat.mat
+- Assets/CompasModels/Static/BuswaySystems/building_glow_mat.mat
+- Assets/CompasModels/Static/BuswaySystems/lambert5.mat
+- Assets/CompasModels/Static/BuswaySystems/SB2_door_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/SB2_swivelBox_mat.mat
+- Assets/CompasModels/Static/BuswaySystems/busway_plugin_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/SB2_swivelBrax_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/SB3_breakers_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/buswaysystems.fbx
+- Assets/CompasModels/Static/BuswaySystems/SB1_shell_NRM.png
+- Assets/CompasModels/Static/BuswaySystems/podiumBase.mat
+Dependencies: []

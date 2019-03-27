@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3671911839
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mediumvoltagemetalcladswitchgear.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: 95+.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: mediumvoltagegasinsulatedswitchgear.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: commercialmultimeteringswitchboards.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: switchgear.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: distributionswitchboards.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: safetyswitches.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: switchboards.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: transformers.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: buswaysystems.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: powerpanels.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: loadcenters.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: lowvoltagemotorcontrolcenters.unity3d
+      Dependencies: {}

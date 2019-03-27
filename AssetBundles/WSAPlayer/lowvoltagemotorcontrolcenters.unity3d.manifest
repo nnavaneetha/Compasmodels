@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1709308280
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 954d08503e9769e895e5ea29f9a8824d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 145c41f5a43a76747d8acd44d734f436
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Static/LowVoltageMotorControlCenters/Material.001.mat
+- Assets/CompasModels/Static/LowVoltageMotorControlCenters/Material.mat
+- Assets/CompasModels/Static/LowVoltageMotorControlCenters/LowVoltageMotorControlCenters.fbx
+- Assets/CompasModels/Static/LowVoltageMotorControlCenters/file4.png
+Dependencies: []

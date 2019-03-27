@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 532049851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b53070ed9e4bf8306a838fe5b995fb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 145c41f5a43a76747d8acd44d734f436
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Static/CommercialMultiMeteringSwitchboards/CommercialMultiMeteringSwitchboards.fbx
+- Assets/CompasModels/Static/CommercialMultiMeteringSwitchboards/Material.mat
+- Assets/CompasModels/Static/CommercialMultiMeteringSwitchboards/Material.001.mat
+- Assets/CompasModels/Static/CommercialMultiMeteringSwitchboards/file3.png
+Dependencies: []

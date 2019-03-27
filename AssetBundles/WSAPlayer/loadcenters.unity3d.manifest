@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3071542869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d514aa9bbbedd5e9a1bc2cd48a8372a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b74558a0ec7a156c1c257f4404504ba1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Static/LoadCenters/WG_main_front.jpg
+- Assets/CompasModels/Static/LoadCenters/breaker-2_DIFF.jpg
+- Assets/CompasModels/Static/LoadCenters/WG_door_NRM.jpg
+- Assets/CompasModels/Static/LoadCenters/WG_breakerDIFF.jpg
+- Assets/CompasModels/Static/LoadCenters/08 - Default.mat
+- 'Assets/CompasModels/Static/LoadCenters/Material #28.mat'
+- 'Assets/CompasModels/Static/LoadCenters/Material #31.mat'
+- Assets/CompasModels/Static/LoadCenters/WG_topBoxDIFF.jpg
+- Assets/CompasModels/Static/LoadCenters/blackMetal.mat
+- Assets/CompasModels/Static/LoadCenters/07 - Default.mat
+- Assets/CompasModels/Static/LoadCenters/LoadCenters.fbx
+- Assets/CompasModels/Static/LoadCenters/loadCenters_anim_02_blinn3.mat
+- 'Assets/CompasModels/Static/LoadCenters/Material #29.mat'
+- Assets/CompasModels/Static/LoadCenters/WG_mainG_front.jpg
+- Assets/CompasModels/Static/LoadCenters/Wire_Guide_01_blinn1.mat
+- 'Assets/CompasModels/Static/LoadCenters/Material #32.mat'
+- Assets/CompasModels/Static/LoadCenters/copper.mat
+- Assets/CompasModels/Static/LoadCenters/WG_shell_NRM.jpg
+- Assets/CompasModels/Static/LoadCenters/front_plastic.mat
+- 'Assets/CompasModels/Static/LoadCenters/Material #27.mat'
+Dependencies: []

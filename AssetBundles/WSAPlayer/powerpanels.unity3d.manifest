@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 1288972917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5228e4ee3793f0e2abd833ee771163cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b74558a0ec7a156c1c257f4404504ba1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Static/PowerPanels/UPB_giantSwitch_NRM.png
+- Assets/CompasModels/Static/PowerPanels/UPB_screws_DIFF.jpg
+- Assets/CompasModels/Static/PowerPanels/mainMetal.mat
+- Assets/CompasModels/Static/PowerPanels/breakers_mat.mat
+- Assets/CompasModels/Static/PowerPanels/lowerBox_mat.mat
+- Assets/CompasModels/Static/PowerPanels/lambert2.mat
+- Assets/CompasModels/Static/PowerPanels/screws_mat.mat
+- Assets/CompasModels/Static/PowerPanels/UPB_main_NRM.png
+- Assets/CompasModels/Static/PowerPanels/powerpanels.fbx
+- Assets/CompasModels/Static/PowerPanels/panelBoards_anim_05_brushedAlumDark.mat
+- Assets/CompasModels/Static/PowerPanels/plates_mat.mat
+- Assets/CompasModels/Static/PowerPanels/UPB_screws_NRM.png
+- Assets/CompasModels/Static/PowerPanels/UPB_main_DIFF.jpg
+- Assets/CompasModels/Static/PowerPanels/UPB_door_NRM.png
+- Assets/CompasModels/Static/PowerPanels/UPB_lowerBox_NRM.png
+- Assets/CompasModels/Static/PowerPanels/door_mat.mat
+- Assets/CompasModels/Static/PowerPanels/giantSwitch_mat.mat
+- Assets/CompasModels/Static/PowerPanels/black_metal.mat
+- Assets/CompasModels/Static/PowerPanels/main_mid_mat.mat
+- Assets/CompasModels/Static/PowerPanels/UPB_plate_front.png
+- Assets/CompasModels/Static/PowerPanels/UPB_breakers_NRM.png
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3293834278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2f3fae1337b4aab7b03c2b1b2c36d60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 83effb299b3a9c0347720292514cb0d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- 'Assets/CompasModels/Static/Transformers/Material #99.mat'
+- Assets/CompasModels/Static/Transformers/buswayrun_assy_MTL5.mat
+- Assets/CompasModels/Static/Transformers/transformers.fbx
+Dependencies: []
