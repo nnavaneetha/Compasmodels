@@ -4,7 +4,7 @@
 			"environment": "https://dev2.compasquality.siemens-info.com/",
 			"defaultExt": "mCompas_SQR/"
 		},
-		{{
+		{
 			"environment": "https://dev9.compasquality.siemens-info.com/",
 			"defaultExt": "mCompas/"
 		},
