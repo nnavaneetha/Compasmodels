@@ -8,6 +8,7 @@
 			"environment": "https://dev9.compasquality.siemens-info.com/",
 			"defaultExt": "mCompas/"
 		},
+		{
 		
 			"environment": "https://q02.compasquality.siemens-info.com/",
 			"defaultExt": "mCompas_SQR/"
