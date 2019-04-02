@@ -7,8 +7,8 @@
 		"https://dev9.compasquality.siemens-info.com/",
 		"https://www.compas.siemens-info.com/"
 	],
-	"useC3Models": "false",
+	"useC3Models": "true",
 	"useSandy": true,
-	"version": "6"
+	"version": "7"
 
 }
