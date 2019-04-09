@@ -22,7 +22,7 @@
 			"defaultExt": "mCompas/"
 		}
 	],
-	"useC3Models": "true",
+	"useC3Models": "false",
 	"useSandy": true,
 	"version": "2"
 
