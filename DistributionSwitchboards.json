@@ -32,21 +32,21 @@
 		"x": 0.046,
 		"y": 0.118,
 		"z": 0.049,
-		"details": "3WL Air circuit breakers:  Size I",
+		"details": "Wide Main: Maintenance mode to comply with NEC code, Ability to electrically operate breakers, Modbus and Profibus communications",
 		"tag": "five",
 		"type": "text"
 	}, {
 		"x": -0.037,
 		"y": 0.127,
 		"z": 0.049,
-		"details": "3WL Air circuit breakers:  Size II",
+		"details": "Skinny Main: Skinny Main switchboard is the narrowest single main in the industry at 25\” wide.",
 		"tag": "six",
 		"type": "text"
 	}, {
 		"x": -0.0375,
 		"y": 0.1892,
 		"z": 0.03,
-		"details": "Skinny Main Small Door Opening Skinny Main switchboard is the narrowest single main in the industry at 25\" wide.",
+		"details": "Skinny Main Small Door Opening: Skinny Main switchboard is the narrowest single main in the industry at 25\" wide.",
 		"tag": "seven",
 		"type": "text"
 	}]
