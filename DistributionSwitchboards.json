@@ -2,31 +2,17 @@
 	"nodeName": "DistributionSwitchboards",
 	"hotspots": [{
 		"x": 0.174,
-		"y": 0.207,
+		"y": 0.118,
 		"z": 0.049,
-		"details": "Service Entrance Section",
+		"details": "Switchboard Distribution: Distribution section allows for dual mounted 400a breakers in a 38\" wide section",
 		"tag": "one",
 		"type": "text"
 	}, {
 		"x": -0.175,
-		"y": 0.208,
+		"y": 0.118,
 		"z": 0.049,
-		"details": "Distribution switchboards provide the rugged construction and service flexibility necessary in systems for industrial plants, hi-rise complexes, hospitals and commercial buildings",
+		"details": "SEM3 Embedded Compartment: SEM3 Embedded Metering System integrates with your gear, allowing the controller to be directly mounted in the unit space.",
 		"tag": "two",
-		"type": "text"
-	}, {
-		"x": 0.174,
-		"y": 0.016,
-		"z": 0.049,
-		"details": "Ventilation for cool air circulation",
-		"tag": "three",
-		"type": "text"
-	}, {
-		"x": -0.175,
-		"y": 0.013,
-		"z": 0.049,
-		"details": "Ventilation for cool air circulation",
-		"tag": "four",
 		"type": "text"
 	}, {
 		"x": 0.046,
