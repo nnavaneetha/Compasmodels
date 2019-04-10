@@ -2,28 +2,28 @@
 	"nodeName": "DistributionSwitchboards",
 	"hotspots": [{
 		"x": 0.174,
-		"y": 0.118,
+		"y": 0.016,
 		"z": 0.049,
 		"details": "Switchboard Distribution: Distribution section allows for dual mounted 400a breakers in a 38\" wide section",
 		"tag": "one",
 		"type": "text"
 	}, {
 		"x": -0.175,
-		"y": 0.118,
+		"y": 0.016,
 		"z": 0.049,
 		"details": "SEM3 Embedded Compartment: SEM3 Embedded Metering System integrates with your gear, allowing the controller to be directly mounted in the unit space.",
 		"tag": "two",
 		"type": "text"
 	}, {
 		"x": 0.046,
-		"y": 0.118,
+		"y": 0.016,
 		"z": 0.049,
 		"details": "Wide Main: Maintenance mode to comply with NEC code, Ability to electrically operate breakers, Modbus and Profibus communications",
 		"tag": "five",
 		"type": "text"
 	}, {
 		"x": -0.037,
-		"y": 0.127,
+		"y": 0.016,
 		"z": 0.049,
 		"details": "Skinny Main: Skinny Main switchboard is the narrowest single main in the industry at 25\" wide.",
 		"tag": "six",
