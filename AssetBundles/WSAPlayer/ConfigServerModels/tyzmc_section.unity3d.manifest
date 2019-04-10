@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2622236463
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a93ed64ce4af88d96fd6929e4609237d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 145c41f5a43a76747d8acd44d734f436
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Dynamic/TYZMC_SECTION/texture.jpg
+- 'Assets/CompasModels/Dynamic/TYZMC_SECTION/Material #2.mat'
+- Assets/CompasModels/Dynamic/TYZMC_SECTION/TYZMC_SECTION.fbx
+- Assets/CompasModels/Dynamic/TYZMC_SECTION/TYZMC_SECTION/TYZMC_SECTION.fbx
+- Assets/CompasModels/Dynamic/TYZMC_SECTION/TYZMC_SECTION/SB3_brkr_Blk.mat
+Dependencies:
+- C:/Users/admin/Documents/NonStaticAssetBundleBuilder/AssetBundles/WSAPlayer/ConfigServerModels/tyzlv_section.unity3d

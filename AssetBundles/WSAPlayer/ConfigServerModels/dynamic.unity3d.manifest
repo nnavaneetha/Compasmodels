@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3047378489
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d926ce54c00aa212d889c5d7d3a04f5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 813466e6bd79712f10f61108eadcec0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Dynamic/3007503781_sb_20030_complete.obj
+Dependencies: []

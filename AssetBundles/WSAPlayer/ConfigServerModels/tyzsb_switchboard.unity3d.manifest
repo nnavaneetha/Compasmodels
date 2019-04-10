@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3636418910
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ce2ee963c328c5a78e94bdc3ee14ec8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 145c41f5a43a76747d8acd44d734f436
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL6.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/TYZPB_VL_MCCB/SB3_brkr_Blk.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL5.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL11.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL2.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL10.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/DEFAULT_MTL.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL3.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL13.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/TYZSB_SWITCHBOARD.fbx
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL8.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL4.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL12.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL0.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL9.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL7.mat
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/TYZPB_VL_MCCB/TYZSB_VLMCCB.fbx
+- Assets/CompasModels/Dynamic/TYZSB_SWITCHBOARD/MTL1.mat
+Dependencies:
+- C:/Users/admin/Documents/NonStaticAssetBundleBuilder/AssetBundles/WSAPlayer/ConfigServerModels/tyzsb_vlmccb.unity3d
