@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1788503710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d09ce65135ab3b08c6376092016720eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 83effb299b3a9c0347720292514cb0d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Dynamic/C1/panelBoards_anim_05_brushedAlumDark.mat
+- Assets/CompasModels/Dynamic/C1/giantSwitch_mat.mat
+- Assets/CompasModels/Dynamic/C1/lambert2.mat
+- Assets/CompasModels/Dynamic/C1/door_mat.mat
+- Assets/CompasModels/Dynamic/C1/screws_mat.mat
+- Assets/CompasModels/Dynamic/C1/plates_mat.mat
+- Assets/CompasModels/Dynamic/C1/black_metal.mat
+- Assets/CompasModels/Dynamic/C1/mainMetal.mat
+- Assets/CompasModels/Dynamic/C1/breakers_mat.mat
+- Assets/CompasModels/Dynamic/C1/lowerBox_mat.mat
+- Assets/CompasModels/Dynamic/C1/C1.fbx
+- Assets/CompasModels/Dynamic/C1/main_mid_mat.mat
+Dependencies: []

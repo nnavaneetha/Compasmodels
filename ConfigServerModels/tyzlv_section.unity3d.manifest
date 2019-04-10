@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 744018464
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6150d6ddd10f74e1c2f59fe1a4961eeb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 145c41f5a43a76747d8acd44d734f436
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Dynamic/TYZLV_SECTION/TYZSB_VLMCCB/TYZSB_VLMCCB.fbx
+- 'Assets/CompasModels/Dynamic/TYZLV_SECTION/Material #2.mat'
+- Assets/CompasModels/Dynamic/TYZLV_SECTION/texture.jpg
+- Assets/CompasModels/Dynamic/TYZLV_SECTION/TYZLV_SECTION.fbx
+- Assets/CompasModels/Dynamic/TYZLV_SECTION/TYZSB_VLMCCB/SB3_brkr_Blk.mat
+Dependencies:
+- C:/Users/admin/Documents/NonStaticAssetBundleBuilder/AssetBundles/WSAPlayer/ConfigServerModels/tyzsb_vlmccb.unity3d

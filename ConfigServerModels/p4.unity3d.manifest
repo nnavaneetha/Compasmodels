@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 472207925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48e2953aa8091ee8b4e17be55fbe6a23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 83effb299b3a9c0347720292514cb0d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Dynamic/P4/panelBoards_anim_05_brushedAlumDark.mat
+- Assets/CompasModels/Dynamic/P4/breakers_mat.mat
+- Assets/CompasModels/Dynamic/P4/black_metal.mat
+- Assets/CompasModels/Dynamic/P4/main_mid_mat.mat
+- Assets/CompasModels/Dynamic/P4/door_mat.mat
+- Assets/CompasModels/Dynamic/P4/lambert2.mat
+- Assets/CompasModels/Dynamic/P4/screws_mat.mat
+- Assets/CompasModels/Dynamic/P4/plates_mat.mat
+- Assets/CompasModels/Dynamic/P4/mainMetal.mat
+- Assets/CompasModels/Dynamic/P4/P4.fbx
+- Assets/CompasModels/Dynamic/P4/lowerBox_mat.mat
+- Assets/CompasModels/Dynamic/P4/giantSwitch_mat.mat
+Dependencies: []

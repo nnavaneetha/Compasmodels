@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3360057338
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5f0f7218edaed75a7bc8c23c7defe96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 145c41f5a43a76747d8acd44d734f436
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Dynamic/TYZSB_VLMCCB/SB3_brkr_Blk.mat
+- Assets/CompasModels/Dynamic/TYZSB_VLMCCB/TYZSB_VLMCCB.fbx
+Dependencies: []

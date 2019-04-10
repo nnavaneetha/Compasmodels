@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1631240925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c340cfc9aa022999fd18ac768c8b156
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 83effb299b3a9c0347720292514cb0d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Dynamic/TYZLV_COMPT/MTL3.mat
+- Assets/CompasModels/Dynamic/TYZLV_COMPT/MTL7.mat
+- Assets/CompasModels/Dynamic/TYZLV_COMPT/MTL2.mat
+- Assets/CompasModels/Dynamic/TYZLV_COMPT/MTL4.mat
+- Assets/CompasModels/Dynamic/TYZLV_COMPT/MTL5.mat
+- Assets/CompasModels/Dynamic/TYZLV_COMPT/MTL8.mat
+- Assets/CompasModels/Dynamic/TYZLV_COMPT/MTL1.mat
+- Assets/CompasModels/Dynamic/TYZLV_COMPT/TYZLV_COMPT.fbx
+- Assets/CompasModels/Dynamic/TYZLV_COMPT/MTL6.mat
+- Assets/CompasModels/Dynamic/TYZLV_COMPT/MTL0.mat
+Dependencies: []

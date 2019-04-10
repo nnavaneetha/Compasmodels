@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1543256850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29ce4e218e106075f8dd5f9f7598a1d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 145c41f5a43a76747d8acd44d734f436
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/CompasModels/Dynamic/HCP/Switchboard_Anim6_black_plastic1.mat
+- Assets/CompasModels/Dynamic/HCP/Switchboard_Anim6_green_plastic1.mat
+- Assets/CompasModels/Dynamic/HCP/blinn11.mat
+- Assets/CompasModels/Dynamic/HCP/HCP.fbx
+- Assets/CompasModels/Dynamic/HCP/Switchboard_Anim6_copper1.mat
+- Assets/CompasModels/Dynamic/HCP/Switchboard_Anim6_red_plastic1.mat
+Dependencies: []
