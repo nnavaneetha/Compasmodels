@@ -42,21 +42,6 @@
 			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json",
 			"animations": []
 
-		}, {
-
-			"modelName": "testmodel",
-			"version": "5",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/testmodel.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
-			"modelName": "testmodel1",
-			"version": "5",
-			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/testmodel1.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
 		},{
 			"modelName": "Commercial Multi-Metering Switchboards",
 			"version": "13",
@@ -100,16 +85,9 @@
 			"animations": []
 
 		}, {
-			"modelName": "Switchgear",
+			"modelName": "Medium-voltage metal-enclose switchgear",
 			"version": "7",
 			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Switchgear.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
-			"modelName": "Medium-voltage metal-clad switchgear",
-			"version": "1",
-			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Medium voltage metal clad switchgear.fbx?version=2.0",
 			"hotspotUrl":"",
 			"animations": []
 
