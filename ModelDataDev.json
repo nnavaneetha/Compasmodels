@@ -15,6 +15,13 @@
 			"animations": []
 
 		}, {
+			"modelName": "Panel Board",
+			"version": "12",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/UPB_tiltlabs.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
 			"modelName": "Safety Switches",
 			"version": "7",
 			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/WSS_tiltlabs.fbx",
