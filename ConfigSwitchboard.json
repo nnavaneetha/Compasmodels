@@ -47,7 +47,7 @@
 						"name": "INSTANCE_ID"
 					}
 				],
-				"id": "SBD3_SECTION1",
+				"id": "SBD3_SECTION3",
 				"parentInstanceId": "20"
 			},
 			{
@@ -147,7 +147,7 @@
 						"name": "INSTANCE_ID"
 					}
 				],
-				"id": "SBD3_SECTION2",
+				"id": "SBD3_SECTION3",
 				"parentInstanceId": "20"
 			}
 		],
