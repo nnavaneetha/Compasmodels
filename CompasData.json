@@ -2,7 +2,7 @@
 
 	"url": [{
 			"environment": "https://dev2.compasquality.siemens-info.com/",
-			"defaultExt": "COMPASAppStore/SQRDRIVE/index.html"
+			"defaultExt": "mCompas_SQR/Compas/ManageJob/#!/drive"
 		},
 		{
 			"environment": "https://dev9.compasquality.siemens-info.com/",
@@ -24,6 +24,6 @@
 	],
 	"useC3Models": "true",
 	"useSandy": true,
-	"version": "3"
+	"version": "2"
 
 }
