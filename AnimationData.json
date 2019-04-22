@@ -82,7 +82,7 @@
 					"description": "With the plug-in unit OFF and the remote operator mounted in place on the door, the pendant’s red CONNECT button can be pressed and held to automatically connect the stabs onto the vertical bus. An illuminated OPERATION COMPLETE light shows that the motor has finished connecting the stabs. The position indicator on the front of the unit will show a red background and closed-circuit symbol when fully connected."
 				},
 				{
-					"name": "disconnect",
+					"name": "dissconnect",
 					"description": "With the plug-in unit OFF and the remote operator mounted in place on the door, the pendant’s green DISCONNECT button can be pressed and held to automatically disconnect the stabs from the vertical bus. An illuminated OPERATION COMPLETE light shows the motor has finished disconnecting the stabs. The position indicator on the front of the unit will show a green background and open-circuit symbol when fully disconnected."
 				}
 			]
