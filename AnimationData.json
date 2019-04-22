@@ -50,11 +50,11 @@
 		{
 			"modelName": "Safety Switches",
 			"animationList": [{
-					"name": "Lever Moves Up/Down with Door Closed",
+					"name": "Lever Moves Up/Down with Section Closed",
 					"description": "Visible red grip handle and viewing window allows for quick, safe inspection at a distance and operation."
 				},
 				{
-					"name": "Lever Moves Up/Down with Door Open",
+					"name": "Lever Moves Up/Down with Section Open",
 					"description": "Quick make, quick break operation reduces heats, increases longevity, and enhances performance."
 				}
 			]
