@@ -4,7 +4,9 @@
 		"https://partners.sea.siemens.com/Siemens.Sea.Web.SupportRequest",
 		"compasquality.siemens-info.com/MIMES/COMPASDocs/btlv/documents/",
 		"webdav/guest/document_library/COMPAS_DCC",
-		"https://confluence.compasquality.siemens-info.com"
+		"https://confluence.compasquality.siemens-info.com",
+		"www.gotoassist.com/sb/siemensincchat",
+		".siemens-info.com/DMS_Transaction/CatalogProduct/"
 		],
-	"version": "7"
+	"version": "8"
 }
