@@ -7,7 +7,8 @@
 		"https://confluence.compasquality.siemens-info.com",
 		"www.gotoassist.com/sb/siemensincchat",
 		".siemens-info.com/DMS_Transaction/CatalogProduct/",
-		"https://c3.compasquality.siemens-info.com/documents/"
+		"https://c3.compasquality.siemens-info.com/documents/",
+		"https://s3.amazonaws.com/dcc-data-extract/"
 		],
-	"version": "8"
+	"version": "9"
 }
