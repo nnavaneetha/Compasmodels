@@ -6,7 +6,8 @@
 		"webdav/guest/document_library/COMPAS_DCC",
 		"https://confluence.compasquality.siemens-info.com",
 		"www.gotoassist.com/sb/siemensincchat",
-		".siemens-info.com/DMS_Transaction/CatalogProduct/"
+		".siemens-info.com/DMS_Transaction/CatalogProduct/",
+		"https://c3.compasquality.siemens-info.com/documents/"
 		],
 	"version": "8"
 }
