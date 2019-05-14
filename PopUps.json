@@ -11,5 +11,5 @@
 		"https://s3.amazonaws.com/dcc-data-extract/",
 		"https://resources.compas.siemens-info.com/HomePage/Data"
 		],
-	"version": "9"
+	"version": "10"
 }
