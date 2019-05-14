@@ -1,14 +1,19 @@
 {
 	"url": ["https://compas.custhelp.com/app/chat/chat_landing/", 
 		"compasquality.siemens-info.com/DMS_Transaction/",
+		"compas.siemens-info.com/DMS_Transaction/",
 		"https://partners.sea.siemens.com/Siemens.Sea.Web.SupportRequest",
 		"compasquality.siemens-info.com/MIMES/COMPASDocs/btlv/documents/",
+		"compas.siemens-info.com/MIMES/COMPASDocs/btlv/documents/",
 		"webdav/guest/document_library/COMPAS_DCC",
+		"HomePage/Data/ReadMeNotes/",
 		"https://confluence.compasquality.siemens-info.com",
 		"www.gotoassist.com/sb/siemensincchat",
 		".siemens-info.com/DMS_Transaction/CatalogProduct/",
 		"https://c3.compasquality.siemens-info.com/documents/",
+		"https://c3.compas.siemens-info.com/documents/",
 		"https://s3.amazonaws.com/dcc-data-extract/",
+		"chat_landing/Contact.Name.First/Siemens"
 		"https://resources.compas.siemens-info.com/HomePage/Data"
 		],
 	"version": "10"
