@@ -15,7 +15,8 @@
 		"https://s3.amazonaws.com/dcc-data-extract/",
 		"chat_landing/Contact.Name.First/Siemens",
 		"https://resources.compas.siemens-info.com/HomePage/Data",
-		"https://new.siemens.com/"
+		"https://new.siemens.com/",
+		"https://learning.compasquality.siemens-info.com/"
 		],
-	"version": "12"
+	"version": "13"
 }
