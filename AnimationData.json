@@ -22,6 +22,29 @@
 					"description": "Makes mechanical connections faster using spring loaded, captive bolts that pass through automatically when lined up."
 				}
 			]
+		},{
+			"modelName": "Gas Insulated Switchgear",
+			"animationList": [{
+					"name": "Quick Connect",
+					"description": "Reduces bussing connections from many to one"
+				},
+				{
+					"name": "Quick Torque",
+					"description": "Eliminates torque readings with its simplified breakaway nut design"
+				},
+				{
+					"name": "Quick Phase",
+					"description": "Allows for independent phasing which streamlines ordering and phase balancing."
+				},
+				{
+					"name": "Quick Roll",
+					"description": "Allows modules to glide down mounting rail for easy installation and lineup."
+				},
+				{
+					"name": "Quick Bolt",
+					"description": "Makes mechanical connections faster using spring loaded, captive bolts that pass through automatically when lined up."
+				}
+			]
 		},
 		{
 			"modelName": "Distribution Switchboards",
