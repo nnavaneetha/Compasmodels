@@ -63,6 +63,13 @@
 			"hotspotUrl":"",
 			"animations": []
 
+		}, {
+			"modelName": "Gas Insulated Switchgear",
+			"version": "1",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
 		}
 
 	]
