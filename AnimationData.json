@@ -99,6 +99,22 @@
 			]
 		},
 		{
+			"modelName": "Power Panels",
+			"animationList": [{
+					"name": "Explosion (Vertical)",
+					"description": "Unassembled Panelboard offering is an exact match with the factory built panelboards"
+				},
+				{
+					"name": "Explosion (Horizontal)",
+					"description": "Field convertible main breaker and main lug kit allow switching with no change in box size or cabling."
+				},
+				{
+					"name": "Inverted",
+					"description": "Design allows the panel to be inverted in the field and keeps its labeling legible."
+				}
+			]
+		},
+		{
 			"modelName": "Medium-voltage motor controllers",
 			"animationList": [{
 					"name": "connect",
