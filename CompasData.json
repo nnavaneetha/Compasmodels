@@ -1,12 +1,11 @@
 {
 
-	"url": [
-		{
-			"environment": "https://www.compas.siemens-info.com/",
+	"url": [{
+			"environment": "https://dev9.compasquality.siemens-info.com/",
 			"defaultExt": "mCompas/"
 		},
 		{
-			"environment": "https://dev9.compasquality.siemens-info.com/",
+			"environment": "https://www.compas.siemens-info.com/",
 			"defaultExt": "mCompas/"
 		},{
 		
