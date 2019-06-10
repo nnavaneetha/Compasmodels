@@ -24,7 +24,7 @@
 	"hotspotsEnable": true,
 	"useC3Models" : "true",
 	"useSandy": true,
-	"version": "8",
+	"version": "9",
 	"modelUrl": {
 		"static": "https://d02.compasquality.siemens-info.com/c3services/doc/d5/20181/171496432/",
 		"config": "https://d02.compasquality.siemens-info.com/c3services/doc/d5/20181/171550231/",
