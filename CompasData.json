@@ -26,9 +26,9 @@
 	"useSandy": true,
 	"version": "10",
 	"modelUrl": {
-		"staticModels": "https://d02.compasquality.siemens-info.com/c3services/doc/d5/20181/171496432/",
-		"configModels": "https://d02.compasquality.siemens-info.com/c3services/doc/d5/20181/171550231/",
-		"buswayModels": "https://d02.compasquality.siemens-info.com/c3services/doc/d5/20181/195289761/"
+		"staticModels": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/20181/171496432/",
+		"configModels": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/20181/171550231/",
+		"buswayModels": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/20181/195289761/"
 	}
 
 }
