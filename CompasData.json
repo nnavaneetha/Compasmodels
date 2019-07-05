@@ -2,7 +2,8 @@
 
 	"url": [{
 			"environment": "https://dev9.compasquality.siemens-info.com/",
-			"defaultExt": "mCompas/"
+			"defaultExt": "COMPASAppStore/ConsultantContractor/index.html#/
+"
 		},
 		{
 			"environment": "https://www.compas.siemens-info.com/",
