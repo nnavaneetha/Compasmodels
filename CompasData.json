@@ -24,6 +24,6 @@
 	"hotspotsEnable": true,
 	"useC3Models" : "true",
 	"useSandy": true,
-	"version": "9",
+	"version": "10",
 	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/"
 }
