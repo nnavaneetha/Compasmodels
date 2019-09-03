@@ -2,7 +2,7 @@
 
 	"url": [{
 			"environment": "https://dev9.compasquality.siemens-info.com/",
-			"defaultExt": "COMPASAppStore/ConsultantContractor/index.html#/"
+			"defaultExt": "COMPASAppStore/ConsultantContractor2/index.html#/"
 		},
 		{
 			"environment": "https://www.compas.siemens-info.com/",
@@ -24,6 +24,6 @@
 	"hotspotsEnable": true,
 	"useC3Models" : "true",
 	"useSandy": true,
-	"version": "10",
+	"version": "9",
 	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/"
 }
