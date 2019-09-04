@@ -18,6 +18,6 @@
 		"https://new.siemens.com/",
 		"https://learning.compasquality.siemens-info.com/"
 		],
-	"ext": [".pdf", ".mp4", ".xls"],
+	"ext": [".pdf", ".mp4", ".xlsx"],
 	"version": "14"
 }
