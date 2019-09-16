@@ -84,6 +84,48 @@
 			"hotspotUrl":"",
 			"animations": []
 
+		}, {
+			"modelName": "BBKB32",
+			"version": "1",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "BBKED32",
+			"version": "1",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "US2_BBKVA52P3T",
+			"version": "1",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "BBKNB32",
+			"version": "1",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "US2_BBKGB32",
+			"version": "1",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "US2_BBKQR1",
+			"version": "1",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
 		}
 
 	]
