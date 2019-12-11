@@ -1,6 +1,10 @@
 {
 
 	"url": [{
+			"environment": "https://d09.compasquality.siemens-info.com/",
+			"defaultExt": "COMPASAppStore/ConsultantContractor/index.html#/"
+		},
+		{
 			"environment": "https://contractor.compas.siemens-info.com/",
 			"defaultExt": "index.html#/"
 		},
