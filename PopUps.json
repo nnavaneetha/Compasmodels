@@ -20,7 +20,12 @@
 		"www.siemens.com/download?BTLV_",
 		"https://w3.usa.siemens.com/powerdistribution/us/en/product-portfolio/",
 		"https://www.downloads.siemens.com/download-center/Download",
-		"https://drive.compas.siemens-info.com/#!/bimcompas/"
+		"https://drive.compas.siemens-info.com/#!/bimcompas/",
+		"https://www.facebook.com/",
+		"https://twitter.com/",
+		"https://www.linkedin.com/",
+		"https://www.youtube.com/",
+		"https://www.instagram.com/"
 		],
 	"ext": [".pdf", ".mp4", ".xlsx", ".pdf/"],
 	"version": "16"
