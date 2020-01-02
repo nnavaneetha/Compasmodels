@@ -25,7 +25,8 @@
 		"https://twitter.com/",
 		"https://www.linkedin.com/",
 		"https://www.youtube.com/",
-		"https://www.instagram.com/"
+		"https://www.instagram.com/",
+		"https://sandy.compas.siemens-info.com/"
 		],
 	"ext": [".pdf", ".mp4", ".xlsx", ".pdf/"],
 	"version": "17"
