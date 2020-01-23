@@ -2,7 +2,7 @@
 
 	"url": [{
 			"environment": "https://contractor.compas.siemens-info.com/",
-			"defaultExt": "index.html#/"
+			"defaultExt": ""
 		},
 		{
 			"environment": "https://www.compas.siemens-info.com/",
