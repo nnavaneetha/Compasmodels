@@ -27,9 +27,8 @@
 		"https://www.youtube.com/",
 		"https://www.instagram.com/",
 		"https://sandy.compas.siemens-info.com/",
-		"https://contractor.compas.siemens-info.com/COMPASAppStore/SurgeCalc/",
-		"https://www.compas.siemens-info.com/mCompas"
+		"https://contractor.compas.siemens-info.com/COMPASAppStore/SurgeCalc/"
 		],
 	"ext": [".pdf", ".mp4", ".xlsx", ".pdf/"],
-	"version": "19"
+	"version": "18"
 }
