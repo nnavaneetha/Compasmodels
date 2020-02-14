@@ -76,7 +76,7 @@
 
 	}, {
 		"fileName": "TYZLV_SECTION",
-		"version": "1",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}, {
@@ -117,6 +117,11 @@
 	}, {
 		"fileName": "BUSWAY_SWITCH_BOARD",
 		"version": "3",
+		"hotspotUrl": ""
+
+	},{
+		"fileName": "TYZPM_POWERMOD",
+		"version": "2",
 		"hotspotUrl": ""
 
 	}]
