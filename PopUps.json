@@ -33,8 +33,9 @@
 		"https://new.siemens.com/us/en/general/legal.html",
 		"https://www.siemens.com/us/en/home/general/legal.html#",
 		"http://www.usa.siemens.com/en/footer/corporate_info.htm",
-		"https://new.siemens.com/global/en/general/cookie-notice.html"
+		"https://new.siemens.com/global/en/general/cookie-notice.html",
+		"http://www.siemens.com/corp/en/index/siemens_ag_cookie_policy.htm"
 		],
 	"ext": [".pdf", ".mp4", ".xlsx", ".pdf/"],
-	"version": "22"
+	"version": "23"
 }
