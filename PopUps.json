@@ -27,13 +27,13 @@
 		"https://www.youtube.com/",
 		"https://www.instagram.com/",
 		"https://sandy.compas.siemens-info.com/",
-		"https://contractor.compas.siemens-info.com/COMPASAppStore/SurgeCalc/"
-		"https://new.siemens.com/us/en.html"
-		"https://compas-compliance.s3.amazonaws.com/COMPAS_Terms_and_Conditions.html?1583751530166"
-		"https://new.siemens.com/us/en/general/legal.html#tabentry-1231974092-682358021"
-		"https://new.siemens.com/us/en/general/legal.html#tabentry-860932218-799112652"
+		"https://contractor.compas.siemens-info.com/COMPASAppStore/SurgeCalc/",
+		"https://new.siemens.com/us/en.html",
+		"https://compas-compliance.s3.amazonaws.com/COMPAS_Terms_and_Conditions.html?1583751530166",
+		"https://new.siemens.com/us/en/general/legal.html#tabentry-1231974092-682358021",
+		"https://new.siemens.com/us/en/general/legal.html#tabentry-860932218-799112652",
 		"https://new.siemens.com/global/en/general/cookie-notice.html"
 		],
 	"ext": [".pdf", ".mp4", ".xlsx", ".pdf/"],
-	"version": "19"
+	"version": "20"
 }
