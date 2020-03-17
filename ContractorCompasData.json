@@ -18,6 +18,10 @@
 			"defaultExt": "mCompas_SQR/"
 		},
 		{
+			"environment": "https://d09.compasquality.siemens-info.com/",
+			"defaultExt": "COMPASAppStore/ConsultantContractor/"
+		},
+		{
 			"environment": "https://d07.compasquality.siemens-info.com/",
 			"defaultExt": "mCompas_SQR/"
 		}
