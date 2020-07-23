@@ -35,8 +35,7 @@
 		"http://www.usa.siemens.com/en/footer/corporate_info.htm",
 		"https://new.siemens.com/global/en/general/cookie-notice.html",
 		"http://www.siemens.com/corp/en/index/siemens_ag_cookie_policy.htm",
-		"https://signin.siemens.com/regpublic/Login.aspx?ret=http%3a%2f%2fextranet.w3.siemens.com%2fus%2fdistributorresourcecenter%2fPages%2fdrc-home.aspx&lang=en"
-		
+                 "https://usa.siemens.com/drc"		
 		],
 	"ext": [".pdf", ".mp4", ".xlsx", ".pdf/"],
 	"version": "24"
