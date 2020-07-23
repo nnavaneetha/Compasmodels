@@ -36,7 +36,9 @@
 		"https://new.siemens.com/global/en/general/cookie-notice.html",
 		"http://www.siemens.com/corp/en/index/siemens_ag_cookie_policy.htm",
                  "https://usa.siemens.com/drc",
-                "https://usa.siemens.com/src"
+                "https://usa.siemens.com/src",
+		"https://www.compas.siemens-info.com/mCompas/compas/feedback/",
+		"https://www.compas.siemens-info.com/mCompas/compas/QuickSight/"
 		
 		],
 	"ext": [".pdf", ".mp4", ".xlsx", ".pdf/"],
