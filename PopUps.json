@@ -35,7 +35,9 @@
 		"http://www.usa.siemens.com/en/footer/corporate_info.htm",
 		"https://new.siemens.com/global/en/general/cookie-notice.html",
 		"http://www.siemens.com/corp/en/index/siemens_ag_cookie_policy.htm",
-                 "https://usa.siemens.com/drc"		
+                 "https://usa.siemens.com/drc",
+                "https://usa.siemens.com/src",
+		"https://contractor.compas.siemens-info.com/"
 		],
 	"ext": [".pdf", ".mp4", ".xlsx", ".pdf/"],
 	"version": "24"
