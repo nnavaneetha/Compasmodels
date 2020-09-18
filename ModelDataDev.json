@@ -126,7 +126,15 @@
 			"hotspotUrl":"",
 			"animations": []
 
+		},
+		{
+			"modelName": "JD Single Mount Installation",
+			"version": "1",
+			"url": "hhttps://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
 		}
+			
 
 	]
 
