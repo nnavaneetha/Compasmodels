@@ -5,10 +5,6 @@
 			"defaultExt": ""
 		},
 		{
-			"environment": "http://siaistudio.in/index.html#/",
-			"defaultExt": ""
-		},
-		{
 			"environment": "https://www.compas.siemens-info.com/",
 			"defaultExt": "mCompas/"
 		},
@@ -35,6 +31,6 @@
 	"useSandy": false,
 	"version": "18",
 	"majorversion":"4",
-	"minorversion":"3",
+	"minorversion":"4",
 	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/"
 }
