@@ -5,6 +5,10 @@
 			"defaultExt": ""
 		},
 		{
+			"environment": "http://siaistudio.in/index.html#/",
+			"defaultExt": ""
+		},
+		{
 			"environment": "https://www.compas.siemens-info.com/",
 			"defaultExt": "mCompas/"
 		},
