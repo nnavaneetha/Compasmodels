@@ -122,7 +122,7 @@
 		}, {
 			"modelName": "US2_BBKQR1",
 			"version": "1",
-			"url": "hhttps://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
 			"hotspotUrl":"",
 			"animations": []
 
@@ -130,8 +130,8 @@
 		{
 			"modelName": "Renewables",
 			"version": "1",
-			"url": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/20181/171496432/renewables.unity3d",
-			"hotspotUrl":"",
+			"url": "",
+			"hotspotUrl":"https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/VR_Training_Models_to_Animate.fbx",
 			"animations": []
 		}
 			
