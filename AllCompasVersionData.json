@@ -7,7 +7,7 @@
 		"https://q02.compasquality.siemens-info.com/",
 		"https://d02.compasquality.siemens-info.com/",
 		"https://dev2.compasquality.siemens-info.com/",		
-		"https://contractor.compasquality.siemens-info.com/"
+		
 	],
 	"useC3Models": "true",
 	"useSandy": true,
