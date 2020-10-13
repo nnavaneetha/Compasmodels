@@ -24,6 +24,10 @@
 		{
 			"environment": "https://d07.compasquality.siemens-info.com/",
 			"defaultExt": "mCompas_SQR/"
+		},
+		{
+			"environment": "https://contractor.compasquality.siemens-info.com/",
+			"defaultExt": ""
 		}
 	],
 	"hotspotsEnable": true,
