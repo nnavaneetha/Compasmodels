@@ -39,7 +39,7 @@
                 "https://usa.siemens.com/src",
 		"https://www.compas.siemens-info.com/mCompas/compas/feedback/",
 		"https://www.compas.siemens-info.com/mCompas/compas/QuickSight/"
-		"https://contractor.compasquality.siemens-info.com/"
+		
 		
 		],
 	"ext": [".pdf", ".mp4", ".xlsx", ".pdf/"],
