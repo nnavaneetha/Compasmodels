@@ -28,6 +28,10 @@
 		{
 			"environment": "https://contractor.compasquality.siemens-info.com/",
 			"defaultExt": ""
+		},
+		{
+			"environment": "https://d01.compasquality.siemens-info.com/COMPASAppStore/ConsultantContractor/",
+			"defaultExt": ""
 		}
 	],
 	"hotspotsEnable": true,
