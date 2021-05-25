@@ -40,5 +40,6 @@
 	"version": "19",
 	"majorversion":"4",
 	"minorversion":"4",
-	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/"
+	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/",
+	 "androidModelUrlBase" : ""
 }
