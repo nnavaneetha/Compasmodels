@@ -2,36 +2,52 @@
 
 	"url": [{
 			"environment": "https://contractor.compas.siemens-info.com/",
-			"defaultExt": ""
+			"defaultExt": "",
+			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+      			"title":"Header1"			
 		},
 		{
 			"environment": "https://www.compas.siemens-info.com/",
-			"defaultExt": "mCompas/"
+			"defaultExt": "mCompas/",
+			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+			"title":"Header2"
 		},
 		{
 			"environment": "https://beta.compasquality.siemens-info.com/",
-			"defaultExt": "mCompas/"
+			"defaultExt": "mCompas/",
+			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+      			"title":"Header3"
 		},
 		{
 		
 			"environment": "https://q02.compasquality.siemens-info.com/",
-			"defaultExt": "mCompas_SQR/"
+			"defaultExt": "mCompas_SQR/",
+			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+      			"title":"Header4"
 		},
 		{
 			"environment": "https://d09.compasquality.siemens-info.com/",
-			"defaultExt": "COMPASAppStore/ConsultantContractor/"
+			"defaultExt": "COMPASAppStore/ConsultantContractor/",
+			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+      			"title":"Header5"
 		},
 		{
 			"environment": "https://d07.compasquality.siemens-info.com/",
-			"defaultExt": "mCompas_SQR/"
+			"defaultExt": "mCompas_SQR/",
+			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+      			"title":"Header6"
 		},
 		{
 			"environment": "https://contractor.compasquality.siemens-info.com/",
-			"defaultExt": ""
+			"defaultExt": "",
+			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+      			"title":"Header7"
 		},
 		{
 			"environment": "https://d01.compasquality.siemens-info.com/COMPASAppStore/ConsultantContractor/",
-			"defaultExt": ""
+			"defaultExt": "",
+			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+      			"title":"Header8"
 		}
 	],
 	"hotspotsEnable": true,
@@ -41,5 +57,5 @@
 	"majorversion":"4",
 	"minorversion":"4",
 	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/",
-	 "androidModelUrlBase" : "https://www.compas.siemens-info.com/c3services/doc/d7/"
+	"androidModelUrlBase" : "https://www.compas.siemens-info.com/c3services/doc/d7/"
 }
