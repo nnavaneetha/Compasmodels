@@ -8,6 +8,7 @@
       {
          "title":"95plus.unity3d",
          "name":"95plus",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365620",
          "version":"1.0",
          "fileEntryId":2365620,
@@ -33,6 +34,7 @@
       {
          "title":"95plus.unity3d.manifest",
           "name":"95plus",
+          "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365584",
          "version":"1.0",
          "fileEntryId":2365584,
@@ -58,6 +60,7 @@
       {
          "title":"Android.manifest",
           "name":"Android",
+          "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365764",
          "version":"1.0",
          "fileEntryId":2365764,
@@ -83,6 +86,7 @@
       {
          "title":"Android.txt",
           "name":"Android",
+          "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365728",
          "version":"1.0",
          "fileEntryId":2365728,
@@ -108,6 +112,7 @@
       {
          "title":"buswaysystems.unity3d",
           "name":"buswaysystems",
+          "altName":"busway-systems",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
          "version":"1.0",
          "fileEntryId":2365746,
@@ -119,12 +124,12 @@
          "uuid":"a804701c-7f5b-4747-92e7-80cb9208c4e7",
          "attributes":{
             "comment":"",
-            "title":"buswaysystems.unity3d.manifest"
+            "title":"buswaysystems.unity3d"
          },
          "isHybrid":true,
          "hybridData":{
            "frontLoadUrl":"https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
-           "rearLoadUrl":"",
+           "rearLoadUrl":"https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
            "type": 1,
            "width": 0,
            "height": 0
@@ -133,6 +138,7 @@
       {
          "title":"buswaysystems.unity3d.manifest",
          "name":"buswaysystems",
+         "altName":"busway-systems",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365746",
          "version":"1.0",
          "fileEntryId":2365746,
@@ -158,6 +164,7 @@
       {
          "title":"commercialmultimeteringswitchboards.unity3d",
          "name":"commercialmultimeteringswitchboards",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
          "version":"1.0",
          "fileEntryId":2365602,
@@ -183,6 +190,7 @@
       {
          "title":"commercialmultimeteringswitchboards.unity3d.manifest",
          "name":"commercialmultimeteringswitchboards",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365710",
          "version":"1.0",
          "fileEntryId":2365710,
@@ -208,6 +216,7 @@
       {
          "title":"distributionswitchboards.unity3d",
          "name":"distributionswitchboards",
+         "altName":"switchboards",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366214",
          "version":"1.0",
          "fileEntryId":2366214,
@@ -233,6 +242,7 @@
       {
          "title":"distributionswitchboards.unity3d.manifest",
          "name":"distributionswitchboards",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365692",
          "version":"1.0",
          "fileEntryId":2365692,
@@ -258,6 +268,7 @@
       {
          "title":"gasinsulatedswitchgear.unity3d",
          "name":"gasinsulatedswitchgear",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366070",
          "version":"1.0",
          "fileEntryId":2366070,
@@ -283,6 +294,7 @@
       {
          "title":"gasinsulatedswitchgear.unity3d.manifest",
          "name":"gasinsulatedswitchgear",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365674",
          "version":"1.0",
          "fileEntryId":2365674,
@@ -308,6 +320,7 @@
       {
          "title":"loadcenters.unity3d",
          "name":"loadcenters",
+         "altName":"residential-load-centers",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365800",
          "version":"1.0",
          "fileEntryId":2365800,
@@ -333,6 +346,7 @@
       {
          "title":"loadcenters.unity3d.manifest",
          "name":"loadcenters",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365656",
          "version":"1.0",
          "fileEntryId":2365656,
@@ -358,6 +372,7 @@
       {
          "title":"lowvoltagemotorcontrolcenters.unity3d",
          "name":"lowvoltagemotorcontrolcenters",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365782",
          "version":"1.0",
          "fileEntryId":2365782,
@@ -383,6 +398,7 @@
       {
          "title":"lowvoltagemotorcontrolcenters.unity3d.manifest",
          "name":"lowvoltagemotorcontrolcenters",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365638",
          "version":"1.0",
          "fileEntryId":2365638,
@@ -408,6 +424,7 @@
       {
          "title":"mediumvoltagegasinsulatedswitchgear.unity3d",
          "name":"mediumvoltagegasinsulatedswitchgear",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366160",
          "version":"1.0",
          "fileEntryId":2366160,
@@ -433,6 +450,7 @@
       {
          "title":"mediumvoltagegasinsulatedswitchgear.unity3d.manifest",
          "name":"mediumvoltagegasinsulatedswitchgear",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365890",
          "version":"1.0",
          "fileEntryId":2365890,
@@ -458,6 +476,7 @@
       {
          "title":"mediumvoltagemetalcladswitchgear.unity3d",
          "name":"mediumvoltagemetalcladswitchgear",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365962",
          "version":"1.0",
          "fileEntryId":2365962,
@@ -483,6 +502,7 @@
       {
          "title":"mediumvoltagemetalcladswitchgear.unity3d.manifest",
          "name":"mediumvoltagemetalcladswitchgear",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365926",
          "version":"1.0",
          "fileEntryId":2365926,
@@ -508,6 +528,7 @@
       {
          "title":"mediumvoltagemetalencloseswitchgear.unity3d",
          "name":"mediumvoltagemetalencloseswitchgear",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365836",
          "version":"1.0",
          "fileEntryId":2365836,
@@ -533,6 +554,7 @@
       {
          "title":"mediumvoltagemetalencloseswitchgear.unity3d.manifest",
          "name":"mediumvoltagemetalencloseswitchgear",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365818",
          "version":"1.0",
          "fileEntryId":2365818,
@@ -558,6 +580,7 @@
       {
          "title":"mediumvoltagemotorcontrollers.unity3d",
          "name":"mediumvoltagemotorcontrollers",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366196",
          "version":"1.0",
          "fileEntryId":2366196,
@@ -583,6 +606,7 @@
       {
          "title":"mediumvoltagemotorcontrollers.unity3d.manifest",
          "name":"mediumvoltagemotorcontrollers",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365872",
          "version":"1.0",
          "fileEntryId":2365872,
@@ -608,6 +632,7 @@
       {
          "title":"metering.unity3d",
          "name":"metering",
+         "altName":"multi-family-metering",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366124",
          "version":"1.0",
          "fileEntryId":2366124,
@@ -633,6 +658,7 @@
       {
          "title":"metering.unity3d.manifest",
          "name":"metering",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365908",
          "version":"1.0",
          "fileEntryId":2365908,
@@ -658,6 +684,7 @@
       {
          "title":"panelboard.unity3d",
          "name":"panelboard",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366124",
          "version":"1.0",
          "fileEntryId":2365854,
@@ -683,6 +710,7 @@
       {
          "title":"panelboard.unity3d.manifest",
          "name":"panelboard",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365854",
          "version":"1.0",
          "fileEntryId":2365854,
@@ -708,6 +736,7 @@
       {
          "title":"powerpanels.unity3d",
          "name":"powerpanels",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366178",
          "version":"1.0",
          "fileEntryId":2366178,
@@ -733,6 +762,7 @@
       {
          "title":"powerpanels.unity3d.manifest",
          "name":"powerpanels",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365944",
          "version":"1.0",
          "fileEntryId":2365944,
@@ -758,6 +788,7 @@
       {
          "title":"safetyswitches.unity3d",
          "name":"safetyswitches",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366142",
          "version":"1.0",
          "fileEntryId":2366142,
@@ -783,6 +814,7 @@
       {
          "title":"safetyswitches.unity3d.manifest",
          "name":"safetyswitches",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365980",
          "version":"1.0",
          "fileEntryId":2365980,
@@ -808,6 +840,7 @@
       {
          "title":"switchboards.unity3d",
          "name":"switchboards",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366106",
          "version":"1.0",
          "fileEntryId":2366106,
@@ -833,6 +866,7 @@
       {
          "title":"switchboards.unity3d.manifest",
          "name":"switchboards",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365998",
          "version":"1.0",
          "fileEntryId":2365998,
@@ -858,6 +892,7 @@
       {
          "title":"switchgear.unity3d",
          "name":"switchgear",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366088",
          "version":"1.0",
          "fileEntryId":2366088,
@@ -883,6 +918,7 @@
       {
          "title":"switchgear.unity3d.manifest",
          "name":"switchgear",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366034",
          "version":"1.0",
          "fileEntryId":2366034,
@@ -908,6 +944,7 @@
       {
          "title":"transformers.unity3d",
          "name":"transformers",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366052",
          "version":"1.0",
          "fileEntryId":2366052,
@@ -933,6 +970,7 @@
       {
          "title":"transformers.unity3d.manifest",
          "name":"transformers",
+         "altName":"",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366016",
          "version":"1.0",
          "fileEntryId":2366016,
@@ -958,3 +996,4 @@
    ],
    "filesCount":36
 }
+
