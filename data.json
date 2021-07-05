@@ -7,6 +7,7 @@
    "files":[
       {
          "title":"95plus.unity3d",
+         "name":"95plus",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365620",
          "version":"1.0",
          "fileEntryId":2365620,
@@ -19,10 +20,19 @@
          "attributes":{
             "comment":"",
             "title":"95plus.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"95plus.unity3d.manifest",
+          "name":"95plus",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365584",
          "version":"1.0",
          "fileEntryId":2365584,
@@ -35,10 +45,19 @@
          "attributes":{
             "comment":"",
             "title":"95plus.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"Android.manifest",
+          "name":"Android",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365764",
          "version":"1.0",
          "fileEntryId":2365764,
@@ -51,10 +70,19 @@
          "attributes":{
             "comment":"",
             "title":"Android.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"Android.txt",
+          "name":"Android",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365728",
          "version":"1.0",
          "fileEntryId":2365728,
@@ -67,10 +95,44 @@
          "attributes":{
             "comment":"",
             "title":"Android.txt"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
+         }
+      },
+      {
+         "title":"buswaysystems.unity3d",
+          "name":"buswaysystems",
+         "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+         "version":"1.0",
+         "fileEntryId":2365746,
+         "folderId":2365579,
+         "groupId":20181,
+         "createDate":"2020-10-08T10:49:43.000+0000",
+         "modifiedDate":"2020-10-08T10:49:43.000+0000",
+         "treePath":"/253107/266420/2351420/2364268/2365579/",
+         "uuid":"a804701c-7f5b-4747-92e7-80cb9208c4e7",
+         "attributes":{
+            "comment":"",
+            "title":"buswaysystems.unity3d.manifest"
+         },
+         "isHybrid":true,
+         "hybridData":{
+           "frontLoadUrl":"https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"buswaysystems.unity3d.manifest",
+         "name":"buswaysystems",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365746",
          "version":"1.0",
          "fileEntryId":2365746,
@@ -83,10 +145,19 @@
          "attributes":{
             "comment":"",
             "title":"buswaysystems.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"commercialmultimeteringswitchboards.unity3d",
+         "name":"commercialmultimeteringswitchboards",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
          "version":"1.0",
          "fileEntryId":2365602,
@@ -99,10 +170,19 @@
          "attributes":{
             "comment":"",
             "title":"commercialmultimeteringswitchboards.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"commercialmultimeteringswitchboards.unity3d.manifest",
+         "name":"commercialmultimeteringswitchboards",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365710",
          "version":"1.0",
          "fileEntryId":2365710,
@@ -115,10 +195,19 @@
          "attributes":{
             "comment":"",
             "title":"commercialmultimeteringswitchboards.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"distributionswitchboards.unity3d",
+         "name":"distributionswitchboards",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366214",
          "version":"1.0",
          "fileEntryId":2366214,
@@ -131,10 +220,19 @@
          "attributes":{
             "comment":"",
             "title":"distributionswitchboards.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"distributionswitchboards.unity3d.manifest",
+         "name":"distributionswitchboards",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365692",
          "version":"1.0",
          "fileEntryId":2365692,
@@ -147,10 +245,19 @@
          "attributes":{
             "comment":"",
             "title":"distributionswitchboards.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"gasinsulatedswitchgear.unity3d",
+         "name":"gasinsulatedswitchgear",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366070",
          "version":"1.0",
          "fileEntryId":2366070,
@@ -163,10 +270,19 @@
          "attributes":{
             "comment":"",
             "title":"gasinsulatedswitchgear.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"gasinsulatedswitchgear.unity3d.manifest",
+         "name":"gasinsulatedswitchgear",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365674",
          "version":"1.0",
          "fileEntryId":2365674,
@@ -179,10 +295,19 @@
          "attributes":{
             "comment":"",
             "title":"gasinsulatedswitchgear.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"loadcenters.unity3d",
+         "name":"loadcenters",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365800",
          "version":"1.0",
          "fileEntryId":2365800,
@@ -195,10 +320,19 @@
          "attributes":{
             "comment":"",
             "title":"loadcenters.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"loadcenters.unity3d.manifest",
+         "name":"loadcenters",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365656",
          "version":"1.0",
          "fileEntryId":2365656,
@@ -211,10 +345,19 @@
          "attributes":{
             "comment":"",
             "title":"loadcenters.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"lowvoltagemotorcontrolcenters.unity3d",
+         "name":"lowvoltagemotorcontrolcenters",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365782",
          "version":"1.0",
          "fileEntryId":2365782,
@@ -227,10 +370,19 @@
          "attributes":{
             "comment":"",
             "title":"lowvoltagemotorcontrolcenters.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"lowvoltagemotorcontrolcenters.unity3d.manifest",
+         "name":"lowvoltagemotorcontrolcenters",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365638",
          "version":"1.0",
          "fileEntryId":2365638,
@@ -243,10 +395,19 @@
          "attributes":{
             "comment":"",
             "title":"lowvoltagemotorcontrolcenters.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"mediumvoltagegasinsulatedswitchgear.unity3d",
+         "name":"mediumvoltagegasinsulatedswitchgear",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366160",
          "version":"1.0",
          "fileEntryId":2366160,
@@ -259,10 +420,19 @@
          "attributes":{
             "comment":"",
             "title":"mediumvoltagegasinsulatedswitchgear.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"mediumvoltagegasinsulatedswitchgear.unity3d.manifest",
+         "name":"mediumvoltagegasinsulatedswitchgear",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365890",
          "version":"1.0",
          "fileEntryId":2365890,
@@ -275,10 +445,19 @@
          "attributes":{
             "comment":"",
             "title":"mediumvoltagegasinsulatedswitchgear.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"mediumvoltagemetalcladswitchgear.unity3d",
+         "name":"mediumvoltagemetalcladswitchgear",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365962",
          "version":"1.0",
          "fileEntryId":2365962,
@@ -291,10 +470,19 @@
          "attributes":{
             "comment":"",
             "title":"mediumvoltagemetalcladswitchgear.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"mediumvoltagemetalcladswitchgear.unity3d.manifest",
+         "name":"mediumvoltagemetalcladswitchgear",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365926",
          "version":"1.0",
          "fileEntryId":2365926,
@@ -307,10 +495,19 @@
          "attributes":{
             "comment":"",
             "title":"mediumvoltagemetalcladswitchgear.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"mediumvoltagemetalencloseswitchgear.unity3d",
+         "name":"mediumvoltagemetalencloseswitchgear",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365836",
          "version":"1.0",
          "fileEntryId":2365836,
@@ -323,10 +520,19 @@
          "attributes":{
             "comment":"",
             "title":"mediumvoltagemetalencloseswitchgear.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"mediumvoltagemetalencloseswitchgear.unity3d.manifest",
+         "name":"mediumvoltagemetalencloseswitchgear",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365818",
          "version":"1.0",
          "fileEntryId":2365818,
@@ -339,10 +545,19 @@
          "attributes":{
             "comment":"",
             "title":"mediumvoltagemetalencloseswitchgear.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"mediumvoltagemotorcontrollers.unity3d",
+         "name":"mediumvoltagemotorcontrollers",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366196",
          "version":"1.0",
          "fileEntryId":2366196,
@@ -355,10 +570,19 @@
          "attributes":{
             "comment":"",
             "title":"mediumvoltagemotorcontrollers.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"mediumvoltagemotorcontrollers.unity3d.manifest",
+         "name":"mediumvoltagemotorcontrollers",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365872",
          "version":"1.0",
          "fileEntryId":2365872,
@@ -371,10 +595,19 @@
          "attributes":{
             "comment":"",
             "title":"mediumvoltagemotorcontrollers.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"metering.unity3d",
+         "name":"metering",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366124",
          "version":"1.0",
          "fileEntryId":2366124,
@@ -387,10 +620,19 @@
          "attributes":{
             "comment":"",
             "title":"metering.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"metering.unity3d.manifest",
+         "name":"metering",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365908",
          "version":"1.0",
          "fileEntryId":2365908,
@@ -403,10 +645,44 @@
          "attributes":{
             "comment":"",
             "title":"metering.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
+         }
+      },
+      {
+         "title":"panelboard.unity3d",
+         "name":"panelboard",
+         "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366124",
+         "version":"1.0",
+         "fileEntryId":2365854,
+         "folderId":2365579,
+         "groupId":20181,
+         "createDate":"2020-10-08T10:49:53.000+0000",
+         "modifiedDate":"2020-10-08T10:49:53.000+0000",
+         "treePath":"/253107/266420/2351420/2364268/2365579/",
+         "uuid":"4c57b402-a558-4d48-ae15-9f1aad82c405",
+         "attributes":{
+            "comment":"",
+            "title":"panelboard.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"panelboard.unity3d.manifest",
+         "name":"panelboard",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365854",
          "version":"1.0",
          "fileEntryId":2365854,
@@ -419,10 +695,19 @@
          "attributes":{
             "comment":"",
             "title":"panelboard.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"powerpanels.unity3d",
+         "name":"powerpanels",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366178",
          "version":"1.0",
          "fileEntryId":2366178,
@@ -435,10 +720,19 @@
          "attributes":{
             "comment":"",
             "title":"powerpanels.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"powerpanels.unity3d.manifest",
+         "name":"powerpanels",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365944",
          "version":"1.0",
          "fileEntryId":2365944,
@@ -451,10 +745,19 @@
          "attributes":{
             "comment":"",
             "title":"powerpanels.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"safetyswitches.unity3d",
+         "name":"safetyswitches",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366142",
          "version":"1.0",
          "fileEntryId":2366142,
@@ -467,10 +770,19 @@
          "attributes":{
             "comment":"",
             "title":"safetyswitches.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"safetyswitches.unity3d.manifest",
+         "name":"safetyswitches",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365980",
          "version":"1.0",
          "fileEntryId":2365980,
@@ -483,10 +795,19 @@
          "attributes":{
             "comment":"",
             "title":"safetyswitches.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"switchboards.unity3d",
+         "name":"switchboards",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366106",
          "version":"1.0",
          "fileEntryId":2366106,
@@ -499,10 +820,19 @@
          "attributes":{
             "comment":"",
             "title":"switchboards.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"switchboards.unity3d.manifest",
+         "name":"switchboards",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365998",
          "version":"1.0",
          "fileEntryId":2365998,
@@ -515,10 +845,19 @@
          "attributes":{
             "comment":"",
             "title":"switchboards.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"switchgear.unity3d",
+         "name":"switchgear",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366088",
          "version":"1.0",
          "fileEntryId":2366088,
@@ -531,10 +870,19 @@
          "attributes":{
             "comment":"",
             "title":"switchgear.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"switchgear.unity3d.manifest",
+         "name":"switchgear",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366034",
          "version":"1.0",
          "fileEntryId":2366034,
@@ -547,10 +895,19 @@
          "attributes":{
             "comment":"",
             "title":"switchgear.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"transformers.unity3d",
+         "name":"transformers",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366052",
          "version":"1.0",
          "fileEntryId":2366052,
@@ -563,10 +920,19 @@
          "attributes":{
             "comment":"",
             "title":"transformers.unity3d"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       },
       {
          "title":"transformers.unity3d.manifest",
+         "name":"transformers",
          "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366016",
          "version":"1.0",
          "fileEntryId":2366016,
@@ -579,6 +945,14 @@
          "attributes":{
             "comment":"",
             "title":"transformers.unity3d.manifest"
+         },
+         "isHybrid":false,
+         "hybridData":{
+           "frontLoadUrl":"",
+           "rearLoadUrl":"",
+           "type": 1,
+           "width": 0,
+           "height": 0
          }
       }
    ],
