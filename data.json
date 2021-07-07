@@ -24,11 +24,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -50,11 +64,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -74,13 +102,27 @@
             "comment":"",
             "title":"Android.manifest"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -100,13 +142,27 @@
             "comment":"",
             "title":"Android.txt"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -128,11 +184,25 @@
          },
          "isHybrid":true,
          "hybridData":{
-           "frontLoadUrl":"https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
-           "rearLoadUrl":"https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -154,11 +224,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -178,13 +262,27 @@
             "comment":"",
             "title":"commercialmultimeteringswitchboards.unity3d"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -204,13 +302,27 @@
             "comment":"",
             "title":"commercialmultimeteringswitchboards.unity3d.manifest"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -230,13 +342,27 @@
             "comment":"",
             "title":"distributionswitchboards.unity3d"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -256,13 +382,27 @@
             "comment":"",
             "title":"distributionswitchboards.unity3d.manifest"
          },
-         "isHybrid":false,
+       "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -282,13 +422,27 @@
             "comment":"",
             "title":"gasinsulatedswitchgear.unity3d"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -308,13 +462,27 @@
             "comment":"",
             "title":"gasinsulatedswitchgear.unity3d.manifest"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -336,11 +504,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -360,13 +542,27 @@
             "comment":"",
             "title":"loadcenters.unity3d.manifest"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -388,11 +584,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -414,11 +624,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -440,11 +664,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -466,11 +704,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -492,11 +744,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -518,11 +784,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -544,11 +824,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -570,11 +864,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -596,11 +904,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -622,11 +944,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -648,11 +984,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -674,11 +1024,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -700,11 +1064,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -726,11 +1104,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -750,13 +1142,27 @@
             "comment":"",
             "title":"powerpanels.unity3d"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -778,11 +1184,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -802,13 +1222,27 @@
             "comment":"",
             "title":"safetyswitches.unity3d"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -830,11 +1264,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -854,13 +1302,27 @@
             "comment":"",
             "title":"switchboards.unity3d"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -880,13 +1342,27 @@
             "comment":"",
             "title":"switchboards.unity3d.manifest"
          },
-         "isHybrid":false,
+        "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -908,11 +1384,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -934,11 +1424,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -960,11 +1464,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       },
       {
@@ -986,11 +1504,25 @@
          },
          "isHybrid":false,
          "hybridData":{
-           "frontLoadUrl":"",
-           "rearLoadUrl":"",
            "type": 1,
-           "width": 0,
-           "height": 0
+           "hybridUrl":"",
+           "hybridFacets":
+           [
+             {
+               "facetTagId" :"1",
+               "facetName":"Quad_1",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             },
+             {
+               "facetTagId" : "2",
+               "facetName":"Quad_2",
+               "imageUrl":"",
+               "facetWidth":-1,
+               "facetHeight":-1
+             }
+           ]
          }
       }
    ],
