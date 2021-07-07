@@ -185,7 +185,8 @@
          "isHybrid":true,
          "hybridData":{
            "type": 1,
-           "hybridUrl":"",
+           "hybridUrl":"https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/Android/hybrid?raw=true",
+           "hybridName":"hybrid",
            "hybridFacets":
            [
              {
