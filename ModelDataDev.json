@@ -4,7 +4,7 @@
 			"modelName": "Busway Systems",
 			"version": "5",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/busway_animation.fbx",
-			"hotspotUrl":"",
+			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotBuswaySystem.json",
 			"animations": []
 
 		}, {
