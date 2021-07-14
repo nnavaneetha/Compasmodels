@@ -57,5 +57,5 @@
 	"majorversion":"4",
 	"minorversion":"4",
 	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/",
-	"androidModelUrlBase" : "https://www.compas.siemens-info.com/c3services/doc/d7/"
+	"androidModelUrlBase" : "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/AndroidData.json"
 }
