@@ -2,76 +2,90 @@
 	"models": [
 		{
 			"modelName": "Busway Systems",
+			"name":"buswaysystems",
 			"version": "5",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/busway_animation.fbx",
 			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotBuswaySystem.json",
 			"animations": []
 
-		}, {
-			"modelName": "Power Panels",
-			"version": "12",
-			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/UPB_tiltlabs.fbx",
+		},
+		{
+			"modelName": "Distribution Switchboards",
+			"name":"distributionswitchboards",
+			"version": "15",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/SB3_tiltlabs.fbx",
+			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json",
+			"animations": []
+
+		},{
+			"modelName": "Gas Insulated Switchgear",
+			"name":"gasinsulatedswitchgear",
+			"version": "1",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
 			"hotspotUrl":"",
 			"animations": []
 
-		}, {
-			"modelName": "Panel Board",
-			"version": "13",
-			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/UPB_tiltlabs.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
-			"modelName": "Safety Switches",
-			"version": "8",
-			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/WSS_tiltlabs.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
+		},{
 			"modelName": "Load Centers",
+			"name":"loadcenters",
 			"version": "6",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/LCWG_tiltlabs.fbx",
 			"hotspotUrl":"",
 			"animations": []
 
-		}, {
+		},
+		{
+			"modelName": "Medium-voltage motor controllers",
+			"name":"mediumvoltagemotorcontrollers",
+			"version": "1",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, 
+		{
 			"modelName": "Metering",
+			"name":"metering",
 			"version": "5",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/powermod1.fbx",
 			"hotspotUrl":"",
 			"animations": []
 
 		},{
+			"modelName": "Panel Board",
+	    "name":"panelboard",
+			"version": "13",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/UPB_tiltlabs.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Power Panels",
+			"name":"powerpanels",
+			"version": "12",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/UPB_tiltlabs.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Safety Switches",
+			"name":"safetyswitches",
+			"version": "8",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/WSS_tiltlabs.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
 			"modelName": "Switchboards",
+      "name":"switchboards",
 			"version": "7",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/SwitchBoard.fbx",
 			"hotspotUrl":"",
 			"animations": []
 
-		}, {
-			"modelName": "Distribution Switchboards",
-			"version": "15",
-			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/SB3_tiltlabs.fbx",
-			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json",
-			"animations": []
-
-		}, {
-			"modelName": "Medium-voltage motor controllers",
-			"version": "1",
-			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
-			"modelName": "Gas Insulated Switchgear",
-			"version": "1",
-			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
-			"hotspotUrl":"",
-			"animations": []
-
-		}, {
+		},  {
 			"modelName": "Single Family Metering",
+			"name":"",
 			"version": "1",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
 			"hotspotUrl":"",
@@ -79,6 +93,7 @@
 
 		}, {
 			"modelName": "Talon Meter",
+			"name":"",
 			"version": "1",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
 			"hotspotUrl":"",
@@ -86,6 +101,7 @@
 
 		}, {
 			"modelName": "BBKB32",
+			"name":"",
 			"version": "1",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
 			"hotspotUrl":"",
@@ -93,6 +109,7 @@
 
 		}, {
 			"modelName": "BBKED32",
+			"name":"",
 			"version": "1",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
 			"hotspotUrl":"",
@@ -100,6 +117,7 @@
 
 		}, {
 			"modelName": "US2_BBKVA52P3T",
+			"name":"",
 			"version": "1",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
 			"hotspotUrl":"",
@@ -107,6 +125,7 @@
 
 		}, {
 			"modelName": "BBKNB32",
+			"name":"",
 			"version": "1",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
 			"hotspotUrl":"",
@@ -114,6 +133,7 @@
 
 		}, {
 			"modelName": "US2_BBKGB32",
+			"name":"",
 			"version": "1",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
 			"hotspotUrl":"",
@@ -121,6 +141,7 @@
 
 		}, {
 			"modelName": "US2_BBKQR1",
+			"name":"",
 			"version": "1",
 			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
 			"hotspotUrl":"",
@@ -129,13 +150,11 @@
 		},
 		{
 			"modelName": "Renewables",
+			"name":"",
 			"version": "1",
 			"url": "",
 			"hotspotUrl":"https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/renewables.fbx",
 			"animations": []
 		}
-			
-
 	]
-
 }
