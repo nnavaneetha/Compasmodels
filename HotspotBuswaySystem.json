@@ -6,21 +6,21 @@
 		"z": 0.27,
 		"details": "Section please read me",
 		"tag": "one",
-		"type": "text"
+		"type": "0"
 	}, {
 		"x": 0.45,
 		"y": 0.05,
 		"z": 0.27,
 		"details": "Aux box",
 		"tag": "two",
-		"type": "widget2"
+		"type": "0"
 	}, {
 		"x": -0.45,
 		"y": 0.05,
 		"z": 0.27,
 		"details": "Random Data Here",
 		"tag": "three",
-		"type": "widget3"
+		"type": "0"
 	},
 	{
 		"x": -0.45,
@@ -28,6 +28,6 @@
 		"z": 0.27,
 		"details": "New Hotspot data",
 		"tag": "three",
-		"type": "widget3"
+		"type": "0"
 	}]
 }
