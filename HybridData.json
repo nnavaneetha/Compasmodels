@@ -1,0 +1,544 @@
+{
+  "products": [
+    {
+      "title": "95plus.unity3d",
+      "name": "95plus",
+      "webUrlName": "",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365620",
+      "version": "1.0",
+      "uuid": "cfa155a6-f1b9-4e03-a37b-42960f9be874",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "buswaysystems",
+      "webUrlName": "busway-systems",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/Android/buswaysystem?raw=true",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/iOS/subwaysystem?raw=true",
+        "hybridName": "buswaysystem",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://www.dropbox.com/s/6m9mouaucfrnmop/tree-736885__480.jpg?dl=1",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "commercialmultimeteringswitchboards.unity3d",
+      "name": "commercialmultimeteringswitchboards",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "4adcad4b-96f8-4e4e-b4e7-1dbaf2ee1714",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "distributionswitchboards.unity3d",
+      "name": "distributionswitchboards",
+      "webUrlName": "switchboards",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366214",
+      "version": "1.0",
+      "uuid": "567d250d-78a9-418f-a125-bc31faba0e98",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "gasinsulatedswitchgear.unity3d",
+      "name": "gasinsulatedswitchgear",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366070",
+      "version": "1.0",
+      "uuid": "47c0b304-e4c1-4e4e-a60a-301dea70184f",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "loadcenters.unity3d",
+      "name": "loadcenters",
+      "webUrlName": "residential-load-centers",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365800",
+      "version": "1.0",
+      "uuid": "340907e6-2fbc-42a7-bacb-424ed0e37bd4",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "lowvoltagemotorcontrolcenters.unity3d",
+      "name": "lowvoltagemotorcontrolcenters",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365782",
+      "version": "1.0",
+      "uuid": "92f137b7-cd03-401c-9c79-3ffbd28d4c9f",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "mediumvoltagegasinsulatedswitchgear.unity3d",
+      "name": "mediumvoltagegasinsulatedswitchgear",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366160",
+      "version": "1.0",
+      "uuid": "01ea0f82-42fa-477e-ba5b-d278388a50a6",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "mediumvoltagemetalcladswitchgear.unity3d",
+      "name": "mediumvoltagemetalcladswitchgear",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365962",
+      "version": "1.0",
+      "uuid": "97f5490b-7d35-407c-b9bc-636abf3df9a5",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "mediumvoltagemetalencloseswitchgear.unity3d",
+      "name": "mediumvoltagemetalencloseswitchgear",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365836",
+      "version": "1.0",
+      "uuid": "a8c2f249-fcab-4efa-8b61-19ce8b3f15a2",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "mediumvoltagemotorcontrollers.unity3d",
+      "name": "mediumvoltagemotorcontrollers",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366196",
+      "version": "1.0",
+      "uuid": "4ac759f2-11ac-47aa-b399-c3164bd9ad31",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "metering.unity3d",
+      "name": "metering",
+      "webUrlName": "multi-family-metering",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366124",
+      "version": "1.0",
+      "uuid": "f24432f9-253e-43fc-a36b-efdd7c449e0e",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "panelboard.unity3d",
+      "name": "panelboard",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366124",
+      "version": "1.0",
+      "uuid": "4c57b402-a558-4d48-ae15-9f1aad82c405",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "powerpanels.unity3d",
+      "name": "powerpanels",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366178",
+      "version": "1.0",
+      "uuid": "f8c869d7-f630-4c85-aed1-98327889ab8b",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "safetyswitches.unity3d",
+      "name": "safetyswitches",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366142",
+      "version": "1.0",
+      "uuid": "bfa521e0-6c53-4c01-bcce-4f21a0bb96f6",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "switchboards.unity3d",
+      "name": "switchboards",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366106",
+      "version": "1.0",
+      "uuid": "31c522b0-b23a-462e-ae7f-66f213923641",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "switchgear.unity3d",
+      "name": "switchgear",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366088",
+      "version": "1.0",
+      "uuid": "6b13f032-e75a-404f-85f0-db5b4d8021c9",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    },
+    {
+      "title": "transformers.unity3d",
+      "name": "transformers",
+      "webUrlName": "",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366052",
+      "uuid": "5ae0599d-e179-436f-9f90-4203a9e792d5",
+      "isHybrid": false,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "",
+        "hybridiOSUrl": "",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    }
+  ]
+}
