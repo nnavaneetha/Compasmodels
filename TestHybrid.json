@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "title": "buswaysystems.unity3d",
+      "name": "mp000000007353968",
+      "webUrlName": "mp000000007353968",
+       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/Android/buswaysystem?raw=true",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/iOS/subwaysystem?raw=true",
+        "hybridName": "buswaysystem",
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://drive.google.com/file/d/16-hMPxFS_SgCesHBsTN12UwNFG86uMCF/view?usp=sharing",
+            "facetWidth": -1,
+            "facetHeight": -1
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://drive.google.com/file/d/1Sc1yC9d_J8STgWd4XY1n9QxgGaWgLvSF/view?usp=sharing",
+            "facetWidth": -1,
+            "facetHeight": -1
+          }
+        ]
+      }
+    }
+  ]
+}
