@@ -12,7 +12,7 @@
         "type": 1,
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/Android/buswaysystem?raw=true",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/iOS/subwaysystem?raw=true",
-        "hybridName": "upb",
+        "hybridName": "buswaysystem",
         "hybridFacets": [
           {
             "facetTagId": "1",
