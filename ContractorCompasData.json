@@ -5,21 +5,24 @@
 			"defaultExt": "",
 			"path":"https://www.dropbox.com/s/6m9mouaucfrnmop/tree-736885__480.jpg?dl=1",
       			"title":"Testing",
-			"hybridModelBaseUrl":"https://github.com/nnavaneetha/Compasmodels/blob/master/TestHybrid.json"
+			"hybridModelBaseUrl":"https://github.com/nnavaneetha/Compasmodels/blob/master/TestHybrid.json",
+			"isDirectLoad":true
 		},
 		{
 			"environment": "https://www.compas.siemens-info.com/",
 			"defaultExt": "mCompas/",
 			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
 			"title":"Header2",
-			"hybridModelBaseUrl":""
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
 		},
 		{
 			"environment": "https://beta.compasquality.siemens-info.com/",
 			"defaultExt": "mCompas/",
 			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       			"title":"Header3",
-			"hybridModelBaseUrl":""
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
 		},
 		{
 		
@@ -27,35 +30,40 @@
 			"defaultExt": "mCompas_SQR/",
 			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       			"title":"Header4",
-			"hybridModelBaseUrl":""
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
 		},
 		{
 			"environment": "https://d09.compasquality.siemens-info.com/",
 			"defaultExt": "COMPASAppStore/ConsultantContractor/",
 			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       			"title":"Header5",
-			"hybridModelBaseUrl":""
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
 		},
 		{
 			"environment": "https://d07.compasquality.siemens-info.com/",
 			"defaultExt": "mCompas_SQR/",
 			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       			"title":"Header6",
-			"hybridModelBaseUrl":""
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
 		},
 		{
 			"environment": "https://contractor.compasquality.siemens-info.com/",
 			"defaultExt": "",
 			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       			"title":"Header7",
-			"hybridModelBaseUrl":""
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
 		},
 		{
 			"environment": "https://d01.compasquality.siemens-info.com/COMPASAppStore/ConsultantContractor/",
 			"defaultExt": "",
 			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       			"title":"Header8",
-			"hybridModelBaseUrl":""
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
 		}
 	],
 	"hotspotsEnable": true,
