@@ -9,12 +9,12 @@
 			"isDirectLoad":true
 		},
 		{
-			"environment": "https://www.compas.siemens-info.com/",
-			"defaultExt": "mCompas/",
+			"environment": "https://new.siemens.com/",
+			"defaultExt": "New Siemens",
 			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
 			"title":"Header2",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
+			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/TestHybrid.json",
+			"isDirectLoad":true
 		},
 		{
 			"environment": "https://beta.compasquality.siemens-info.com/",
