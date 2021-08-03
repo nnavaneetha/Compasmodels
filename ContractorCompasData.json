@@ -10,9 +10,9 @@
 		},
 		{
 			"environment": "https://www.siemens.com/global/en.html",
-			"defaultExt": "New Siemens",
+			"defaultExt": "",
 			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
-			"title":"Header2",
+			"title":"New Siemens",
 			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/TestHybrid.json",
 			"isDirectLoad":true
 		},
