@@ -12,6 +12,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -43,6 +45,7 @@
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/Android/buswaysystem?raw=true",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/iOS/subwaysystem?raw=true",
         "hybridName": "buswaysystem",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotBuswaySystem.json",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -73,6 +76,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -103,6 +108,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -125,7 +132,7 @@
       "title": "gasinsulatedswitchgear.unity3d",
       "name": "gasinsulatedswitchgear",
       "webUrlName": "",
-       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366070",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366070",
       "version": "1.0",
       "uuid": "47c0b304-e4c1-4e4e-a60a-301dea70184f",
       "isHybrid": false,
@@ -133,6 +140,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -163,6 +172,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -193,6 +204,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -223,6 +236,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -253,6 +268,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -283,6 +300,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -313,6 +332,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -343,6 +364,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -373,6 +396,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -403,6 +428,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -433,6 +460,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -463,6 +492,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -493,6 +524,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -522,6 +555,8 @@
         "type": 1,
         "hybridAndroidUrl": "",
         "hybridiOSUrl": "",
+        "hybridName": "",
+        "hybridHotspotUrl":"",
         "hybridFacets": [
           {
             "facetTagId": "1",
