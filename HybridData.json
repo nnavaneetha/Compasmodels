@@ -14,20 +14,20 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
+           
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -45,21 +45,20 @@
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/Android/buswaysystem?raw=true",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/iOS/subwaysystem?raw=true",
         "hybridName": "buswaysystem",
-        "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotBuswaySystem.json",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotBuswaySystem.json", 
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "https://www.dropbox.com/s/6m9mouaucfrnmop/tree-736885__480.jpg?dl=1",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": "https://www.dropbox.com/s/6m9mouaucfrnmop/tree-736885__480.jpg?dl=1"
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1"
           }
         ]
       }
@@ -78,20 +77,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1, 
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -100,7 +98,7 @@
       "title": "distributionswitchboards.unity3d",
       "name": "distributionswitchboards",
       "webUrlName": "switchboards",
-       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366214",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366214",
       "version": "1.0",
       "uuid": "567d250d-78a9-418f-a125-bc31faba0e98",
       "isHybrid": false,
@@ -110,20 +108,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -142,20 +139,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -174,20 +170,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -206,20 +201,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -238,20 +232,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -270,20 +263,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -302,20 +294,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -334,20 +325,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -366,20 +356,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -398,20 +387,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -430,20 +418,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -462,20 +449,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -494,20 +480,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -526,20 +511,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
@@ -557,20 +541,19 @@
         "hybridiOSUrl": "",
         "hybridName": "",
         "hybridHotspotUrl":"",
+        "length": -1,
+        "width": -1,
+        "height": -1,
         "hybridFacets": [
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "",
-            "facetWidth": -1,
-            "facetHeight": -1
+            "imageUrl": ""
           }
         ]
       }
