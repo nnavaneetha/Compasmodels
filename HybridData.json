@@ -80,7 +80,7 @@
         "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotBuswaySystem.json", 
         "markerUrl":"",
         "length": -1,
-        "width": 0.2,
+        "width": -1,
         "height": -1,
         "hybridFacets": [
           {
