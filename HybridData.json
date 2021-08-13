@@ -64,6 +64,38 @@
         ]
       }
     },
+     {
+      "title": "buswaysystems.unity3d",
+      "name": "buswaysystems",
+      "webUrlName": "B00002N5HG",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/Android/buswaysystem?raw=true",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/iOS/subwaysystem?raw=true",
+        "hybridName": "buswaysystem",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotBuswaySystem.json", 
+        "markerUrl":"",
+        "length": -1,
+        "width": 0.2,
+        "height": -1,
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://s3.amazonaws.com/dcc-data-extract/Spin_Images/Residential%20Circuit%20Breakers/783643148192/783643148192_R01_C18.jpg"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://s3.amazonaws.com/dcc-data-extract/Spin_Images/Residential%20Circuit%20Breakers/783643148192/783643148192_R01_C18.jpg"
+          }
+        ]
+      }
+    },
     {
       "title": "commercialmultimeteringswitchboards.unity3d",
       "name": "commercialmultimeteringswitchboards",
