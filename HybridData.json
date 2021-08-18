@@ -84,7 +84,7 @@
         "markerUrl":"",
         "version" : 1,
         "length": -1,
-        "width": 0.2,
+        "width": -1,
         "height": -1,
         "hybridFacets": [
           {
@@ -95,7 +95,17 @@
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
-            "imageUrl": "https://www.dropbox.com/s/2g3kspdtoswql05/q120_F.png?dl=1"
+            "imageUrl": "https://www.dropbox.com/s/x9b0bts1mmaaahn/q120_B.png?dl=1"
+          },
+           {
+            "facetTagId": "3",
+            "facetName": "Quad_3",
+            "imageUrl": "https://www.dropbox.com/s/aewir1wocx17fbq/q120_L.png?dl=1"
+          }, 
+          {
+            "facetTagId": "4",
+            "facetName": "Quad_4",
+            "imageUrl": "https://www.dropbox.com/s/4c3f5azrhyxves8/q120_R.png?dl=1"
           }
         ]
       }
