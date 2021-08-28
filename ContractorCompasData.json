@@ -60,7 +60,7 @@
 		{
 			"environment": "https://www.amazon.com/",
 			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/TestHybrid.json",
+			"path":"https://raw.githubusercontent.com/siaistudio/Compasmodels/master/TestHybrid.json",
       			"title":"Header8",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
