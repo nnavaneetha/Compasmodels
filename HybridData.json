@@ -243,6 +243,39 @@
       }
     },
     {
+      "title": "buswaysystems.unity3d",
+      "name": "B094J8JJW4",
+      "webUrlName": "B094J8JJW4",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "length": -1,
+        "width": 0.1,
+        "height": -1,
+        "hybridFacets": [
+          {
+            "facetTagId": "1",
+            "facetName": "Quad_1",
+            "imageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png"
+          },
+          {
+            "facetTagId": "2",
+            "facetName": "Quad_2",
+            "imageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png"
+          }
+        ]
+      }
+    },
+    {
       "title": "lowvoltagemotorcontrolcenters.unity3d",
       "name": "lowvoltagemotorcontrolcenters",
       "webUrlName": "",
