@@ -58,7 +58,7 @@
 			"isDirectLoad":false
 		},
 		{
-			"environment": "https://www.amazon.com/",
+			"environment": "https://www.amazon.in/",
 			"defaultExt": "",
 			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HybridData.json",
       			"title":"Header8",
