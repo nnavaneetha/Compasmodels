@@ -3,7 +3,7 @@
 	"url": [{
 			"environment": "https://contractor.compas.siemens-info.com/",
 			"defaultExt": "",
-			"path":"https://www.dropbox.com/s/6m9mouaucfrnmop/tree-736885__480.jpg?dl=1",
+			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/eed431ad3401f3d3b010ba9063c3cec4a6ccc171/icon-siemens.png",
       			"title":"Testing",
 			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HybridData.json",
 			"isDirectLoad":true
