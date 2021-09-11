@@ -11,7 +11,7 @@
 		{
 			"environment": "https://www.siemens.com/global/en.html",
 			"defaultExt": "",
-			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
 			"title":"New Siemens",
 			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/TestHybrid.json",
 			"isDirectLoad":true
@@ -52,7 +52,7 @@
 		{
 			"environment": "https://www.amazon.com/Q120-20-Amp-Single-Circuit-Breaker/dp/B00002N5HG",
 			"defaultExt": "",
-			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+			"path":"https://www.amazon.in/favicon.ico",
       			"title":"Amazon",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
