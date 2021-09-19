@@ -16,9 +16,22 @@
         "hybridHotspotUrl":"",
         "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -50,9 +63,22 @@
         "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotBuswaySystem.json", 
         "markerUrl":"https://www.dropbox.com/s/l4uajg6u0khiwkd/one.png?dl=1",
         "version" : 0,
-        "length": -1,
-        "width": 0.2,
-        "height": -1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": 0.2,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": 0.2,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -83,9 +109,22 @@
         "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json", 
         "markerUrl":"https://www.dropbox.com/s/l4uajg6u0khiwkd/one.png?dl=1",
         "version" : 1,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -126,9 +165,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1, 
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -159,9 +211,22 @@
         "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -192,9 +257,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -225,9 +303,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -258,9 +349,22 @@
         "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json", 
         "markerUrl":"",
         "version" : 1,
-        "length": -1,
-        "width": 0.1,
-        "height": -1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -291,9 +395,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -324,9 +441,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -357,9 +487,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+        "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -390,9 +533,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -423,9 +579,22 @@
         "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json", 
         "markerUrl":"",
         "version" : 1,
-        "length": -1,
-        "width": 0.1,
-        "height": -1,
+     "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -456,9 +625,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+      "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -489,9 +671,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -522,9 +717,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -555,9 +763,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -588,9 +809,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -621,9 +855,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -654,9 +901,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
@@ -686,9 +946,22 @@
         "hybridHotspotUrl":"",
          "markerUrl":"",
         "version" : 0,
-        "length": -1,
-        "width": -1,
-        "height": -1,
+       "markerARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": -1,
+          "width": -1,
+          "height": -1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
         "hybridFacets": [
           {
             "facetTagId": "1",
