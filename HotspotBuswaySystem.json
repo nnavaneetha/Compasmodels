@@ -3,21 +3,21 @@
 	"hotspots": [{
 		"x": 0.45,
 		"y": 0.95,
-		"z": 0.27,
+		"z": -0.3,
 		"details": "Section please read me",
 		"tag": "one",
 		"type": "0"
 	}, {
 		"x": 0.45,
 		"y": 0.05,
-		"z": 0.27,
+		"z": 0.3,
 		"details": "Aux box",
 		"tag": "two",
 		"type": "0"
 	}, {
 		"x": -0.45,
 		"y": 0.05,
-		"z": 0.27,
+		"z": -0.3,
 		"details": "Random Data Here",
 		"tag": "three",
 		"type": "0"
@@ -25,7 +25,7 @@
 	{
 		"x": -0.45,
 		"y": 0.95,
-		"z": 0.27,
+		"z": 0.3,
 		"details": "New Hotspot data",
 		"tag": "three",
 		"type": "0"
