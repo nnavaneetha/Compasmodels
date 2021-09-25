@@ -38,8 +38,12 @@
             "facetName": "Quad_1",
             "subProducts": [
               {
-                "title": "Prod1",
+                "title": "F1 P1",
                 "imageUrl": "https://www.dropbox.com/s/6m9mouaucfrnmop/tree-736885__480.jpg?dl=1"
+              },
+              {
+                "title": "F1 P2",
+                "imageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1"
               }
             ]
           },
