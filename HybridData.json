@@ -36,24 +36,29 @@
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
+            "parentUrl": "https://www.dropbox.com/s/6m9mouaucfrnmop/tree-736885__480.jpg?dl=1",
             "subProducts": [
               {
                 "title": "F1 P1",
-                "imageUrl": "https://www.dropbox.com/s/6m9mouaucfrnmop/tree-736885__480.jpg?dl=1"
+                "childUrl": "1",
+                "description": "Lorem Ipsum is simply dummy text"
               },
               {
                 "title": "F1 P2",
-                "imageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1"
+                "childUrl": "1",
+                "description": "Lorem Ipsum is simply dummy text"
               }
             ]
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
+            "parentUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
             "subProducts": [
               {
                 "title": "Prod1",
-                "imageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1"
+                "childUrl": "1",
+                "description": "Lorem Ipsum is simply dummy text"
               }
             ]
           }
@@ -96,40 +101,48 @@
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
+            "parentUrl": "https://www.dropbox.com/s/2g3kspdtoswql05/q120_F.png?dl=1",
             "subProducts": [
               {
                 "title": "Prod1",
-                "imageUrl": "https://www.dropbox.com/s/2g3kspdtoswql05/q120_F.png?dl=1"
+                "childUrl": "1",
+                "description": "Lorem Ipsum is simply dummy text"
               }
             ]
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
+            "parentUrl": "https://www.dropbox.com/s/x9b0bts1mmaaahn/q120_B.png?dl=1",
             "subProducts": [
               {
                 "title": "Prod1",
-                "imageUrl": "https://www.dropbox.com/s/x9b0bts1mmaaahn/q120_B.png?dl=1"
+                "description": "Lorem Ipsum is simply dummy text",
+                "childUrl": "1"
               }
             ]
           },
           {
             "facetTagId": "3",
             "facetName": "Quad_3",
+            "parentUrl": "https://www.dropbox.com/s/aewir1wocx17fbq/q120_L.png?dl=1",
             "subProducts": [
               {
                 "title": "Prod1",
-                "imageUrl": "https://www.dropbox.com/s/aewir1wocx17fbq/q120_L.png?dl=1"
+                "description": "Lorem Ipsum is simply dummy text",
+                "childUrl": "1"
               }
             ]
           },
           {
             "facetTagId": "4",
             "facetName": "Quad_4",
+            "parentUrl": "https://www.dropbox.com/s/4c3f5azrhyxves8/q120_R.png?dl=1",
             "subProducts": [
               {
                 "title": "Prod1",
-                "imageUrl": "https://www.dropbox.com/s/4c3f5azrhyxves8/q120_R.png?dl=1"
+                "description": "Lorem Ipsum is simply dummy text",
+                "childUrl": "1"
               }
             ]
           }
@@ -172,20 +185,24 @@
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
+            "parentUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png",
             "subProducts": [
               {
                 "title": "Prod1",
-                "imageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png"
+                "description": "Lorem Ipsum is simply dummy text",
+                "childUrl": "1"
               }
             ]
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
+            "parentUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png",
             "subProducts": [
               {
                 "title": "Prod1",
-                "imageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png"
+                "description": "Lorem Ipsum is simply dummy text",
+                "childUrl": "1"
               }
             ]
           }
@@ -228,20 +245,24 @@
           {
             "facetTagId": "1",
             "facetName": "Quad_1",
+            "parentUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png",
             "subProducts": [
               {
                 "title": "Prod1",
-                "imageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png"
+                "description": "Lorem Ipsum is simply dummy text",
+                "childUrl": "1"
               }
             ]
           },
           {
             "facetTagId": "2",
             "facetName": "Quad_2",
+            "parentUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png",
             "subProducts": [
               {
                 "title": "Prod1",
-                "imageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png"
+                "description": "Lorem Ipsum is simply dummy text",
+                "childUrl": "1"
               }
             ]
           }
