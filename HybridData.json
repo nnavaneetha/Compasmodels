@@ -9,13 +9,15 @@
       "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
       "isHybrid": true,
       "hybridData": {
+         "hybridName": "buswaysystem",
         "type": 1,
+         "version": 0,
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/Android/buswaysystem?raw=true",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/blob/master/AssetBundles/Hybrid/iOS/subwaysystem?raw=true",
-        "hybridName": "buswaysystem",
+       
         "hybridHotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotBuswaySystem.json",
         "markerUrl": "https://www.dropbox.com/s/l4uajg6u0khiwkd/one.png?dl=1",
-        "version": 0,
+       
         "markerARProperties": {
           "length": -1,
           "width": 0.2,
@@ -32,37 +34,32 @@
           "yAngle": 0,
           "zAngle": 0
         },
-        "hybridFacets": [
+        "baseProduct": 
+        [
           {
-            "facetTagId": "1",
-            "facetName": "Quad_1",
-            "parentUrl": "https://www.dropbox.com/s/6m9mouaucfrnmop/tree-736885__480.jpg?dl=1",
-            "subProducts": [
-              {
-                "title": "F1 P1",
-                "childUrl": "1",
-                "description": "Lorem Ipsum is simply dummy text"
-              },
-              {
-                "title": "F1 P2",
-                "childUrl": "1",
-                "description": "Lorem Ipsum is a simple dummy text"
-              }
-            ]
+            "faceName": "Quad_1",
+            "faceImageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png"
           },
           {
-            "facetTagId": "2",
-            "facetName": "Quad_2",
-            "parentUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
-            "subProducts": [
-              {
-                "title": "Prod1",
-                "childUrl": "1",
-                "description": "Lorem Ipsum is simply dummy text"
-              }
-            ]
+            "faceName": "Quad_2",
+            "faceImageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            {
+              "title": "F1 P1",
+              "name" : "q121",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_1"
+            },
+            {
+              "title": "F1 P2",
+              "name" : "q122",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_2"
+            }
+          ]
       }
     },
     {
@@ -97,56 +94,53 @@
           "yAngle": 0,
           "zAngle": 0
         },
-        "hybridFacets": [
+        "baseProduct": 
+        [
           {
-            "facetTagId": "1",
-            "facetName": "Quad_1",
-            "parentUrl": "https://www.dropbox.com/s/2g3kspdtoswql05/q120_F.png?dl=1",
-            "subProducts": [
-              {
-                "title": "Prod1",
-                "childUrl": "1",
-                "description": "Lorem Ipsum is simply dummy text"
-              }
-            ]
+            "faceName": "Quad_1",
+            "faceImageUrl": "https://www.dropbox.com/s/2g3kspdtoswql05/q120_F.png?dl=1"
           },
           {
-            "facetTagId": "2",
-            "facetName": "Quad_2",
-            "parentUrl": "https://www.dropbox.com/s/x9b0bts1mmaaahn/q120_B.png?dl=1",
-            "subProducts": [
-              {
-                "title": "Prod1",
-                "description": "Lorem Ipsum is simply dummy text",
-                "childUrl": "1"
-              }
-            ]
+            "faceName": "Quad_2",
+            "faceImageUrl": "https://www.dropbox.com/s/x9b0bts1mmaaahn/q120_B.png?dl=1"
           },
           {
-            "facetTagId": "3",
-            "facetName": "Quad_3",
-            "parentUrl": "https://www.dropbox.com/s/aewir1wocx17fbq/q120_L.png?dl=1",
-            "subProducts": [
-              {
-                "title": "Prod1",
-                "description": "Lorem Ipsum is simply dummy text",
-                "childUrl": "1"
-              }
-            ]
+            "faceName": "Quad_3",
+            "faceImageUrl": "Quad_3",
+            "parentUrl": "https://www.dropbox.com/s/aewir1wocx17fbq/q120_L.png?dl=1"
           },
           {
-            "facetTagId": "4",
-            "facetName": "Quad_4",
-            "parentUrl": "https://www.dropbox.com/s/4c3f5azrhyxves8/q120_R.png?dl=1",
-            "subProducts": [
-              {
-                "title": "Prod1",
-                "description": "Lorem Ipsum is simply dummy text",
-                "childUrl": "1"
-              }
-            ]
+            "faceName": "Quad_4",
+            "faceImageUrl": "https://www.dropbox.com/s/4c3f5azrhyxves8/q120_R.png?dl=1"
           }
-        ]
+        ],
+        "subproduct":
+          [    
+            {
+              "title": "Prod1",
+              "name" : "q121",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_1"
+            },
+            {
+              "title": "Prod1",
+              "name" : "q122",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_2"
+            },
+             {
+              "title": "Prod1",
+              "name" : "q122",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_2"
+            }, 
+            {
+              "title": "Prod1",
+              "name" : "q122",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_2"
+            }
+          ]
       }
     },
     {
@@ -158,13 +152,15 @@
       "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
       "isHybrid": true,
       "hybridData": {
+        "hybridName": "b00002n5hg",
         "type": 1,
+        "version": 1,
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
-        "hybridName": "b00002n5hg",
+        
         "hybridHotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json",
         "markerUrl": "",
-        "version": 1,
+        
         "markerARProperties": {
           "length": -1,
           "width": -1,
@@ -181,32 +177,32 @@
           "yAngle": 0,
           "zAngle": 0
         },
-        "hybridFacets": [
+        "baseProduct": 
+        [
           {
-            "facetTagId": "1",
-            "facetName": "Quad_1",
-            "parentUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png",
-            "subProducts": [
-              {
-                "title": "Prod1",
-                "description": "Lorem Ipsum is simply dummy text",
-                "childUrl": "1"
-              }
-            ]
+            "faceName": "Quad_1",
+            "faceImageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png"
           },
           {
-            "facetTagId": "2",
-            "facetName": "Quad_2",
-            "parentUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png",
-            "subProducts": [
-              {
-                "title": "Prod1",
-                "description": "Lorem Ipsum is simply dummy text",
-                "childUrl": "1"
-              }
-            ]
+            "faceName": "Quad_2",
+            "faceImageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png"
           }
-        ]
+        ],
+         "subproduct":
+          [    
+            {
+              "title": "Prod1",
+              "name" : "q121",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_1"
+            },
+            {
+              "title": "Prod1",
+              "name" : "q122",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_2"
+            }
+          ]
       }
     },
     {
@@ -218,13 +214,14 @@
       "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
       "isHybrid": true,
       "hybridData": {
+        "hybridName": "b00002n5hg",
         "type": 1,
+        "version": 1,
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
-        "hybridName": "b00002n5hg",
         "hybridHotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json",
         "markerUrl": "",
-        "version": 1,
+       
         "markerARProperties": {
           "length": -1,
           "width": -1,
@@ -241,32 +238,32 @@
           "yAngle": 0,
           "zAngle": 0
         },
-        "hybridFacets": [
+        "baseProduct": 
+        [
           {
-            "facetTagId": "1",
-            "facetName": "Quad_1",
-            "parentUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png",
-            "subProducts": [
-              {
-                "title": "Prod1",
-                "description": "Lorem Ipsum is simply dummy text",
-                "childUrl": "1"
-              }
-            ]
+            "faceName": "Quad_1",
+            "faceImageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png"
           },
           {
-            "facetTagId": "2",
-            "facetName": "Quad_2",
-            "parentUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png",
-            "subProducts": [
-              {
-                "title": "Prod1",
-                "description": "Lorem Ipsum is simply dummy text",
-                "childUrl": "1"
-              }
-            ]
+            "faceName": "Quad_2",
+            "faceImageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png"
           }
-        ]
+        ],
+         "subproduct":
+          [    
+            {
+              "title": "Prod1",
+              "name" : "q121",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_1"
+            },
+            {
+              "title": "Prod1",
+              "name" : "q122",
+              "description": "Lorem Ipsum is simply dummy text",
+              "childUrl": "_2"
+            }
+          ]
       }
     }
   ]
