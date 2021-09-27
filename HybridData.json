@@ -48,15 +48,15 @@
         "subproduct":
           [    
             {
-              "title": "F1 P1",
+              "title": "SubProduct_Q121",
               "name" : "q121",
-              "description": "Lorem Ipsum is simply dummy text",
+              "description": "Lorem Ipsum is simply dummy text for Q121",
               "childUrl": "_1"
             },
             {
-              "title": "F1 P2",
+              "title": "SubProduct_Q122",
               "name" : "q122",
-              "description": "Lorem Ipsum is simply dummy text",
+              "description": "Lorem Ipsum is simply dummy text for Q122",
               "childUrl": "_2"
             }
           ]
@@ -106,8 +106,7 @@
           },
           {
             "faceName": "Quad_3",
-            "faceImageUrl": "Quad_3",
-            "parentUrl": "https://www.dropbox.com/s/aewir1wocx17fbq/q120_L.png?dl=1"
+            "faceImageUrl": "https://www.dropbox.com/s/aewir1wocx17fbq/q120_L.png?dl=1"
           },
           {
             "faceName": "Quad_4",
