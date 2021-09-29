@@ -34,20 +34,20 @@
         },
         "baseProduct": [
           {
-            "facetName": "Quad_1",
-            "imageUrl": "https://www.dropbox.com/s/2g3kspdtoswql05/q120_F.png?dl=1"
+            "faceName": "Quad_1",
+            "faceImageUrl": "https://www.dropbox.com/s/2g3kspdtoswql05/q120_F.png?dl=1"
           },
           {
-            "facetName": "Quad_2",
-            "imageUrl": "https://www.dropbox.com/s/x9b0bts1mmaaahn/q120_B.png?dl=1"
+            "faceName": "Quad_2",
+            "faceImageUrl": "https://www.dropbox.com/s/x9b0bts1mmaaahn/q120_B.png?dl=1"
           },
            {
-            "facetName": "Quad_3",
-            "imageUrl": "https://www.dropbox.com/s/aewir1wocx17fbq/q120_L.png?dl=1"
+            "faceName": "Quad_3",
+            "faceImageUrl": "https://www.dropbox.com/s/aewir1wocx17fbq/q120_L.png?dl=1"
           }, 
           {
-            "facetName": "Quad_4",
-            "imageUrl": "https://www.dropbox.com/s/4c3f5azrhyxves8/q120_R.png?dl=1"
+            "faceName": "Quad_4",
+            "faceImageUrl": "https://www.dropbox.com/s/4c3f5azrhyxves8/q120_R.png?dl=1"
           }
         ],
         "subproduct":
