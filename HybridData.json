@@ -35,19 +35,11 @@
         "baseProduct": [
           {
             "faceName": "Quad_1",
-            "faceImageUrl": "https://www.dropbox.com/s/2g3kspdtoswql05/q120_F.png?dl=1"
+            "faceImageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png"
           },
           {
             "faceName": "Quad_2",
-            "faceImageUrl": "https://www.dropbox.com/s/x9b0bts1mmaaahn/q120_B.png?dl=1"
-          },
-           {
-            "faceName": "Quad_3",
-            "faceImageUrl": "https://www.dropbox.com/s/aewir1wocx17fbq/q120_L.png?dl=1"
-          }, 
-          {
-            "faceName": "Quad_4",
-            "faceImageUrl": "https://www.dropbox.com/s/4c3f5azrhyxves8/q120_R.png?dl=1"
+            "faceImageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png"
           }
         ],
         "subproduct":
@@ -55,25 +47,25 @@
              {
               "title": "Prod1",
               "name" : "q121",
-              "description": "Lorem Ipsum is simply dummy text",
+              "description": "Lorem Ipsum is simply dummy text1",
               "childUrl": "_1"
             },
             {
-              "title": "Prod1",
+              "title": "Prod2",
               "name" : "q122",
-              "description": "Lorem Ipsum is simply dummy text",
+              "description": "Lorem Ipsum is simply dummy text2",
               "childUrl": "_2"
             },
              {
-              "title": "Prod1",
+              "title": "Prod3",
               "name" : "q122",
-              "description": "Lorem Ipsum is simply dummy text",
+              "description": "Lorem Ipsum is simply dummy text3",
               "childUrl": "_2"
             }, 
             {
-              "title": "Prod1",
+              "title": "Prod4",
               "name" : "q122",
-              "description": "Lorem Ipsum is simply dummy text",
+              "description": "Lorem Ipsum is simply dummy text4",
               "childUrl": "_2"
             }
           ]
