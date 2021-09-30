@@ -35,11 +35,11 @@
         "baseProduct": [
           {
             "faceName": "Quad_1",
-            "faceImageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Back.png"
+            "faceImageUrl": "https://www.dropbox.com/s/j1uj97ef4mvgnyg/q120.jpeg?dl=1"
           },
           {
             "faceName": "Quad_2",
-            "faceImageUrl": "https://raw.githubusercontent.com/siaistudio/Compasmodels/master/1629618695Front.png"
+            "faceImageUrl": "https://www.dropbox.com/s/j1uj97ef4mvgnyg/q120.jpeg?dl=1"
           }
         ],
         "subproduct":
