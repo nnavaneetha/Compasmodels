@@ -44,7 +44,12 @@
         ],
         "subproduct":
           [    
-            
+            {
+                "childUrl": "_1",
+                "description": "Lorem Ipsum is simply dummy text1",
+                "name": "q121",
+                "title": "Prod1"
+            }
           ]
       }
      }
