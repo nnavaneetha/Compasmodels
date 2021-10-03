@@ -1,6 +1,6 @@
 {
   "products": [
-	{
+    {
       "title": "buswaysystems.unity3d",
       "name": "B00002N5HG",
       "webUrlName": "B00002N5HG",
@@ -13,24 +13,26 @@
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
-        "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json", 
-        "markerUrl":"",
-        "version" : 1,
-        "markerARProperties" :{
+        "hybridHotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json",
+        "markerUrl": "",
+        "version": 1,
+        "markerARProperties": {
           "length": -1,
           "width": -1,
           "height": -1,
-          "xAngle":0,
-          "yAngle":0,
-          "zAngle":0
+          "xAngle": 0,
+          "yAngle": 0,
+          "zAngle": 0,
+          "pivotPosition": 0
         },
-        "markerlessARProperties" :{
+        "markerlessARProperties": {
           "length": -1,
           "width": -1,
           "height": -1,
-           "xAngle":0,
-          "yAngle":0,
-          "zAngle":0
+          "xAngle": 0,
+          "yAngle": 0,
+          "zAngle": 0,
+          "pivotPosition": 0
         },
         "baseProduct": [
           {
@@ -42,22 +44,21 @@
             "faceImageUrl": "https://www.dropbox.com/s/j1uj97ef4mvgnyg/q120.jpeg?dl=1"
           }
         ],
-        "subproduct":
-          [    
-            {
-                "childUrl": "_1",
-                "description": "Lorem Ipsum is simply dummy text1",
-                "name": "q121",
-                "title": "Prod1"
-            },
-	   {
-                "childUrl": "_2",
-                "description": "Lorem Ipsum is simply dummy text2",
-                "name": "q122",
-                "title": "Prod2"
-            }
-          ]
+        "subproduct": [
+          {
+            "childUrl": "_1",
+            "description": "Lorem Ipsum is simply dummy text1",
+            "name": "q121",
+            "title": "Prod1"
+          },
+          {
+            "childUrl": "_2",
+            "description": "Lorem Ipsum is simply dummy text2",
+            "name": "q122",
+            "title": "Prod2"
+          }
+        ]
       }
-     }
-	]
+    }
+  ]
 }
