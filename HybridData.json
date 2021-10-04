@@ -15,6 +15,7 @@
         "hybridName": "b00002n5hg",
         "hybridHotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json",
         "markerUrl": "",
+        "bgImageUrl":"",
         "version": 1,
         "markerARProperties": {
           "length": -1,
