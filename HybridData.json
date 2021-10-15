@@ -60,9 +60,9 @@
           },
           {
             "childUrl": "_3",
-            "description": "Lorem Ipsum is simply dummy text2",
+            "description": "Lorem Ipsum is simply dummy text3",
             "name": "q122",
-            "title": "Prod2"
+            "title": "Prod3"
           }
         ]
       }
@@ -127,9 +127,9 @@
           },
           {
             "childUrl": "_3",
-            "description": "Lorem Ipsum is simply dummy text2",
+            "description": "Lorem Ipsum is simply dummy text3",
             "name": "q122",
-            "title": "Prod2"
+            "title": "Prod3"
           }
         ]
       }
