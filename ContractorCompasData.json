@@ -53,7 +53,7 @@
 			"environment": "https://www.amazon.com/Q120-20-Amp-Single-Circuit-Breaker/dp/B00002N5HG",
 			"defaultExt": "",
 			"path":"https://www.amazon.in/favicon.ico",
-      			"title":"Amazon",
+      			"title":"Amazon - Q120",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
 		},
@@ -61,7 +61,15 @@
 			"environment": "https://www.amazon.com/Q230-30-Amp-Double-Circuit-Breaker/dp/B00002N5HJ/",
 			"defaultExt": "",
 			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
-      			"title":"New Amazon",
+      			"title":"Amazon - Q230",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.amazon.com/Siemens-HNF361-600-volt-Non-Fused-Switches/dp/B005G94M54/",
+			"defaultExt": "",
+			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
+      			"title":"Amazon - HNF361",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
 		}
