@@ -72,6 +72,14 @@
       			"title":"Amazon - HNF361",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
+		},
+		{
+			"environment": "https://www.amazon.com/dp/B004Q01YUK/ref=cm_sw_r_wa_awdb_imm_Z7VG532DYDYC18JA49QJ",
+			"defaultExt": "",
+			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
+      			"title":"Siemens ECSBPK03 ",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
 		}
 	],
 	"hotspotsEnable": true,
