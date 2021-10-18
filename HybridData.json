@@ -134,7 +134,71 @@
         ]
       }
     },
-	{
+     {
+      "title": "buswaysystems.unity3d",
+      "name": "switchboards",
+      "webUrlName": "switchboards",
+      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+      "version": "1.0",
+      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+      "isHybrid": true,
+      "hybridData": {
+        "type": 1,
+		 "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
+        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+        "hybridName": "b00002n5hg",
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "markerUrl":"",
+        "version" : 1,
+        "markerARProperties" :{
+          "length": 1,
+	  "pivotPosition": 0,
+          "width": -1,
+          "height": 1,
+          "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "markerlessARProperties" :{
+          "length": 1,
+	  "pivotPosition": 0,
+          "width": -1,
+          "height": 1,
+           "xAngle":0,
+          "yAngle":0,
+          "zAngle":0
+        },
+        "baseProduct": [
+          {
+             
+            "faceName": "Quad_1",
+            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/nla4837414.png"
+          },
+          {
+             
+            "faceName": "Quad_2",
+            "faceImageUrl": "https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/nla4837414.png"
+          }
+        ],
+        "subproduct":
+         [    
+            {
+                "childUrl": "_1",
+                "description": "Lorem Ipsum is simply dummy text1",
+                "name": "B0848LHW8N_1",
+                "title": "Prod1"
+            },
+            {
+                "childUrl": "_2",
+                "description": "Lorem Ipsum is simply dummy text2",
+                "name": "B0848LHW8N_2",
+                "title": "Prod2"
+            }
+          ]
+      }
+    },
+   {
       "title": "buswaysystems.unity3d",
       "name": "B00002N5HJ",
       "webUrlName": "B00002N5HJ",
