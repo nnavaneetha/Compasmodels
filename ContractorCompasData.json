@@ -17,7 +17,7 @@
 			"isDirectLoad":true
 		},
 		{
-			"environment": "https://beta.compasquality.siemens-info.com/",
+			"environment": "https://google.com/",
 			"defaultExt": "mCompas/",
 			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       			"title":"Header3",
