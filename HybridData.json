@@ -152,18 +152,18 @@
         "bgImageUrl":"https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
         "version": 1,
         "markerARProperties": {
-          "length": -1,
+          "length": 3,
           "width": -1,
-          "height": -1,
+          "height": 5,
           "xAngle": 0,
           "yAngle": 0,
           "zAngle": 0,
           "pivotPosition": 0
         },
         "markerlessARProperties": {
-          "length": -1,
+          "length": 3,
           "width": -1,
-          "height": -1,
+          "height": 5,
           "xAngle": 0,
           "yAngle": 0,
           "zAngle": 0,
