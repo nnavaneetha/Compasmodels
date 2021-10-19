@@ -134,10 +134,10 @@
         ]
       }
     },
-     {
+    {
       "title": "buswaysystems.unity3d",
-      "name": "switchboards",
-      "webUrlName": "switchboards",
+      "name": "contractor.compas",
+      "webUrlName": "contractor.compas",
       "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
       "version": "1.0",
       "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
@@ -148,7 +148,7 @@
         "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
         "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
         "hybridName": "b00002n5hg",
-        "hybridHotspotUrl":"https://raw.githubusercontent.com/PrabhuNx/prabhunx/main/HotspotB00002N5HG.json", 
+        "hybridHotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json", 
         "markerUrl":"",
         "version" : 1,
         "markerARProperties" :{
