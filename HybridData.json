@@ -185,15 +185,51 @@
          [    
             {
                 "childUrl": "_1",
-                "description": "Lorem Ipsum is simply dummy text1",
+                "description": "Prod1",
                 "name": "B0848LHW8N_1",
                 "title": "Prod1"
             },
             {
                 "childUrl": "_2",
-                "description": "Lorem Ipsum is simply dummy text2",
+                "description": "Prod2",
                 "name": "B0848LHW8N_2",
                 "title": "Prod2"
+            },
+	    {
+                "childUrl": "_3",
+                "description": "Prod3",
+                "name": "B0848LHW8N_1",
+                "title": "Prod3"
+            },
+            {
+                "childUrl": "_4",
+                "description": "Prod4",
+                "name": "B0848LHW8N_2",
+                "title": "Prod4"
+            },
+	    {
+                "childUrl": "_5",
+                "description": "Prod5",
+                "name": "B0848LHW8N_1",
+                "title": "Prod5"
+            },
+            {
+                "childUrl": "_6",
+                "description": "Prod6",
+                "name": "B0848LHW8N_2",
+                "title": "Prod6"
+            },
+	    {
+                "childUrl": "_7",
+                "description": "Prod7",
+                "name": "B0848LHW8N_1",
+                "title": "Prod7"
+            },
+            {
+                "childUrl": "_8",
+                "description": "Prod8",
+                "name": "B0848LHW8N_2",
+                "title": "Prod8"
             }
           ]
       }
