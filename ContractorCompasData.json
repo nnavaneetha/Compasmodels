@@ -1,94 +1,84 @@
 {
-
-	"url": [{
-			"environment": "https://contractor.compas.siemens-info.com/",
-			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/eed431ad3401f3d3b010ba9063c3cec4a6ccc171/icon-siemens.png",
-      			"title":"Testing",
-			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HybridData.json",
-			"isDirectLoad":true
-		},
-		{
-			"environment": "https://www.siemens.com/global/en.html",
-			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
-			"title":"New Siemens",
-			"hybridModelBaseUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/TestHybrid.json",
-			"isDirectLoad":true
-		},
-		{
-			"environment": "https://google.com/",
-			"defaultExt": "mCompas/",
-			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
-      			"title":"Header3",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-		
-			"environment": "https://contractor.compas.siemens-info.com/",
-			"defaultExt": "",
-			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
-      			"title":"Contractor",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-			"environment": "https://d09.compasquality.siemens-info.com/",
-			"defaultExt": "COMPASAppStore/ConsultantContractor/",
-			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
-      			"title":"Header5",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-			"environment": "https://d07.compasquality.siemens-info.com/",
-			"defaultExt": "mCompas_SQR/",
-			"path":"https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
-      			"title":"Header6",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-			"environment": "https://www.amazon.com/Q120-20-Amp-Single-Circuit-Breaker/dp/B00002N5HG",
-			"defaultExt": "",
-			"path":"https://www.amazon.in/favicon.ico",
-      			"title":"Amazon - Q120",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-			"environment": "https://www.amazon.com/Q230-30-Amp-Double-Circuit-Breaker/dp/B00002N5HJ/",
-			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
-      			"title":"Amazon - Q230",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-			"environment": "https://www.amazon.com/Siemens-HNF361-600-volt-Non-Fused-Switches/dp/B005G94M54/",
-			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
-      			"title":"Amazon - HNF361",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		},
-		{
-			"environment": "https://www.amazon.com/dp/B004Q01YUK/ref=cm_sw_r_wa_awdb_imm_Z7VG532DYDYC18JA49QJ",
-			"defaultExt": "",
-			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
-      			"title":"Siemens ECSBPK03 ",
-			"hybridModelBaseUrl":"",
-			"isDirectLoad":false
-		}
-	],
-	"hotspotsEnable": true,
-	"useC3Models" : "true",
-	"useSandy": false,
-	"version": "23",
-	"majorversion":"4",
-	"minorversion":"4",
-	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/",
-	"androidModelUrlBase" : "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/AndroidData.json",
-	"iOSModelUrlBase": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/iOSData.json"
+  "url": [
+    {
+      "environment": "https://contractor.compas.siemens-info.com/",
+      "defaultExt": "",
+      "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/eed431ad3401f3d3b010ba9063c3cec4a6ccc171/icon-siemens.png",
+      "title": "Testing",
+      "isDirectLoad": true
+    },
+    {
+      "environment": "https://www.siemens.com/global/en.html",
+      "defaultExt": "",
+      "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
+      "title": "New Siemens",
+      "isDirectLoad": true
+    },
+    {
+      "environment": "https://google.com/",
+      "defaultExt": "mCompas/",
+      "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+      "title": "Header3",
+      "isDirectLoad": false
+    },
+    {
+      "environment": "https://contractor.compas.siemens-info.com/",
+      "defaultExt": "",
+      "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+      "title": "Contractor",
+      "isDirectLoad": false
+    },
+    {
+      "environment": "https://d09.compasquality.siemens-info.com/",
+      "defaultExt": "COMPASAppStore/ConsultantContractor/",
+      "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+      "title": "Header5",
+      "isDirectLoad": false
+    },
+    {
+      "environment": "https://d07.compasquality.siemens-info.com/",
+      "defaultExt": "mCompas_SQR/",
+      "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
+      "title": "Header6",
+      "isDirectLoad": false
+    },
+    {
+      "environment": "https://www.amazon.com/Q120-20-Amp-Single-Circuit-Breaker/dp/B00002N5HG",
+      "defaultExt": "",
+      "path": "https://www.amazon.in/favicon.ico",
+      "title": "Amazon - Q120",
+      "isDirectLoad": false
+    },
+    {
+      "environment": "https://www.amazon.com/Q230-30-Amp-Double-Circuit-Breaker/dp/B00002N5HJ/",
+      "defaultExt": "",
+      "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
+      "title": "Amazon - Q230",
+      "isDirectLoad": false
+    },
+    {
+      "environment": "https://www.amazon.com/Siemens-HNF361-600-volt-Non-Fused-Switches/dp/B005G94M54/",
+      "defaultExt": "",
+      "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
+      "title": "Amazon - HNF361",
+      "isDirectLoad": false
+    },
+    {
+      "environment": "https://www.amazon.com/dp/B004Q01YUK/ref=cm_sw_r_wa_awdb_imm_Z7VG532DYDYC18JA49QJ",
+      "defaultExt": "",
+      "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
+      "title": "Siemens ECSBPK03 ",
+      "isDirectLoad": false
+    }
+  ],
+  "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HybridData.json",
+  "version": "23",
+  "majorversion": "4",
+  "minorversion": "4",
+  "hotspotsEnable": true,
+  "useC3Models": "true",
+  "useSandy": false,
+  "modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/",
+  "androidModelUrlBase": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/AndroidData.json",
+  "iOSModelUrlBase": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/iOSData.json"
 }
