@@ -5,6 +5,7 @@
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/eed431ad3401f3d3b010ba9063c3cec4a6ccc171/icon-siemens.png",
       "title": "Testing",
+      "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
     },
     {
@@ -12,6 +13,7 @@
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
       "title": "New Siemens",
+      "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
     },
     {
@@ -19,6 +21,7 @@
       "defaultExt": "mCompas/",
       "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       "title": "Header3",
+      "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": false
     },
     {
@@ -26,6 +29,7 @@
       "defaultExt": "",
       "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       "title": "Contractor",
+      "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": false
     },
     {
@@ -33,6 +37,7 @@
       "defaultExt": "COMPASAppStore/ConsultantContractor/",
       "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       "title": "Header5",
+      "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": false
     },
     {
@@ -40,6 +45,7 @@
       "defaultExt": "mCompas_SQR/",
       "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       "title": "Header6",
+      "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": false
     },
     {
@@ -47,6 +53,7 @@
       "defaultExt": "",
       "path": "https://www.amazon.in/favicon.ico",
       "title": "Amazon - Q120",
+      "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": false
     },
     {
@@ -54,6 +61,7 @@
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
       "title": "Amazon - Q230",
+      "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": false
     },
     {
@@ -61,6 +69,7 @@
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
       "title": "Amazon - HNF361",
+      "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": false
     },
     {
@@ -68,10 +77,10 @@
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
       "title": "Siemens ECSBPK03 ",
+      "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": false
     }
   ],
-  "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
   "version": "23",
   "majorversion": "4",
   "minorversion": "4",
