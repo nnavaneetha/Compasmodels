@@ -71,7 +71,7 @@
       "isDirectLoad": false
     }
   ],
-  "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HybridData.json",
+  "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
   "version": "23",
   "majorversion": "4",
   "minorversion": "4",
