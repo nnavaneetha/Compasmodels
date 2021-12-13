@@ -1,20 +1,20 @@
 {
-  "": [
+  "ProductData": [
     {
       "webUrlName": "B00002N5HG",
-      "hybridDataUrl": ""
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/B00002N5HG.json"
     },
     {
       "webUrlName": "Z7VG532DYDYC18JA49QJ",
-      "hybridDataUrl": ""
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/Z7VG532DYDYC18JA49QJ.json"
     },
     {
       "webUrlName": "contractor.compas",
-      "hybridDataUrl": ""
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/contractor_compas.json"
     },
     {
       "webUrlName": "B00002N5HJ",
-      "hybridDataUrl": ""
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/B00002N5HJ.json"
     }
   ]
 }
