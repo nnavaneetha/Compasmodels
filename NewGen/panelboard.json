@@ -36,12 +36,12 @@
        "baseProduct": [
          {
            "faceName": "Quad_1",
-           "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/blob/master/panelboard.JPG",
+           "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/panelboard.JPG",
            "webUrl": "https://www.google.com/"
          },
          {
            "faceName": "Quad_2",
-           "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/blob/master/panelboard.JPG",
+           "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/panelboard.JPG",
            "webUrl": "https://www.google.com/"
          }
        ],
