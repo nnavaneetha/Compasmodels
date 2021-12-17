@@ -33,6 +33,14 @@
       "isDirectLoad": false
     },
     {
+      "environment": "https://contractor.compas.siemens-info.com/",
+      "defaultExt": "",
+      "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/eed431ad3401f3d3b010ba9063c3cec4a6ccc171/icon-siemens.png",
+      "title": "Contractor1",
+      "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/contractor1.json",
+      "isDirectLoad": false
+    },
+    {
       "environment": "https://d09.compasquality.siemens-info.com/",
       "defaultExt": "COMPASAppStore/ConsultantContractor/",
       "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
