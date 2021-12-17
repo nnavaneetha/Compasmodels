@@ -1,0 +1,23 @@
+{
+  "ProductData": [
+     {
+      "webUrlName": "panelboards",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/panelboard.json"
+    },
+	 
+	 {
+      "webUrlName": "lighting-panels",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/lighting_panel.json"
+    },
+	
+	 {
+      "webUrlName": "fusible-panels",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/fusible_panel.json"
+    },
+	
+	 {
+      "webUrlName": "power-panels",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/power_panel.json"
+    }
+  ]
+}
