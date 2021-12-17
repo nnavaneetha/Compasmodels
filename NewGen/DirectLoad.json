@@ -12,6 +12,10 @@
       "webUrlName": "general-purpose-molded",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/contractor_compas.json"
     },
+     {
+      "webUrlName": "sentron-molded-case-circuit-",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sentron.json"
+    },
     {
       "webUrlName": "B00002N5HJ",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/B00002N5HJ.json"
