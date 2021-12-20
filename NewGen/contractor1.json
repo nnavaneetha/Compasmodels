@@ -66,6 +66,21 @@
 	 {
       "webUrlName": "sentron-molded-case-circuit-breakers",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sentron_breaker.json"
+    },
+	  
+	  {
+      "webUrlName": "multi-family-metering",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/multi_metering.json"
+    },
+	
+	{
+      "webUrlName": "powermod-metering",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/powermod.json"
+    },
+	
+	{
+      "webUrlName": "pak-metering",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/pak_metering.json"
     }
   ]
 }
