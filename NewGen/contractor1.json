@@ -18,6 +18,25 @@
 	 {
       "webUrlName": "power-panels",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/power_panel.json"
-    }
+    },
+	  {
+      "webUrlName": "switches",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switches.json"
+    },
+	  
+	{
+      "webUrlName": "general-heavy-duty",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/general_heavy_switch.json"
+    },
+	
+	{
+      "webUrlName": "panelboard-switches",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/panelboard_switch.json"
+    },
+	
+	{
+      "webUrlName": "disconnect-switches",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/disconnect_switch.json"
+    }	  
   ]
 }
