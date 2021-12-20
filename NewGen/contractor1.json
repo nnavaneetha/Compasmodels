@@ -37,6 +37,35 @@
 	{
       "webUrlName": "disconnect-switches",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/disconnect_switch.json"
-    }	  
+    },
+	  {
+      "webUrlName": "low-voltage-circuit",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/lowvolt_breaker.json"
+    },
+	
+	{
+      "webUrlName": "general-purpose-molded-case",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/general_breaker.json"
+    },
+	
+	{
+      "webUrlName": "3va-molded-case-circuit-breakers",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/3VA_breaker.json"
+    },
+	
+	{
+      "webUrlName": "vl-molded-case-circuit-breakers",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/vl_breaker.json"
+    },
+	
+	{
+      "webUrlName": "wl-power-breakers",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/wl_powerbreaker.json"
+    },
+	  
+	 {
+      "webUrlName": "sentron-molded-case-circuit-breakerss",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sentron_breaker.json"
+    }
   ]
 }
