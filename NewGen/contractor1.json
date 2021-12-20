@@ -116,6 +116,26 @@
 	{
       "webUrlName": "front-connected-lv-switchgear",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/front_connected_switchgear.json"
+    },
+	  
+	  {
+      "webUrlName": "residential-load-centers",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/residential_load.json"
+    },
+	
+	{
+      "webUrlName": "single-phase-load-centers",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/single_load.json"
+    },
+	
+	{
+      "webUrlName": "three-phase-load-centers",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/three_phase_load.json"
+    },
+	
+	{
+      "webUrlName": "speciality-load-centers",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/speciality_load.json"
     }
   ]
 }
