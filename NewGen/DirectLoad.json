@@ -23,6 +23,10 @@
     {
       "webUrlName": "B00002N5HJ",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/B00002N5HJ.json"
+    },
+    {
+      "webUrlName": "switches",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switches.json"
     }
   ]
 }
