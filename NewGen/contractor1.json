@@ -20,7 +20,7 @@
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/power_panel.json"
     },
 	  {
-      "webUrlName": "switches",
+      "webUrlName": "products/switches",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switches.json"
     },
 	  
