@@ -96,6 +96,26 @@
 	{
       "webUrlName": "rear-connected-switchboards",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/rear_switchboard.json"
+    },
+	  
+	  {
+      "webUrlName": "low-voltage-switchgear",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/low_voltage_switchgear.json"
+    },
+	
+	{
+      "webUrlName": "rear-connected-switchgear",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/rear_switchgear.json"
+    },
+	
+	{
+      "webUrlName": "arc-resistant-switchgear",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/arc_resistant_switchgear.json"
+    },
+	
+	{
+      "webUrlName": "front-connected-lv-switchgear",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/front_connected_switchgear.json"
     }
   ]
 }
