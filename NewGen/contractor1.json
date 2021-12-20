@@ -81,6 +81,21 @@
 	{
       "webUrlName": "pak-metering",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/pak_metering.json"
+    },
+	  
+	  {
+      "webUrlName": "switchboards",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switchboard.json"
+    },
+	
+	{
+      "webUrlName": "front-connected-switchboards",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/front_switchboard.json"
+    },
+	
+	{
+      "webUrlName": "rear-connected-switchboards",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/rear_switchboard.json"
     }
   ]
 }
