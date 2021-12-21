@@ -171,6 +171,21 @@
 	{
       "webUrlName": "sentron-busway",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sentron_busway.json"
+    },
+	  
+	  {
+      "webUrlName": "digital-power-monitoring",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/digital_power_monitoring.json"
+    },
+	
+	{
+      "webUrlName": "sem3-meters",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sem3_meters.json"
+    },
+	
+	{
+      "webUrlName": "power-quality-meters",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/power_quality.json"
     }
   ]
 }
