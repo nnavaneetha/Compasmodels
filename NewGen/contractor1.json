@@ -136,6 +136,41 @@
 	{
       "webUrlName": "speciality-load-centers",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/speciality_load.json"
+    },
+	  
+	  {
+      "webUrlName": "single-family-metering",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/single_family_metering.json"
+    },
+	
+	{
+      "webUrlName": "meter-mains",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/meter_mains.json"
+    },
+	
+	{
+      "webUrlName": "talon",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/talon_meter_equipment.json"
+    },
+	
+	{
+      "webUrlName": "upb",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/upb.json"
+    },
+	
+	{
+      "webUrlName": "busway-systems",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/busway_system.json"
+    },
+	
+	{
+      "webUrlName": "low-amp-busway",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/low_amp_busway.json"
+    },
+	
+	{
+      "webUrlName": "sentron-busway",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sentron_busway.json"
     }
   ]
 }
