@@ -1,194 +1,233 @@
 {
   "ProductData": [
      {
+      "iD":"D001",
       "webUrlName": "panelboards",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/panelboard.json"
     },
 	 
 	 {
+      "iD":"D002",
       "webUrlName": "lighting-panels",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/lighting_panel.json"
     },
 	
 	 {
+      "iD":"D003",
       "webUrlName": "fusible-panels",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/fusible_panel.json"
     },
 	
 	 {
+      "iD":"D004",
       "webUrlName": "power-panels",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/power_panel.json"
     },
 	  {
+      "iD":"D005",
       "webUrlName": "products/switches",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switches.json"
     },
 	  
 	{
+      "iD":"D006",
       "webUrlName": "general-heavy-duty",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/general_heavy_switch.json"
     },
 	
 	{
+      "iD":"D007",
       "webUrlName": "panelboard-switches",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/panelboard_switch.json"
     },
 	
 	{
+      "iD":"D008",
       "webUrlName": "disconnect-switches",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/disconnect_switch.json"
     },
 	  {
+      "iD":"D009",	  
       "webUrlName": "low-voltage-circuit",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/lowvolt_breaker.json"
     },
 	
 	{
+      "iD":"D010",
       "webUrlName": "general-purpose-molded-case",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/general_breaker.json"
     },
 	
 	{
+      "iD":"D011",
       "webUrlName": "3va-molded-case-circuit-breakers",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/3VA_breaker.json"
     },
 	
 	{
+      "iD":"D012",
       "webUrlName": "vl-molded-case-circuit-breakers",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/vl_breaker.json"
     },
 	
 	{
+      "iD":"D013",
       "webUrlName": "wl-power-breakers",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/wl_powerbreaker.json"
     },
 	  
 	 {
+      "iD":"D014",
       "webUrlName": "sentron-molded-case-circuit-breakers",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sentron_breaker.json"
     },
 	  
 	  {
+      "iD":"D015",
       "webUrlName": "multi-family-metering",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/multi_metering.json"
     },
 	
 	{
+      "iD":"D016",
       "webUrlName": "powermod-metering",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/powermod.json"
     },
 	
 	{
+      "iD":"D017",
       "webUrlName": "pak-metering",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/pak_metering.json"
     },
 	  
 	  {
+      "iD":"D018",
       "webUrlName": "switchboards",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switchboard.json"
     },
 	
 	{
+      "iD":"D019",
       "webUrlName": "front-connected-switchboards",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/front_switchboard.json"
     },
 	
 	{
+      "iD":"D020",
       "webUrlName": "rear-connected-switchboards",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/rear_switchboard.json"
     },
 	  
 	  {
+      "iD":"D021",
       "webUrlName": "low-voltage-switchgear",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/low_voltage_switchgear.json"
     },
 	
 	{
+      "iD":"D022",
       "webUrlName": "rear-connected-switchgear",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/rear_switchgear.json"
     },
 	
 	{
+      "iD":"D023",
       "webUrlName": "arc-resistant-switchgear",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/arc_resistant_switchgear.json"
     },
 	
 	{
+      "iD":"D024",
       "webUrlName": "front-connected-lv-switchgear",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/front_connected_switchgear.json"
     },
 	  
 	  {
+      "iD":"D025",
       "webUrlName": "residential-load-centers",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/residential_load.json"
     },
 	
 	{
+      "iD":"D026",
       "webUrlName": "single-phase-load-centers",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/single_load.json"
     },
 	
 	{
+      "iD":"D027",
       "webUrlName": "three-phase-load-centers",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/three_phase_load.json"
     },
 	
 	{
+      "iD":"D028",
       "webUrlName": "speciality-load-centers",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/speciality_load.json"
     },
 	  
 	  {
+      "iD":"D029",
       "webUrlName": "single-family-metering",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/single_family_metering.json"
     },
 	
 	{
+      "iD":"D030",
       "webUrlName": "meter-mains",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/meter_mains.json"
     },
 	
 	{
+      "iD":"D031",
       "webUrlName": "talon",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/talon_meter_equipment.json"
     },
 	
 	{
+      "iD":"D032",
       "webUrlName": "upb",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/upb.json"
     },
 	
 	{
+      "iD":"D033",
       "webUrlName": "busway-systems",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/busway_system.json"
     },
 	
 	{
+      "iD":"D034",
       "webUrlName": "low-amp-busway",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/low_amperage_busway.json"
     },
 	
 	{
+      "iD":"D035",
       "webUrlName": "sentron-busway",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sentron_busway.json"
     },
 	  
 	  {
+      "iD":"D036",
       "webUrlName": "digital-power-monitoring",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/digital_power_monitoring.json"
     },
 	
 	{
+      "iD":"D037",
       "webUrlName": "sem3-meters",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sem3_meters.json"
     },
 	
 	{
+      "iD":"D038",
       "webUrlName": "power-quality-meters",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/power_quality.json"
     },
 	  
 	  {
+      "iD":"D039",
       "webUrlName": "SEM3T-Thermal-Monitoring",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sem3t_thermal.json"
     }
