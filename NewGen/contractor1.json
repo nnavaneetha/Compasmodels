@@ -186,6 +186,11 @@
 	{
       "webUrlName": "power-quality-meters",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/power_quality.json"
+    },
+	  
+	  {
+      "webUrlName": "SEM3T-Thermal-Monitoring",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sem3t_thermal.json"
     }
   ]
 }
