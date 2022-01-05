@@ -15,33 +15,33 @@
       "webUrlName": "general-purpose-molded",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/contractor_compas.json"
     },
-     {
-        "iD":"D004",
+    {
+      "iD":"D004",
       "webUrlName": "sentron-molded-case-circuit-",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sentron.json"
     },
-     {
-        "iD":"D005",
+    {
+      "iD":"D005",
       "webUrlName": "panelboards",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/panelboard.json"
     },
     {
-       "iD":"D006",
+      "iD":"D006",
       "webUrlName": "B00002N5HJ",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/B00002N5HJ.json"
     },
     {
-       "iD":"D007",
+      "iD":"D007",
       "webUrlName": "switches",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switches.json"
     },
     {
-       "iD":"D008",
+      "iD":"D008",
       "webUrlName": "busway",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/busway_system.json"
     },
     {
-       "iD":"D009",
+      "iD":"D009",
       "webUrlName": "switchboards",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switchboard.json"
     }
