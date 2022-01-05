@@ -39,6 +39,11 @@
        "iD":"D008",
       "webUrlName": "busway",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/busway_system.json"
+    },
+    {
+       "iD":"D008",
+      "webUrlName": "switchboards",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switchboards.json"
     }
   ]
 }
