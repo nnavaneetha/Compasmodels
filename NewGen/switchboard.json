@@ -35,12 +35,12 @@
        },
        "baseProduct": [
          {
-           "faceName": "Quad_1",
+           "faceName": "pCube2",
            "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/switchboard.JPG",
            "webUrl": "https://www.google.com/"
          },
          {
-           "faceName": "Quad_2",
+           "faceName": "floors",
            "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/switchboard.JPG",
            "webUrl": "https://www.google.com/"
          }
