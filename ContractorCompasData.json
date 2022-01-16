@@ -5,7 +5,7 @@
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/eed431ad3401f3d3b010ba9063c3cec4a6ccc171/icon-siemens.png",
       "title": "Testing",
-      "iD":"C001",
+      "iD": "C001",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
     },
@@ -14,7 +14,7 @@
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
       "title": "New Siemens",
-       "iD":"C002",
+      "iD": "C002",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
     },
@@ -23,7 +23,7 @@
       "defaultExt": "mCompas/",
       "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       "title": "Header3",
-       "iD":"C003",
+      "iD": "C003",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
     },
@@ -32,7 +32,7 @@
       "defaultExt": "",
       "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       "title": "Contractor",
-       "iD":"C004",
+      "iD": "C004",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
     },
@@ -41,7 +41,7 @@
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/eed431ad3401f3d3b010ba9063c3cec4a6ccc171/icon-siemens.png",
       "title": "Contractor1",
-       "iD":"C005",
+      "iD": "C005",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/contractor1.json",
       "isDirectLoad": true
     },
@@ -50,7 +50,7 @@
       "defaultExt": "COMPASAppStore/ConsultantContractor/",
       "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       "title": "Header5",
-       "iD":"C006",
+      "iD": "C006",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": false
     },
@@ -59,7 +59,7 @@
       "defaultExt": "mCompas_SQR/",
       "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
       "title": "Header6",
-       "iD":"C007",
+      "iD": "C007",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": false
     },
@@ -68,7 +68,7 @@
       "defaultExt": "",
       "path": "https://www.amazon.in/favicon.ico",
       "title": "Amazon - Q120",
-       "iD":"C008",
+      "iD": "C008",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
     },
@@ -77,7 +77,7 @@
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
       "title": "Amazon - Q230",
-       "iD":"C009",
+      "iD": "C009",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
     },
@@ -86,7 +86,7 @@
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
       "title": "Amazon - HNF361",
-       "iD":"C010",
+      "iD": "C010",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
     },
@@ -95,7 +95,7 @@
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
       "title": "Siemens ECSBPK03 ",
-       "iD":"C011",
+      "iD": "C011",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
     }
@@ -108,5 +108,15 @@
   "useSandy": false,
   "modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/",
   "androidModelUrlBase": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/AndroidData.json",
-  "iOSModelUrlBase": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/iOSData.json"
+  "iOSModelUrlBase": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/iOSData.json",
+  "SystemProperties": [
+    {
+      "parameter": "Voltage",
+      "value": "V1,V2,V3,V4,V5"
+    },
+    {
+      "parameter": "Ampere",
+      "value": "A1,A2,A3,A4,A5"
+    }
+  ]
 }
