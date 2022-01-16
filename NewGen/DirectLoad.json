@@ -4,64 +4,55 @@
        "iD":"D001",
       "webUrlName": "B00002N5HG",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/B00002N5HG.json",
-      "systemVoltage" : "V1",
-      "systemAmpere" : "A1"
+      "systemProperties" : "V1;A1;S1;S2;S3"
     },
     {
        "iD":"D002",
       "webUrlName": "Z7VG532DYDYC18JA49QJ",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/Z7VG532DYDYC18JA49QJ.json",
-        "systemVoltage" : "V1",
-      "systemAmpere" : "A1"
+        "systemProperties" : "V1;A1;S1;S2;S3"
     },
     {
        "iD":"D003",
       "webUrlName": "general-purpose-molded",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/contractor_compas.json",
-        "systemVoltage" : "V1",
-      "systemAmpere" : "A1"
+       "systemProperties" : "V1;A1;S1;S2;S3"
     },
     {
       "iD":"D004",
       "webUrlName": "sentron-molded-case-circuit-",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/sentron.json",
-        "systemVoltage" : "V1",
-      "systemAmpere" : "A1"
+        "systemProperties" : "V1;A1;S1;S2;S3"
     },
     {
       "iD":"D005",
       "webUrlName": "panelboards",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/panelboard.json",
-        "systemVoltage" : "V1",
-      "systemAmpere" : "A1"
+        "systemProperties" : "V1;A1;S1;S2;S3"
     },
     {
       "iD":"D006",
       "webUrlName": "B00002N5HJ",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/B00002N5HJ.json",
-        "systemVoltage" : "V1",
-      "systemAmpere" : "A1"
+        "systemProperties" : "V1;A1;S1;S2;S3"
     },
     {
       "iD":"D007",
       "webUrlName": "switches",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switches.json",
-        "systemVoltage" : "V1",
-      "systemAmpere" : "A1"
+     "systemProperties" : "V1;A1;S1;S2;S3"
     },
     {
       "iD":"D008",
       "webUrlName": "busway",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/busway_system.json",
-        "systemVoltage" : "V1",
-      "systemAmpere" : "A1"
+     "systemProperties" : "V1;A1;S1;S2;S3"
     },
     {
       "iD":"D009",
       "webUrlName": "switchboards",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switchboard.json",
-        "systemVoltage" : "V1",
-      "systemAmpere" : "A1"
+      "systemProperties" : "V1;A1;S1;S2;S3"
     }
   ]
 }
