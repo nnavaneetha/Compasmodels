@@ -112,11 +112,11 @@
   "SystemProperties": [
     {
       "parameter": "Voltage",
-      "value": "V1,V2,V3,V4,V5"
+      "value": "V1;V2;V3;V4;V5"
     },
     {
       "parameter": "Ampere",
-      "value": "A1,A2,A3,A4,A5"
+      "value": "A1;A2;A3;A4;A5"
     }
   ]
 }
