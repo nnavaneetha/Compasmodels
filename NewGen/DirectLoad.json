@@ -28,7 +28,7 @@
       "iD":"D005",
       "webUrlName": "panelboards",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/panelboard.json",
-        "systemProperties" : "V1;A1;S1;S2;S3"
+        "systemProperties" : "V1;A1"
     },
     {
       "iD":"D006",
