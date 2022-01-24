@@ -117,6 +117,17 @@
     {
       "parameter": "Ampere",
       "value": "A1;A2;A3;A4;A5"
+    },
+    {
+      "parameter": "Sample1",
+      "value": "S1;S2;S3;S4;S5"
+    },
+    {
+      "parameter": "Sample2",
+      "value": "S1;S2;S3;S4;S5"
+    },{
+      "parameter": "Sample3",
+      "value": "S1;S2;S3;S4;S5"
     }
   ]
 }
