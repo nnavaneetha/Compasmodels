@@ -1,72 +1,76 @@
 {
-      "title": "buswaysystems.unity3d",
-      "name": "B00002N5HJ",
-      "webUrlName": "B00002N5HJ",
-      "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
-      "version": "1.0",
-      "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
-      "isHybrid": true,
-      "hybridData": {
-        "type": 1,
-        "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
-        "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
-        "hybridName": "b00002n5hg",
-        "hybridHotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json",
-        "markerUrl": "",
-        "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
-        "version": 1,
-        "markerARProperties": {
-          "length": 3,
-          "width": -1,
-          "height": 5,
-          "xAngle": 0,
-          "yAngle": 0,
-          "zAngle": 0,
-          "pivotPosition": 0
-        },
-        "markerlessARProperties": {
-          "length": 3,
-          "width": -1,
-          "height": 5,
-          "xAngle": 0,
-          "yAngle": 0,
-          "zAngle": 0,
-          "pivotPosition": 0
-        },
-        "baseProduct": [
-          {
-            "faceName": "Quad_1",
-            "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Q230.jpg",
-            "webUrl": "https://www.google.com/"
-          },
-          {
-            "faceName": "Quad_2",
-            "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Q230.jpg",
-            "webUrl": "https://www.google.com/"
-          }
-        ],
-        "subproduct": [
-          {
-            "childUrl": "_1",
-            "description": "Lorem Ipsum is simply dummy text q231",
-            "name": "q231",
-            "title": "Prod1",
-            "webUrl": "https://www.google.com/"
-          },
-          {
-            "childUrl": "_2",
-            "description": "Lorem Ipsum is simply dummy text q232",
-            "name": "q232",
-            "title": "Prod2",
-            "webUrl": "https://www.google.com/"
-          },
-          {
-            "childUrl": "_3",
-            "description": "Lorem Ipsum is simply dummy text q233",
-            "name": "q233",
-            "title": "Prod2",
-            "webUrl": "https://www.google.com/"
-          }
-        ]
+  "title": "buswaysystems.unity3d",
+  "name": "B00002N5HJ",
+  "webUrlName": "B00002N5HJ",
+  "bundleUrl": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365602",
+  "version": "1.0",
+  "uuid": "a804701c-7f5b-4747-92e7-80cb9208c4e7",
+  "isHybrid": true,
+  "systemProperties": "V1;A1;S1;S2;S3",
+  "hybridData": {
+    "type": 1,
+    "hybridAndroidUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/Android/b00002n5hg",
+    "hybridiOSUrl": "https://github.com/nnavaneetha/Compasmodels/raw/master/AssetBundles/Hybrid/iOS/b00002n5hg",
+    "hybridName": "b00002n5hg",
+    "hybridHotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotspotB00002N5HG.json",
+    "markerUrl": "",
+    "bgImageUrl": "https://www.dropbox.com/s/g1d7zk6yh2ygqrg/download%20%281%29.jpeg?dl=1",
+    "version": 1,
+    "markerARProperties": {
+      "length": 3,
+      "width": -1,
+      "height": 5,
+      "xAngle": 0,
+      "yAngle": 0,
+      "zAngle": 0,
+      "pivotPosition": 0
+    },
+    "markerlessARProperties": {
+      "length": 3,
+      "width": -1,
+      "height": 5,
+      "xAngle": 0,
+      "yAngle": 0,
+      "zAngle": 0,
+      "pivotPosition": 0
+    },
+    "baseProduct": [
+      {
+        "faceName": "Quad_1",
+        "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Q230.jpg",
+        "webUrl": "https://www.google.com/"
+      },
+      {
+        "faceName": "Quad_2",
+        "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Q230.jpg",
+        "webUrl": "https://www.google.com/"
       }
-    }
+    ],
+    "subproduct": [
+      {
+        "childUrl": "_1",
+        "description": "Lorem Ipsum is simply dummy text q231",
+        "name": "q231",
+        "title": "Prod1",
+        "webUrl": "https://www.google.com/",
+        "systemProperties": "V1;A1;S1;S2;S3"
+      },
+      {
+        "childUrl": "_2",
+        "description": "Lorem Ipsum is simply dummy text q232",
+        "name": "q232",
+        "title": "Prod2",
+        "webUrl": "https://www.google.com/",
+        "systemProperties": "V1;A1;S1;S2;S3"
+      },
+      {
+        "childUrl": "_3",
+        "description": "Lorem Ipsum is simply dummy text q233",
+        "name": "q233",
+        "title": "Prod2",
+        "webUrl": "https://www.google.com/",
+        "systemProperties": "V1;A1;S1;S2;S3"
+      }
+    ]
+  }
+}
