@@ -18,7 +18,7 @@
        "markerARProperties": {
          "length": 1,
          "pivotPosition": 0,
-         "width": -1,
+         "width": 2,
          "height": 2,
          "xAngle": 0,
          "yAngle": 0,
@@ -27,7 +27,7 @@
        "markerlessARProperties": {
          "length": 1,
          "pivotPosition": 0,
-         "width": -1,
+         "width": 2,
          "height": 2,
          "xAngle": 0,
          "yAngle": 0,
@@ -61,55 +61,6 @@
            "description": "Prod1",
            "name": "B0848LHW8N_1",
            "title": "Prod1",
-           "webUrl": "https://www.google.com/"
-         },
-         {
-           "childUrl": "_2",
-           "description": "Prod2",
-           "name": "B0848LHW8N_2",
-           "title": "Prod2",
-           "webUrl": "https://www.google.com/"
-         },
-         {
-           "childUrl": "_3",
-           "description": "Prod3",
-           "name": "B0848LHW8N_1",
-           "title": "Prod3",
-           "webUrl": "https://www.google.com/"
-         },
-         {
-           "childUrl": "_4",
-           "description": "Prod4",
-           "name": "B0848LHW8N_2",
-           "title": "Prod4",
-           "webUrl": "https://www.google.com/"
-         },
-         {
-           "childUrl": "_5",
-           "description": "Prod5",
-           "name": "B0848LHW8N_1",
-           "title": "Prod5",
-           "webUrl": "https://www.google.com/"
-         },
-         {
-           "childUrl": "_6",
-           "description": "Prod6",
-           "name": "B0848LHW8N_2",
-           "title": "Prod6",
-           "webUrl": "https://www.google.com/"
-         },
-         {
-           "childUrl": "_7",
-           "description": "Prod7",
-           "name": "B0848LHW8N_1",
-           "title": "Prod7",
-           "webUrl": "https://www.google.com/"
-         },
-         {
-           "childUrl": "_8",
-           "description": "Prod8",
-           "name": "B0848LHW8N_2",
-           "title": "Prod8",
            "webUrl": "https://www.google.com/"
          }
        ]
