@@ -18,7 +18,7 @@
        "markerARProperties": {
          "length": 1,
          "pivotPosition": 0,
-         "width": 2,
+         "width": 0.5,
          "height": 2,
          "xAngle": 0,
          "yAngle": 0,
@@ -27,7 +27,7 @@
        "markerlessARProperties": {
          "length": 1,
          "pivotPosition": 0,
-         "width": 2,
+         "width": 0.5,
          "height": 2,
          "xAngle": 0,
          "yAngle": 0,
