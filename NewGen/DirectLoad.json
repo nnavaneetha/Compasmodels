@@ -53,6 +53,12 @@
       "webUrlName": "switchboards",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/switchboard.json",
       "systemProperties" : "V1;A1;S1;S2;S3"
+    },
+    {
+      "iD":"D010",
+      "webUrlName": "Q120",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/Q120.json",
+      "systemProperties" : "V1;A1;S1;S2;S3"
     }
   ]
 }
