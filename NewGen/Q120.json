@@ -53,6 +53,16 @@
            "faceName": "Quad_4",
            "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/Q120_4.png",
            "webUrl": "https://www.google.com/"
+         },
+         {
+           "faceName": "Quad_5",
+           "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/Q120_6.png",
+           "webUrl": "https://www.google.com/"
+         },
+         {
+           "faceName": "Quad_6",
+           "faceImageUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/Q120_6.png",
+           "webUrl": "https://www.google.com/"
          }
        ],
        "subproduct": [
