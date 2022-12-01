@@ -3,7 +3,7 @@
    {
       "environment": "https://www.siemens.com/global/en.html",
       "defaultExt": "",
-      "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Testfavicon.ico",
+      "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/icon-siemens.png",
       "title": "Siemens",
       "iD": "C002",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
@@ -19,10 +19,10 @@
       "isDirectLoad": true
     },
     {
-      "environment": "https://www.amazon.com/Q120-20-Amp-Single-Circuit-Breaker/dp/B00002N5HG",
+      "environment": "https://beta.compasquality.siemens-info.com/COMPASAppStore/SIvision/",
       "defaultExt": "",
-      "path": "https://www.amazon.in/favicon.ico",
-      "title": "Amazon",
+      "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/icon-siemens.png",
+      "title": "SIVision",
       "iD": "C008",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
