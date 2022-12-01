@@ -12,8 +12,8 @@
     {
       "environment": "https://contractor.compas.siemens-info.com/",
       "defaultExt": "",
-      "path": "https://www.dropbox.com/s/of2n2yz185a6gyg/screenshot%403x.png?dl=1",
-      "title": "Contractor",
+      "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/icon-siemens.png",
+      "title": "COMPAS Contractor",
       "iD": "C004",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
@@ -26,6 +26,30 @@
       "iD": "C008",
       "directLoadUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/DirectLoad.json",
       "isDirectLoad": true
+    },
+    {
+     "environment": "https://www.amazon.com/Q120-20-Amp-Single-Circuit-Breaker/dp/B00002N5HG",
+			"defaultExt": "",
+			"path":"https://www.amazon.in/favicon.ico",
+       "title":"Amazon - Q120",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+    },
+    {
+     "environment": "https://www.youtube.com/playlist?list=PLw7lLwXw4H51sXAxWBzNQtXFATKxY4DoG",
+			"defaultExt": "",
+			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/youtube.png",
+       "title":"Volt stream",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
+    },
+    {
+     "environment": "https://sketchfab.com/3d-models/3va4160-5ed34-0aa0-g-84f6697d5b9046d38e8d8bac1d0a66e5",
+			"defaultExt": "",
+			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/icon-siemens.png",
+       "title":"3VA4160-5ED34-0AA0_G",
+			"hybridModelBaseUrl":"",
+			"isDirectLoad":false
     }
   ],
   "version": "23",
