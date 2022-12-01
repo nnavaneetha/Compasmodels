@@ -30,7 +30,7 @@
     {
      "environment": "https://www.amazon.com/Q120-20-Amp-Single-Circuit-Breaker/dp/B00002N5HG",
 			"defaultExt": "",
-			"path":"https://www.amazon.in/favicon.ico",
+			"path":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/amazon.png",
        "title":"Amazon - Q120",
 			"hybridModelBaseUrl":"",
 			"isDirectLoad":false
