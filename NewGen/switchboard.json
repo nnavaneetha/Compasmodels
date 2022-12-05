@@ -68,8 +68,22 @@
        "subproduct": [
          {
            "childUrl": "_1",
-           "description": "Prod1",
-           "name": "B0848LHW8N_1",
+           "description": "switchbaord1",
+           "name": "switchbaord1",
+           "title": "Prod1",
+           "webUrl": "https://www.google.com/"
+         },
+          {
+           "childUrl": "_2",
+           "description": "switchbaord2",
+           "name": "switchbaord2",
+           "title": "Prod1",
+           "webUrl": "https://www.google.com/"
+         },
+         {
+           "childUrl": "_3",
+           "description": "switchbaord3",
+           "name": "switchbaord3",
            "title": "Prod1",
            "webUrl": "https://www.google.com/"
          }
