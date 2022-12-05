@@ -70,21 +70,21 @@
            "childUrl": "_1",
            "description": "switchbaord1",
            "name": "switchbaord1",
-           "title": "Prod1",
+           "title": "switchbaord1",
            "webUrl": "https://www.google.com/"
          },
           {
            "childUrl": "_2",
            "description": "switchbaord2",
            "name": "switchbaord2",
-           "title": "Prod1",
+           "title": "switchbaord2",
            "webUrl": "https://www.google.com/"
          },
          {
-           "childUrl": "_3",
-           "description": "switchbaord3",
-           "name": "switchbaord3",
-           "title": "Prod1",
+           "childUrl": "_4",
+           "description": "switchbaord4",
+           "name": "switchbaord4",
+           "title": "switchbaord4",
            "webUrl": "https://www.google.com/"
          }
        ]
