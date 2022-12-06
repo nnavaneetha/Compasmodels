@@ -98,8 +98,14 @@
     },
     {
       "iD":"D015",
-      "webUrlName": "Q120",
-      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/3va6.json",
+      "webUrlName": "B00002N5HG",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/M15_QA115AFCP.json",
+      "systemProperties" : "V1;A1;S1;S2;S3"
+    },
+    {
+      "iD":"D016",
+      "webUrlName": "q120",
+      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/M15_QA115AFCP.json",
       "systemProperties" : "V1;A1;S1;S2;S3"
     }
   ]
