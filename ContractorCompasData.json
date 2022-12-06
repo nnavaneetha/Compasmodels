@@ -19,7 +19,7 @@
       "isDirectLoad": true
     },
     {
-      "environment": "https://beta.compasquality.siemens-info.com/COMPASAppStore/SIvision/",
+      "environment": "https://sivision.compas.siemens-info.com/",
       "defaultExt": "",
       "path": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/icon-siemens.png",
       "title": "SIVision",
