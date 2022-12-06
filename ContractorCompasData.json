@@ -63,22 +63,22 @@
   "iOSModelUrlBase": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/iOSData.json",
   "SystemProperties": [
     {
-      "parameter": "Voltage",
-      "value": "V1;V2;V3;V4;V5"
+      "parameter": "Sketchfab",
+      "value": "Group Metering;Panelboards;RESI Breakers;3VA and MCCB;Switches;Load Centers"
     },
     {
-      "parameter": "Ampere",
-      "value": "A1;A2;A3;A4;A5"
+      "parameter": "Busway",
+      "value": "Busway;Sentron Busway;Surge protection;Bus plug;wall hanger"
     },
     {
-      "parameter": "Sample1",
-      "value": "S1;S2;S3;S4;S5"
+      "parameter": "Topics",
+      "value": "DCC Content;Volt Stream;MCC;Metering Solution;Switchboard"
     },
     {
-      "parameter": "Sample2",
-      "value": "S1;S2;S3;S4;S5"
+      "parameter": "Enclosure Type",
+      "value": "1 Indoor;3R Outdoor;4x stainless;4x non metalic"
     },{
-      "parameter": "Sample3",
+      "parameter": "Switchboard",
       "value": "S1;S2;S3;S4;S5"
     }
   ]
