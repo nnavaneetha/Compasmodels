@@ -55,12 +55,6 @@
       "systemProperties" : "V1;A1;S1;S2;S3"
     },
     {
-      "iD":"D010",
-      "webUrlName": "Q120",
-      "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/Q120.json",
-      "systemProperties" : "V1;A1;S1;S2;S3"
-    },
-    {
       "iD":"D011",
       "webUrlName": "8c6f5a63-95fd-42f7-88db",
       "hybridDataUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/NewGen/busway_system.json",
